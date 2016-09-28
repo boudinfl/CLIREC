@@ -12,7 +12,7 @@ If you use this dataset, please cite the following articles:
    Florian Boudin, Jian-Yun Nie, Martin Dawes.
    *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2010.*
 
- - **[Deriving a test collection for clinical information retrieval from systematic reviews](/data/articles/boudin_dtmbio10.pdf).**
+ - **[Deriving a test collection for clinical information retrieval from systematic reviews](http://doi.acm.org/10.1145/1871871.1871882).**
    Florian Boudin, Jian-Yun Nie, Martin Dawes.
    *Data and Text Mining in Biomedical Informatics (DTMBIO), 2010.*
 
