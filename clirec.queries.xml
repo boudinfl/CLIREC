@@ -1,0 +1,3146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<queries>
+	<query id="A10.1" before="20091101" keywords="limb ischaemia and prostanoids">
+		<pop>Adults</pop> 
+		<prob>Critical limb ischaemia</prob> 
+		<int>Prostanoids</int>
+		<comp>Placebo</comp>
+		<out>mortality reduction</out> 
+	</query>
+	<query id="A10.2" before="20091101" keywords="limb ischaemia and prostanoids">
+		<pop>Adults</pop> 
+		<prob>Critical limb ischaemia</prob> 
+		<int>Prostanoids</int>
+		<comp>other pharmaceuticals controls</comp>
+		<out>disease progression reduction</out> 
+	</query>
+	<query id="A11.1" before="20090501" keywords="Quetiapine and schizophrenia">
+		<pop>Adults</pop> 
+		<prob>Schizophrenia and schizophrenia-like symptoms</prob> 
+		<int>Quetiapine</int>
+		<comp>Other second generation antipsychotic drugs</comp>
+		<out>Drug effects</out> 
+	</query>
+	<query id="A12.1" before="20090201" keywords="Chronic asthma and formoterol and inhaled corticosteroids">
+		<pop>Adults</pop> 
+		<prob>Chronic asthma</prob> 
+		<int>Regular formoterol + inhaled corticosteroids</int>
+		<comp>Regular selmeterol + inhaled corticosteroids</comp>
+		<out>Mortality risk</out> 
+		<dur>12 weeks</dur>
+	</query>
+	<query id="A12.2" before="20090201" keywords="Chronic asthma and formoterol and inhaled corticosteroids">
+		<pop>Adults</pop> 
+		<prob>Chronic asthma</prob> 
+		<int>Regular formoterol + inhaled corticosteroids</int>
+		<comp>Regular selmeterol + inhaled corticosteroids</comp>
+		<out>Non-fatal serious adverse events</out> 
+		<dur>12 weeks</dur>
+	</query>
+	<query id="A13.1" before="20080201" keywords="hip fracture and physical and psychosocial functioning">
+		<pop>Older adults</pop> 
+		<prob>Hip fracture</prob> 
+		<int>interventions aimed at improving physical and psychosocial functioning</int>
+		<comp>No intervention</comp>
+		<out>physical and psychosocial function</out> 
+		<dur>12 months</dur>
+	</query>
+	<query id="A13.2" before="20080201" keywords="hip fracture and physical and psychosocial functioning">
+		<pop>Older adults</pop> 
+		<prob>Hip fracture</prob> 
+		<int>interventions aimed at improving physical and psychosocial functioning</int>
+		<comp>No intervention</comp>
+		<out>"poor outcome" (composite of mortality, failure to return to independent living and/or readmission)</out> 
+		<dur>12 months</dur>
+	</query>
+	<query id="A14.1" before="20080201" keywords="Pericoital hormonal contraception">
+		<pop>Women</pop> 
+		<prob>Pericoital</prob> 
+		<int>Pre- and postcoital hormonal contraception</int>
+		<comp>No intervention</comp>
+		<out>Pregnancy prevention</out> 
+		<dur>12 months</dur>
+	</query>
+	<query id="A15.1" before="20090501" keywords="Labour (labor) and fluid or food restriction">
+		<pop>Women</pop> 
+		<prob>Labour (labor)</prob> 
+		<int>oral fluid or food restriction</int>
+		<comp>free eating and drinking</comp>
+		<out>Benefits and harm</out>
+	</query>
+	<query id="A16.1" before="20090101" keywords="hamstring injuries and prevention">
+		<pop>Young adults</pop> 
+		<prob>Regularly practicing sports</prob> 
+		<int>Interventions</int>
+		<comp>No interventions</comp>
+		<out>preventing hamstring injuries</out>
+	</query>
+	<query id="A16.2" before="20090101" keywords="hamstring injuries and prevention">
+		<pop>Young adults</pop> 
+		<prob>Regularly practicing sports</prob> 
+		<int>Interventions</int>
+		<comp>No interventions</comp>
+		<out>Compliance</out>
+	</query>
+	<query id="A17.1" before="20060901" keywords="Barrett's oesophagus treatment">
+		<pop>Adults</pop> 
+		<prob>Barrett&apos;s oesophagus</prob>
+		<int>Pharmacological treatment</int>
+		<comp>Endoscopic Treatment</comp>
+		<out>Complete eradication of Barret&apos;s oesophagus</out>
+		<dur>12 months</dur>
+	</query>
+	<query id="A17.2" before="20060901" keywords="Barrett's oesophagus treatment">
+		<pop>Adults</pop> 
+		<prob>Barrett&apos;s oesophagus</prob> 
+		<int>Pharmacological treatment</int>
+		<comp>Non-resectional surgical treatment</comp>
+		<out>Complete eradication of dysplasia</out>
+		<dur>12 months</dur>
+	</query>
+	<query id="A18.1" before="20091001" keywords="risk of disease and body image and visual feedback">
+		<pop>Adults</pop> 
+		<prob>Undergoing medical imaging procedures assessing risk of disease or of an existing condition</prob> 
+		<int>Visual feedback of images of individual&apos;s bodies</int>
+		<comp>No feedback</comp>
+		<out>Increase or decrease in health behaviours</out>
+	</query>
+	<query id="A19.1" before="20090301" keywords="asthma and therapy adjustment">
+		<pop>Children and Adults</pop> 
+		<prob>Asthma</prob> 
+		<int>Methods based on exhaled nitric oxide</int>
+		<comp>Methods based on primarily clinical symptoms and spirometry/peak flow</comp>
+		<out>Efficacy of therapy adjustment</out>
+	</query>
+	<query id="A20.1" before="20040201" keywords="Tamoxifen and Hepatocellular carcinoma">
+		<pop>Adults</pop> 
+		<prob>Advanced hepatocellular carcinoma</prob> 
+		<int>Tamoxifen</int>
+		<comp>Placebo</comp>
+		<out>Survival</out>
+	</query>
+	<query id="A20.2" before="20040201" keywords="Tamoxifen and Hepatocellular carcinoma">
+		<pop>Adults</pop> 
+		<prob>Advanced hepatocellular carcinoma</prob> 
+		<int>Tamoxifen</int>
+		<comp>Best supportive care</comp>
+		<out>quality of life</out>
+	</query>
+	<query id="A21.1" before="20090801" keywords="Retinal detachment and tamponade agent">
+		<pop>Adults</pop> 
+		<prob>Retinal detachment with proliferative vitreoretinopathy</prob> 
+		<int>Surgery + silicone oil</int>
+		<comp>Surgery + sulphur hexafluoride</comp>
+		<out>adverse outcomes</out>
+	</query>
+	<query id="A1.1" before="20091101" keywords="bariatric surgery and steatohepatitis and obese">
+		<pop>Obese patients</pop> 
+		<prob>Non-alcoholic steatohepatitis (NASH)</prob> 
+		<int>Bariatric surgery</int> 
+		<comp>No intervention</comp> 
+		<out>All-cause mortality</out> 
+		<dur>Maximal follow-up</dur>
+	</query>
+	<query id="A1.2" before="20091101" keywords="bariatric surgery and steatohepatitis and obese">
+		<pop>Obese patients</pop> 
+		<prob>Non-alcoholic steatohepatitis (NASH)</prob> 
+		<int>Bariatric surgery</int>
+		<comp>Placebo (Sham procedure)</comp>
+		<out>Surgical-related mortality</out>
+	</query>
+	<query id="A2.1" before="20091001" keywords="Benzodiazepines and respiratory disease">
+		<pop>Adult patients</pop> 
+		<prob>advanced cancer and COPD</prob> 
+		<int>Benzodiazepines (alprazolam, lorazepam, midazolam, etc)</int> 
+		<comp>Placebo</comp> 
+		<out>breathlessness relief</out> 
+		<dur>5 days (median for all drugs)</dur>
+	</query>
+	<query id="A2.2" before="20091001" keywords="Benzodiazepines and respiratory disease">
+		<pop>Adult patients</pop> 
+		<prob>advanced cancer and COPD</prob> 
+		<int>Benzodiazepines (alprazolam, lorazepam, midazolam, etc)</int> 
+		<comp>Morphine</comp> 
+		<out>breathlessness relief</out> 
+		<dur>5 days (median for all drugs)</dur>
+	</query>
+	<query id="A3.1" before="20090801" keywords="hypertension and beta-blockers">
+		<pop>Adult patients</pop> 
+		<prob>Primary Hypertension</prob> 
+		<int>Beta-blockers and drug from another class of anti-hypertensive</int> 
+		<comp>the other drug from another class of anti-hypertensive alone</comp> 
+		<out>effect on blood pressure and heart rate</out> 
+		<dur>3 to 12 weeks</dur>
+	</query>
+	<query id="A22.1" before="20100501" keywords="Tamsulosin and benign prostatic hyperplasia">
+		<pop>Men</pop> 
+		<prob>Benign prostatic hyperplasia</prob> 
+		<int>Tamusolin</int>
+		<comp>Placebo</comp>
+		<out>Lower urinary tract symptoms</out>
+	</query>
+	<query id="A22.2" before="20100501" keywords="Tamsulosin and benign prostatic hyperplasia">
+		<pop>Men</pop> 
+		<prob>Benign prostatic hyperplasia</prob> 
+		<int>Tamusolin</int>
+		<comp>Surgical interventions</comp>
+		<out>Urodynamic measures</out>
+	</query>
+	<query id="A23.1" before="20070201" keywords="Propofol and general sedation and infusion">
+		<pop>Adults</pop> 
+		<prob>General anaesthesia</prob> 
+		<int>Target-controlled infusion</int>
+		<comp>manually-controlled infusion</comp>
+		<out>Sedation</out>
+	</query>
+	<query id="A23.2" before="20070201" keywords="Propofol and general sedation and infusion">
+		<pop>Adults</pop> 
+		<prob>General anaesthesia</prob> 
+		<int>Target-controlled infusion</int>
+		<comp>manually-controlled infusion</comp>
+		<out>Adverse events</out>
+	</query>
+	<query id="A24.1" before="20070201" keywords="Targeted therapy and advanced renal cell carcinoma">
+		<pop>Adults</pop> 
+		<prob>Advanced renal cell carcinoma</prob> 
+		<int>Targeted agents</int>
+		<comp>Different doses of same agent</comp>
+		<out>Remission rate</out>
+	</query>
+	<query id="A24.2" before="20070201" keywords="Targeted therapy and advanced renal cell carcinoma">
+		<pop>Adults</pop> 
+		<prob>Advanced renal cell carcinoma</prob> 
+		<int>Targeted agents</int>
+		<comp>Standard interferon-alfa</comp>
+		<out>Overall survival</out>
+	</query>
+	<query id="A25.1" before="20060201" keywords="Asthma and Tartrazine">
+		<pop>Adults</pop> 
+		<prob>Asthma</prob> 
+		<int>Tartrazine</int>
+		<comp>Placebo</comp>
+		<out>Asthma exacerbation</out>
+	</query>
+	<query id="A25.2" before="20060201" keywords="Asthma and Tartrazine">
+		<pop>Adults</pop> 
+		<prob>Asthma</prob> 
+		<int>Tartrazine dietary avoidance</int>
+		<comp>Normal diet</comp>
+		<out>Asthma exacerbation</out>
+	</query>
+	<query id="A26.1" before="20070201" keywords="Early breast cancer and Taxanes">
+		<pop>Women</pop> 
+		<prob>Early breast cancer</prob> 
+		<int>chemotherapy containing Taxane</int>
+		<comp>chemotherapy no containing Taxane</comp>
+		<out>Overall survival</out> 
+		<dur>60.4 months (median)</dur>
+	</query>
+	<query id="A26.2" before="20070201" keywords="Early breast cancer and Taxanes">
+		<pop>Women</pop> 
+		<prob>Early breast cancer</prob> 
+		<int>chemotherapy containing Taxane</int>
+		<comp>chemotherapy no containing Taxane</comp>
+		<out>disease-free survival</out> 
+		<dur>60.4 months (median)</dur>
+	</query>
+	<query id="A27.1" before="20030201" keywords="Caesarian section and closure techniques">
+		<pop>Women</pop> 
+		<prob>Caesarean section</prob> 
+		<int>closure of subcutaneous fat</int>
+		<comp>non-closure of subcutaneous fat</comp>
+		<out>Postoperative recovery</out>
+	</query>
+	<query id="A27.2" before="20030201" keywords="Caesarian section and closure techniques">
+		<pop>Women</pop> 
+		<prob>Caesarean section</prob> 
+		<int>any suturing technique or material used for closure of the rectus sheath</int>
+		<comp>any other technique</comp>
+		<out>Healthcare resource use</out>
+	</query>
+	<query id="A28.1" before="20050101" keywords="MMR and effectiveness">
+		<pop>Children</pop> 
+		<prob>healthy, &lt; or = 15 years old</prob> 
+		<int>MMR</int>
+		<comp>Placebo</comp>
+		<out>Viral Infection</out>
+	</query>
+	<query id="A28.2" before="20050101" keywords="MMR and effectiveness">
+		<pop>Children</pop> 
+		<prob>healthy, &lt; or = 15 years old</prob> 
+		<int>MMR</int>
+		<comp>Placebo</comp>
+		<out>Unintended effects</out>
+	</query>
+	<query id="A29.1" before="20081201" keywords="Anthrax and vaccines">
+		<pop>Adults and teenagers</pop> 
+		<prob>Anthrax seronegative individuals (&gt;14)</prob> 
+		<int>anthrax vaccine</int>
+		<comp>Placebo</comp>
+		<out>Immunogenicity</out>
+	</query>
+	<query id="A29.2" before="20081201" keywords="Anthrax and vaccines">
+		<pop>Adults and teenagers</pop> 
+		<prob>Anthrax seronegative individuals</prob> 
+		<int>anthrax vaccine</int>
+		<comp>Placebo</comp>
+		<out>vaccine safety</out>
+	</query>
+	<query id="A30.1" before="20081201" keywords="Cystic fibrosis and Pseudomonas aeruginosa infection prevention">
+		<pop>Different ages</pop> 
+		<prob>Cystic fibrosis</prob> 
+		<int>Pseudomonas aeruginosa vaccines</int>
+		<comp>Control vaccines</comp>
+		<out>Pseudomonas aeruginosa</out>
+	</query>
+	<query id="A30.2" before="20081201" keywords="Cystic fibrosis and Pseudomonas aeruginosa infection prevention">
+		<pop>Different ages</pop> 
+		<prob>Cystic fibrosis</prob> 
+		<int>Pseudomonas aeruginosa vaccines</int>
+		<comp>No intervention</comp>
+		<out>Pseudomonas aeruginosa</out>
+	</query>
+	<query id="A31.1" before="20030301" keywords="vaccine and hepatitis B">
+		<pop>Adults</pop> 
+		<prob>Health-care workers</prob> 
+		<int>Hepatitis B plasma-derived vaccine</int>
+		<comp>Placebo</comp>
+		<out>Hepatitis B events</out> 
+		<dur>maximum follow-up</dur>
+	</query>
+	<query id="A31.2" before="20030301" keywords="vaccine and hepatitis B">
+		<pop>Adults</pop> 
+		<prob>Health-care workers</prob> 
+		<int>Hepatitis B recombinant vaccine</int>
+		<comp>No intervention</comp>
+		<out>Hepatitis B events</out> 
+		<dur>maximum follow-up</dur>
+	</query>
+	<query id="A32.1" before="20080101" keywords="influenza vaccine and asthma">
+		<pop>Adults and children</pop> 
+		<prob>Asthma</prob> 
+		<int>Influenza vaccine</int>
+		<comp>No vaccine</comp>
+		<out>Asthma exacerbations</out> 
+		<dur>Two weeks</dur>
+	</query>
+	<query id="A33.1" before="20070401" keywords="Japanese encephalitis and vaccine">
+		<pop>Children</pop> 
+		<prob>Never had Japanese encephalitis</prob> 
+		<int>Japanese encephalitis vaccine</int>
+		<comp>Placebo</comp>
+		<out>Japanese encephalitis</out>
+	</query>
+	<query id="A33.2" before="20070401" keywords="Japanese encephalitis and vaccine">
+		<pop>Children</pop> 
+		<prob>Never had Japanese encephalitis</prob> 
+		<int>Japanese encephalitis vaccine</int>
+		<comp>No intervention</comp>
+		<out>Adverse events</out>
+	</query>
+	<query id="A34.1" before="20060401" keywords="malaria and pre-erythrocytic vaccine">
+		<pop>Any age people</pop> 
+		<prob>malaria infection exposure</prob> 
+		<int>pre-erythrocytic vaccine</int>
+		<comp>Placebo</comp>
+		<out>Malaria attack</out>
+	</query>
+	<query id="A34.2" before="20060401" keywords="malaria and pre-erythrocytic vaccine">
+		<pop>Any age people</pop> 
+		<prob>malaria infection exposure</prob> 
+		<int>pre-erythrocytic vaccine</int>
+		<comp>control vaccine</comp>
+		<out>Malaria attack</out>
+	</query>
+	<query id="A35.1" before="20070101" keywords="smallpox and vaccine">
+		<pop>Adults and children</pop> 
+		<prob>No previous smallpox infection</prob> 
+		<int>Smallpox vaccine</int>
+		<comp>Placebo</comp>
+		<out>Disease prevention</out>
+	</query>
+	<query id="A35.2" before="20070101" keywords="smallpox and vaccine">
+		<pop>Adults and children</pop> 
+		<prob>No previous smallpox infection</prob> 
+		<int>Smallpox vaccine</int>
+		<comp>Non-smallpox vaccine</comp>
+		<out>Adverse events</out>
+	</query>
+	<query id="A36.1" before="20080701" keywords="Tick-borne encephalitis and vaccine">
+		<pop>Adults + children</pop> 
+		<prob>Tick-borne viral infection free</prob> 
+		<int>Tick-borne encephalitis vaccine</int>
+		<comp>Placebo</comp>
+		<out>Immunogenicity</out>
+	</query>
+	<query id="A36.2" before="20080701" keywords="Tick-borne encephalitis and vaccine">
+		<pop>Adults + children</pop> 
+		<prob>Tick-borne viral infection free</prob> 
+		<int>Tick-borne encephalitis vaccine</int>
+		<comp>Control vaccines</comp>
+		<out>Adverse effects</out>
+	</query>
+	<query id="A37.1" before="20060901" keywords="male sterilization and vasectomy">
+		<pop>Adults</pop> 
+		<prob>Males</prob> 
+		<int>vas occlusion vasectomy technique</int>
+		<comp>conventional vasectomy technique</comp>
+		<out>azoospermia</out>
+	</query>
+	<query id="A37.2" before="20060901" keywords="male sterilization and vasectomy">
+		<pop>Adults</pop> 
+		<prob>Males</prob> 
+		<int>irrigation with water vasectomy technique</int>
+		<comp>no irrigation</comp>
+		<out>time to azoospermia</out>
+	</query>
+	<query id="A38.1" before="20030301" keywords="venous thromboembolism and low-molecular-weight heparins and vitamin K antagonists">
+		<pop>Adults</pop> 
+		<prob>venous thromboembolism (VTE)</prob> 
+		<int>low-molecular-weight heparins</int>
+		<comp>vitamin K antagonists</comp>
+		<out>recurrent symptomatic VTE</out> 
+		<dur>3-6 months</dur>
+	</query>
+	<query id="A38.2" before="20030301" keywords="venous thromboembolism and low-molecular-weight heparins and vitamin K antagonists">
+		<pop>Adults</pop> 
+		<prob>venous thromboembolism (VTE)</prob> 
+		<int>low-molecular-weight heparins</int>
+		<comp>vitamin K antagonists</comp>
+		<out>Bleeding</out> 
+		<dur>3-6 months</dur>
+	</query>
+	<query id="A39.1" before="20070101" keywords="Epilepsy and vitamins">
+		<pop>Any age individuals</pop> 
+		<prob>Epilepsy</prob> 
+		<int>Vitamine/s + ADEs</int>
+		<comp>Placebo</comp>
+		<out>seizure control</out>
+	</query>
+	<query id="A39.2" before="20070101" keywords="Epilepsy and vitamins">
+		<pop>Any age individuals</pop> 
+		<prob>Epilepsy</prob> 
+		<int>Vitamine/s</int>
+		<comp>Other treatment</comp>
+		<out>Seizure control</out>
+	</query>
+	<query id="A39.3" before="20070101" keywords="Epilepsy and vitamins">
+		<pop>Any age individuals</pop> 
+		<prob>Epilepsy</prob> 
+		<int>Vitamine/s + ADEs</int>
+		<comp>Other treatment</comp>
+		<out>AEDs adverse events</out>
+	</query>
+	<query id="A40.1" before="20080401" keywords="Vigabatrin and refractory partial epilepsy">
+		<pop>All ages</pop> 
+		<prob>Drug-resistant partial epilepsy</prob> 
+		<int>Vigabatrin</int>
+		<comp>Placebo</comp>
+		<out>Seizure frequency</out>
+	</query>
+	<query id="A40.2" before="20080401" keywords="Vigabatrin and refractory partial epilepsy">
+		<pop>All ages</pop> 
+		<prob>Drug-resistant partial epilepsy</prob> 
+		<int>Vigabatrin</int>
+		<comp>Placebo</comp>
+		<out>treatment withdrawn</out>
+	</query>
+	<query id="A41.1" before="20051001" keywords="peripheral neuropathy and vitamin B">
+		<pop>Adults</pop> 
+		<prob>Alcoholic or diabetic neuropathy</prob> 
+		<int>Vitamin B</int>
+		<comp>Placebo</comp>
+		<out>Symptoms improvement</out> 
+		<dur>one month</dur>
+	</query>
+	<query id="A41.2" before="20051001" keywords="peripheral neuropathy and vitamin B">
+		<pop>Adults</pop> 
+		<prob>Alcoholic or diabetic neuropathy</prob> 
+		<int>Vitamin B high dose</int>
+		<comp>Vitamine B low dose</comp>
+		<out>Symptoms improvement</out> 
+		<dur>2 weeks</dur>
+	</query>
+	<query id="A42.1" before="20090201" keywords="Pneumonia and vitamin C">
+		<pop>Adults and elderly</pop> 
+		<prob>Pneumonia</prob> 
+		<int>Vitamin C</int>
+		<comp>Placebo</comp>
+		<out>Duration of symptoms</out> 
+		<dur>4 weeks - 6 months</dur>
+	</query>
+	<query id="A42.2" before="20090201" keywords="Pneumonia and vitamin C">
+		<pop>Adults and elderly</pop> 
+		<prob>Pneumonia</prob> 
+		<int>Vitamin C</int>
+		<comp>Placebo</comp>
+		<out>Mortality</out>
+	</query>
+	<query id="A42.3" before="20090201" keywords="Pneumonia and vitamin C">
+		<pop>Young adults</pop> 
+		<prob>Pneumonia free</prob> 
+		<int>Vitamin C</int>
+		<comp>With or without Placebo</comp>
+		<out>Incidence of pneumonia</out> 
+		<dur>6 months</dur>
+	</query>
+	<query id="A43.1" before="20090501" keywords="washout and term indwelling urinary catheterization">
+		<pop>adults</pop> 
+		<prob>long-term indwelling urinary catheterization</prob> 
+		<int>Washout</int>
+		<comp>No-washout</comp>
+		<out>mean time to first catheter change</out> 
+		<dur>8 weeks</dur>
+	</query>
+	<query id="A43.2" before="20090501" keywords="washout and term indwelling urinary catheterization">
+		<pop>adults</pop> 
+		<prob>long-term indwelling urinary catheterization</prob> 
+		<int>Saline washout solution</int>
+		<comp>Acidic washout solution</comp>
+		<out>Bacteriuria</out> 
+		<dur>12 weeks</dur>
+	</query>
+	<query id="A44.1" before="20070701" keywords="Weighted vaginal cones and urinary incontinence">
+		<pop>Women</pop> 
+		<prob>Stress urinary incontinence</prob> 
+		<int>Weighted Passive vaginal cones</int>
+		<comp>Weighted Active vaginal cones</comp>
+		<out>Leakage activity index</out>
+	</query>
+	<query id="A44.2" before="20070701" keywords="Weighted vaginal cones and urinary incontinence">
+		<pop>Women</pop> 
+		<prob>Stress urinary incontinence</prob> 
+		<int>Weighted vaginal cones</int> 
+		<comp>Continence Guard</comp> 
+		<out>Stress Pad test</out> 
+		<dur>6 months</dur>
+	</query>
+	<query id="A45.1" before="20060601" keywords="Whole grain foods and type 2 diabetes">
+		<pop>Adults</pop> 
+		<prob>Obese hyperinsulinemic</prob> 
+		<int>Diet rich in whole-grain foods</int>
+		<comp>Diet rich in refined grain foods</comp>
+		<out>change in Insulin sensitivity</out> 
+		<dur>6 weeks</dur>
+	</query>
+	<query id="A46.1" before="19990301" keywords="2Forceps vacuum delivery">
+		<pop>Women</pop> 
+		<prob>Vaginal delivery</prob> 
+		<int>Vacuum extraction</int>
+		<comp>Forceps</comp>
+		<out>Maternal trauma</out>
+	</query>
+	<query id="A46.2" before="19990301" keywords="Forceps vacuum delivery">
+		<pop>Women</pop> 
+		<prob>Vaginal delivery</prob> 
+		<int>Vacuum extraction</int>
+		<comp>Forceps</comp>
+		<out>Neonatal morbidity</out>
+	</query>
+	<query id="A47.1" before="20071001" keywords="Vaginal chlorhexidine and group B streptococcal infection">
+		<pop>Women</pop> 
+		<prob>colonized with group B beta-hemolytic streptococcus</prob> 
+		<int>chlorhexidine during labor</int>
+		<comp>Placebo</comp>
+		<out>GBS colonization in neonates</out>
+	</query>
+	<query id="A47.2" before="20071001" keywords="Vaginal chlorhexidine and group B streptococcal infection">
+		<pop>Women</pop> 
+		<prob>colonized with group B beta-hemolytic streptococcus</prob> 
+		<int>chlorhexidine during labor</int>
+		<comp>No treatment</comp>
+		<out>early-onset GBS infection in term neonates</out>
+	</query>
+	<query id="A4.1" before="20090901" keywords="blood pressure and potassium-sparing diuretics">
+		<pop>adults</pop> 
+		<prob>primary hypertension</prob> 
+		<int>Potassium-sparing diuretics</int>
+		<comp>placebo</comp>
+		<out>blood-pressure</out> 
+		<dur>3 to 12 weeks</dur>
+	</query>
+	<query id="A4.2" before="20090901" keywords="blood pressure and potassium-sparing diuretics">
+		<pop>adults</pop> 
+		<prob>primary hypertension</prob> 
+		<int>Potassium-sparing diuretics + another class anti-hypertensive drug</int>
+		<comp>same another class anti-hypertensive drug</comp>
+		<out>blood-pressure</out> 
+		<dur>3 to 12 weeks</dur>
+	</query>
+	<query id="A6.1" before="20090201" keywords="cervical carcinoma and hyperthermia">
+		<pop>women</pop> 
+		<prob>locally advanced cervical carcinoma</prob> 
+		<int>hyperthermia + radiotherapy</int>
+		<comp>radiotherapy</comp>
+		<out>local tumor control</out>
+	</query>
+	<query id="A6.2" before="20090201" keywords="cervical carcinoma and hyperthermia">
+		<pop>women</pop> 
+		<prob>locally advanced cervical carcinoma</prob> 
+		<int>hyperthermia + radiotherapy</int>
+		<comp>radiotherapy</comp>
+		<out>treatment related morbidity</out>
+	</query>
+	<query id="A6.3" before="20090201" keywords="cervical carcinoma and hyperthermia">
+		<pop>women</pop> 
+		<prob>locally advanced cervical carcinoma</prob> 
+		<int>hyperthermia + radiotherapy</int>
+		<comp>radiotherapy</comp>
+		<out>survival</out>
+	</query>
+	<query id="A7.1" before="20090501" keywords="caesarean section and aspiration pneumonitis">
+		<pop>Women</pop> 
+		<prob>uncomplicated pregnancy</prob> 
+		<int>Intervention prior caesarean section</int>
+		<comp>No treatment</comp>
+		<out>Aspiration pneumonitis</out> 
+	</query>
+	<query id="A8.1" before="20080201" keywords="children with Chronic kidney disease and bone disease">
+		<pop>Children</pop> 
+		<prob>Chronic kidney disease</prob> 
+		<int>Vitamin D</int>
+		<comp>Placebo</comp>
+		<out>bone disease prevention</out> 
+	</query>
+	<query id="A8.2" before="20080201" keywords="children with Chronic kidney disease and bone disease">
+		<pop>Children</pop> 
+		<prob>Chronic kidney disease</prob> 
+		<int>Vitamin D</int>
+		<comp>Placebo</comp>
+		<out>bone disease improvement</out> 
+	</query>
+	<query id="A9.1" before="20090201" keywords="Haemodialysis and Central venous catheters and infectious complications">
+		<pop>Adults</pop> 
+		<prob>Haemodialysis patients with Central venous catheters</prob> 
+		<int>Prophylactic topical antimicrobials</int>
+		<comp>Topical antiseptics</comp>
+		<out>Infectious complications prevention</out> 
+	</query>
+	<query id="A9.2" before="20090201" keywords="Haemodialysis and Central venous catheters and infectious complications">
+		<pop>Adults</pop> 
+		<prob>Haemodialysis patients with Central venous catheters</prob> 
+		<int>Medicated dressings</int>
+		<comp>Non-medicated dressings</comp>
+		<out>Infectious complications prevention</out> 
+	</query>
+	<query id="C19.1" before="20091101" keywords="Neurodevelopmental disability and polycythemia">
+		<pop>Post-term, term or late preterm infants</pop> 
+		<prob>Neonatal polycythemia</prob> 
+		<int>Partial exchange transfusion</int>
+		<comp>Non-treatment</comp>
+		<out>Developmental delay at 18 months or older</out> 
+		<dur>Long-term</dur>
+	</query>
+	<query id="C19.2" before="20091101" keywords="Neurodevelopmental disability and polycythemia">
+		<pop>Post-term, term or late preterm infants</pop> 
+		<prob>Neonatal polycythemia</prob> 
+		<int>Partial exchange transfusion</int>
+		<comp>Non-treatment</comp>
+		<out>Neonatal mortality</out>
+	</query>
+	<query id="C19.3" before="20091101" keywords="Neurodevelopmental disability and polycythemia">
+		<pop>Post-term, term or late preterm infants</pop> 
+		<prob>Neonatal polycythemia</prob> 
+		<int>Partial exchange transfusion</int>
+		<comp>Non-treatment</comp>
+		<out>Necrotizing enterocolitis</out> 
+		<dur>Long-term</dur>
+	</query>
+	<query id="C20.1" before="20090401" keywords="Treadmill and Parkinson’s disease">
+		<pop>Patients of all ages</pop> 
+		<prob>Parkinson&apos;s disease</prob> 
+		<int>Treadmill training</int>
+		<comp>No treadmill training</comp>
+		<out>Gait speed</out>
+	</query>
+	<query id="C20.2" before="20090401" keywords="Treadmill and Parkinson’s disease">
+		<pop>Patients of all ages</pop> 
+		<prob>Parkinson&apos;s disease</prob> 
+		<int>Treadmill training</int>
+		<comp>No treadmill training</comp>
+		<out>Stride length</out>
+	</query>
+	<query id="C20.3" before="20090401" keywords="Treadmill and Parkinson’s disease">
+		<pop>Patients of all ages</pop> 
+		<prob>Parkinson&apos;s disease</prob> 
+		<int>Treadmill training</int>
+		<comp>No treadmill training</comp>
+		<out>Walking distance</out>
+	</query>
+	<query id="C21.1" before="20090601" keywords="Management and GORD or GERD (American vs European)">
+		<pop>Adults 14 years and older</pop> 
+		<prob>GORD</prob> 
+		<int>Medical management: proton pump inhibitors/histamine receptor antagonists</int>
+		<comp>Laparoscopic fundoplication surgery</comp>
+		<out>Health-related quality of life</out> 
+		<dur>Short-term</dur>
+	</query>
+	<query id="C21.2" before="20090601" keywords="Management and GORD or GERD (American vs European)">
+		<pop>Adults 14 years and older</pop> 
+		<prob>GORD</prob> 
+		<int>Medical management: proton pump inhibitors/histamine receptor antagonists</int>
+		<comp>Laparoscopic fundoplication surgery</comp>
+		<out>Cost</out> 
+		<dur>Short and long-term</dur>
+	</query>
+	<query id="C21.3" before="20090601" keywords="Management and GORD or GERD (American vs European)">
+		<pop>Adults 14 years and older</pop> 
+		<prob>GORD</prob> 
+		<int>Medical management: proton pump inhibitors/histamine receptor antagonists</int>
+		<comp>Laparoscopic fundoplication surgery</comp>
+		<out>Gastrointestinal Symptom Rating Scale (GSRS)</out>
+	</query>
+	<query id="C22.1" before="20091001" keywords="Ports and laparoscopic and cholecystectomy">
+		<pop>Patients of all ages</pop> 
+		<prob>Gallstones</prob> 
+		<int>Mini-laparoscopic cholecystectomy</int>
+		<comp>Conventional laparoscopic cholecystectomy</comp>
+		<out>Bile duct injury</out>
+	</query>
+	<query id="C22.2" before="20091001" keywords="Ports and laparoscopic and cholecystectomy">
+		<pop>Patients of all ages</pop> 
+		<prob>Gallstones</prob> 
+		<int>Mini-laparoscopic cholecystectomy</int>
+		<comp>Conventional laparoscopic cholecystectomy</comp>
+		<out>Re-operation</out>
+	</query>
+	<query id="C22.3" before="20091001" keywords="Ports and laparoscopic and cholecystectomy">
+		<pop>Patients of all ages</pop> 
+		<prob>Gallstones</prob> 
+		<int>Mini-laparoscopic cholecystectomy</int>
+		<comp>Conventional laparoscopic cholecystectomy</comp>
+		<out>Conversion to open cholecystectomy</out>
+	</query>
+	<query id="C23.1" before="20100101" keywords="Acetaminophen and perineal pain">
+		<pop>Women</pop> 
+		<prob>Perineal pain in the early postpartum period</prob> 
+		<int>Paracetamol (single administration, any dose)</int>
+		<comp>Placebo</comp>
+		<out>Adequate pain relief as reported by women</out> 
+		<dur>4 hours</dur>
+	</query>
+	<query id="C23.2" before="20100101" keywords="Acetaminophen and perineal pain">
+		<pop>Women</pop> 
+		<prob>Perineal pain in the early postpartum period</prob> 
+		<int>Paracetamol (single administration, any dose)</int>
+		<comp>Placebo</comp>
+		<out>Additional pain relief</out> 
+		<dur>4 hours</dur>
+	</query>
+	<query id="C23.3" before="20100101" keywords="Acetaminophen and perineal pain">
+		<pop>Women</pop> 
+		<prob>Perineal pain in the early postpartum period</prob> 
+		<int>Paracetamol (single administration, any dose)</int>
+		<comp>Placebo</comp>
+		<out>Maternal nausea</out> 
+		<dur>4 hours</dur>
+	</query>
+	<query id="C1.1" before="20080101" keywords="Osteoarthritis and Acupuncture">
+		<pop>adults</pop> 
+		<prob>peripheral joint arthritis</prob> 
+		<int>acupuncture</int>
+		<comp>sham acupuncture</comp>
+		<out>pain</out> 
+		<dur>short term</dur>
+	</query>
+	<query id="C1.2" before="20080101" keywords="Osteoarthritis and Acupuncture">
+		<pop>adults</pop> 
+		<prob>peripheral joint arthritis</prob> 
+		<int>acupuncture</int>
+		<comp>sham acupuncture</comp>
+		<out>pain</out> 
+		<dur>long term</dur>
+	</query>
+	<query id="C1.3" before="20080101" keywords="Osteoarthritis and Acupuncture">
+		<pop>adults</pop> 
+		<prob>peripheral joint arthritis</prob> 
+		<int>acupuncture</int>
+		<comp>waiting list control</comp>
+		<out>pain</out> 
+		<dur>short-term</dur>
+	</query>
+	<query id="C2.1" before="20090401" keywords="Otitis media and Adenoidectomy">
+		<pop>children up to 18 yrs of age</pop> 
+		<prob>otitis media</prob> 
+		<int>adenoidectomy with unilateral tympanostomy tube</int>
+		<comp>unilateral tympanostomy tubes</comp>
+		<out>resolution otitis media effusion</out> 
+		<dur>6 months</dur>
+	</query>
+	<query id="C2.2" before="20090401" keywords="Otitis media and Adenoidectomy">
+		<pop>children up to 18 yrs of age</pop> 
+		<prob>otitis media</prob> 
+		<int>adenoidectomy with unilateral tympanostomy tube</int>
+		<comp>unilateral tympanostomy tubes</comp>
+		<out>resolution otitis media effusion</out> 
+		<dur>12 months</dur>
+	</query>
+	<query id="C2.3" before="20090401" keywords="Otitis media and Adenoidectomy">
+		<pop>children up to 18 yrs of age</pop> 
+		<prob>otitis media</prob> 
+		<int>adenoidectomy with unilateral tympanostomy tube</int>
+		<comp>unilateral tympanostomy tubes</comp>
+		<out>hearing loss</out> 
+		<dur>6 months</dur>
+	</query>
+	<query id="C3.1" before="20070501" keywords="Amisulpride and Schizophrenia">
+		<pop>adults</pop> 
+		<prob>schizophrenia</prob> 
+		<int>amisulpride</int>
+		<comp>olanzapine</comp>
+		<out>global state: no clinically significant response</out>
+	</query>
+	<query id="C3.2" before="20070501" keywords="Amisulpride and Schizophrenia">
+		<pop>adults</pop> 
+		<prob>schizophrenia</prob> 
+		<int>amisulpride</int>
+		<comp>olanzapine</comp>
+		<out>global state: no clinically significant response</out> 
+		<dur>short-term</dur>
+	</query>
+	<query id="C3.3" before="20070501" keywords="Amisulpride and Schizophrenia">
+		<pop>adults</pop> 
+		<prob>schizophrenia</prob> 
+		<int>amisulpride</int>
+		<comp>olanzapine</comp>
+		<out>general mental state</out> 
+		<dur>short-term</dur>
+	</query>
+	<query id="C4.1" before="20090501" keywords="antenatal and cardiotocography">
+		<pop>women</pop> 
+		<prob>increased risk of complications at birth</prob> 
+		<int>antenatal cardiotocography</int>
+		<comp>no antenatal cardiotocography</comp>
+		<out>perinatal mortality</out>
+	</query>
+	<query id="C4.2" before="20090501" keywords="antenatal and cardiotocography">
+		<pop>women</pop> 
+		<prob>increased risk of complications at birth</prob> 
+		<int>antenatal cardiotocography</int>
+		<comp>no antenatal cardiotocography</comp>
+		<out>caesarian section</out>
+	</query>
+	<query id="C5.1" before="20090601" keywords="cardiotocography and pregnancy">
+		<pop>women</pop> 
+		<prob>cesarean section</prob> 
+		<int>antibiotic prophylaxis</int>
+		<comp>no prophylaxis</comp>
+		<out>febrile morbidity/fever</out>
+	</query>
+	<query id="C5.2" before="20090601" keywords="cardiotocography and pregnancy">
+		<pop>women</pop> 
+		<prob>cesarean section</prob> 
+		<int>antibiotic prophylaxis</int>
+		<comp>no prophylaxis</comp>
+		<out>maternal wound infection</out>
+	</query>
+	<query id="C5.3" before="20090601" keywords="cardiotocography and pregnancy">
+		<pop>women</pop> 
+		<prob>cesarean section</prob> 
+		<int>antibiotic prophylaxis</int>
+		<comp>no prophylaxis</comp>
+		<out>maternal endometritis</out>
+	</query>
+	<query id="C6.1" before="20090801" keywords="immunotherapy and ovarian cancer">
+		<pop>women</pop> 
+		<prob>epithelial ovarian cancer</prob> 
+		<int>intravenous monoclonal antibody</int>
+		<comp>placebo</comp>
+		<out>Survival (time to relapse)</out>
+	</query>
+	<query id="C6.2" before="20090801" keywords="immunotherapy and ovarian cancer">
+		<pop>women</pop> 
+		<prob>epithelial ovarian cancer</prob> 
+		<int>intravenous monoclonal antibody</int>
+		<comp>placebo</comp>
+		<out>humoral immune responses</out>
+	</query>
+	<query id="C6.3" before="20090801" keywords="immunotherapy and ovarian cancer">
+		<pop>women</pop> 
+		<prob>epithelial ovarian cancer</prob> 
+		<int>intradermal peptide pulsed dendritic Cells (vaccine alone)</int>
+		<comp>single dose of cyclophosphamide prior to first vaccination</comp>
+		<out>Tumor responses</out>
+	</query>
+	<query id="C7.1" before="20090601" keywords="antiviral and hepatitis C and HIV">
+		<pop>Adults</pop> 
+		<prob>Chronic hepatitis C + stable HIV co-infection</prob> 
+		<int>Peginterferon plus ribavirin</int>
+		<comp>Interferon plus ribavirin</comp>
+		<out>Sustained virological response</out> 
+		<dur>24 weeks</dur>
+	</query>
+	<query id="C7.2" before="20090601" keywords="antiviral and hepatitis C and HIV">
+		<pop>Adults</pop> 
+		<prob>Chronic hepatitis C + stable HIV co-infection</prob> 
+		<int>Peginterferon plus ribavirin</int>
+		<comp>Interferon plus ribavirin</comp>
+		<out>End of treatment virological response</out> 
+		<dur>24 weeks</dur>
+	</query>
+	<query id="C7.3" before="20090601" keywords="antiviral and hepatitis C and HIV">
+		<pop>Adults</pop> 
+		<prob>Chronic hepatitis C + stable HIV co-infection</prob> 
+		<int>Peginterferon plus ribavirin</int>
+		<comp>Interferon plus ribavirin</comp>
+		<out>Mortality</out> 
+		<dur>24 weeks</dur>
+	</query>
+	<query id="C8.1" before="20090801" keywords="Ethamsylate and preterm infants">
+		<pop>Infants</pop> 
+		<prob>Preterm or low birth weight</prob> 
+		<int>Ethamsylate</int>
+		<comp>Placebo</comp>
+		<out>Neonatal mortality</out> 
+		<dur>28 days postnatal age</dur>
+	</query>
+	<query id="C8.2" before="20090801" keywords="Ethamsylate and preterm infants">
+		<pop>Infants</pop> 
+		<prob>Preterm or low birth weight</prob> 
+		<int>Ethamsylate</int>
+		<comp>Placebo</comp>
+		<out>Mortality to hospital discharge</out>
+	</query>
+	<query id="C8.3" before="20090801" keywords="Ethamsylate and preterm infants">
+		<pop>Preterm infants</pop> 
+		<prob>Preterm or low birth weight</prob> 
+		<int>Ethamsylate</int>
+		<comp>Placebo</comp>
+		<out>Neurodevelopmental Disability</out> 
+		<dur>2 years</dur>
+	</query>
+	<query id="C24.1" before="20090601" keywords="Planned early birth and PPROM">
+		<pop>Women</pop> 
+		<prob>Preterm prelabour rupture of the membranes (PPROM) prior to 37 weeks of gestation</prob> 
+		<int>Planned early birth</int>
+		<comp>Expectant management</comp>
+		<out>Neonatal infection/sepsis</out>
+	</query>
+	<query id="C24.2" before="20090601" keywords="Planned early birth and PPROM">
+		<pop>Women</pop> 
+		<prob>Preterm prelabour rupture of the membranes (PPROM) prior to 37 weeks of gestation</prob> 
+		<int>Planned early birth</int>
+		<comp>Expectant management</comp>
+		<out>Respiratory distress syndrome</out>
+	</query>
+	<query id="C24.3" before="20090601" keywords="Planned early birth and PPROM">
+		<pop>Women</pop> 
+		<prob>Preterm prelabour rupture of the membranes (PPROM) prior to 37 weeks of gestation</prob> 
+		<int>Planned early birth</int>
+		<comp>Expectant management</comp>
+		<out>Perinatal mortality</out>
+	</query>
+	<query id="C25.1" before="20091201" keywords="Cessation and Smoking">
+		<pop>Persons of any age</pop> 
+		<prob>Cigarette smoking</prob> 
+		<int>Reduction to quite</int>
+		<comp>Abrupt quitting</comp>
+		<out>Abstinence</out> 
+		<dur>6 months or more</dur>
+	</query>
+	<query id="C25.2" before="20091201" keywords="Cessation and Smoking">
+		<pop>Persons of any age</pop> 
+		<prob>Cigarette smoking</prob> 
+		<int>Reduction to quite</int>
+		<comp>Abrupt quitting</comp>
+		<out>Cigarettes per day</out>
+	</query>
+	<query id="C26.1" before="20080301" keywords="Prevention and Ischemic heart disease">
+		<pop>Patients of all ages</pop> 
+		<prob>Ischemic heart disease</prob> 
+		<int>Service organization</int>
+		<comp>Normal care</comp>
+		<out>Mean systolic blood pressure</out> 
+		<dur>18 months</dur>
+	</query>
+	<query id="C26.2" before="20080301" keywords="Prevention and Ischemic heart disease">
+		<pop>Patients of all ages</pop> 
+		<prob>Ischemic heart disease</prob> 
+		<int>Service organization</int>
+		<comp>Normal care</comp>
+		<out>Mean diastolic blood pressure</out> 
+		<dur>18 months</dur>
+	</query>
+	<query id="C26.3" before="20080301" keywords="Prevention and Ischemic heart disease">
+		<pop>Patients of all ages</pop> 
+		<prob>Ischemic heart disease</prob> 
+		<int>Service organization</int>
+		<comp>Normal care</comp>
+		<out>Total blood cholesterol within study protocol target level (5.2 mmol/l)</out> 
+		<dur>12 months</dur>
+	</query>
+	<query id="C27.1" before="20090201" keywords="Abatacept and rheumatoid arthritis">
+		<pop>Patients 16 years or older</pop> 
+		<prob>Rheumatoid arthritis</prob> 
+		<int>Abatacept + disease-modifying anti-rheumatic drugs (DMARDs)/biologic</int>
+		<comp>Placebo + DMARDs/biologic</comp>
+		<out>American College of Rheumatology (ACR) 50% improvement</out> 
+		<dur>3, 6 and 12 months</dur>
+	</query>
+	<query id="C27.2" before="20090201" keywords="Abatacept and rheumatoid arthritis">
+		<pop>Patients 16 years or older</pop> 
+		<prob>Rheumatoid arthritis</prob> 
+		<int>Abatacept + disease-modifying anti-rheumatic drugs (DMARDs)/biologic</int>
+		<comp>Placebo + DMARDs/biologic</comp>
+		<out>Improvement in physical function</out> 
+		<dur>3, 6 and 12 months</dur>
+	</query>
+	<query id="C27.3" before="20090201" keywords="Abatacept and rheumatoid arthritis">
+		<pop>Patients 16 years or older</pop> 
+		<prob>Rheumatoid arthritis</prob> 
+		<int>Abatacept + disease-modifying anti-rheumatic drugs (DMARDs)/biologic</int>
+		<comp>Placebo + DMARDs/biologic</comp>
+		<out>Achievement of low disease activity state</out> 
+		<dur>3, 6 and 12 months</dur>
+	</query>
+	<query id="C28.1" before="20070301" keywords="Adrenergic and urinary incontinence">
+		<pop>Women 18 years and older</pop> 
+		<prob>Urinary incontinence</prob> 
+		<int>Adrenergic agonist</int>
+		<comp>Placebo</comp>
+		<out>Number cured or improved (subjective)</out>
+	</query>
+	<query id="C28.2" before="20070301" keywords="Adrenergic and urinary incontinence">
+		<pop>Women 18 years and older</pop> 
+		<prob>Urinary incontinence</prob> 
+		<int>Adrenergic agonist</int>
+		<comp>Placebo</comp>
+		<out>Pad weight/24 hrs</out>
+	</query>
+	<query id="C28.3" before="20070301" keywords="Adrenergic and urinary incontinence">
+		<pop>Women 18 years and older</pop> 
+		<prob>Urinary incontinence</prob> 
+		<int>Adrenergic agonist</int>
+		<comp>Placebo</comp>
+		<out>Adverse events</out>
+	</query>
+	<query id="C29.1" before="20090801" keywords="Barbiturates and traumatic brain injury">
+		<pop>Children</pop> 
+		<prob>Severe brain injury</prob> 
+		<int>Phenobarbitone</int>
+		<comp>No phenobarbitone</comp>
+		<out>Death</out>
+	</query>
+	<query id="C29.2" before="20090801" keywords="Barbiturates and traumatic brain injury">
+		<pop>Patients aged 15 - 50 years</pop> 
+		<prob>Severe brain injury</prob> 
+		<int>Phenobarbital</int>
+		<comp>No phenobarbital</comp>
+		<out>Uncontrollable intracranial pressure</out>
+	</query>
+	<query id="C29.3" before="20090801" keywords="Barbiturates and traumatic brain injury">
+		<pop>Patients over the age of 12</pop> 
+		<prob>Severe brain injury</prob> 
+		<int>Pentobarbital</int>
+		<comp>No pentobarbital</comp>
+		<out>Controlled ICP</out>
+	</query>
+	<query id="C30.1" before="20040701" keywords="Laparoscopic surgery and appendicitis">
+		<pop>Adults</pop> 
+		<prob>Appendicitis</prob> 
+		<int>Laparoscopic appendectomy</int>
+		<comp>Conventional appendectomy</comp>
+		<out>Wound infections</out>
+	</query>
+	<query id="C30.2" before="20040701" keywords="Laparoscopic surgery and appendicitis">
+		<pop>Adults</pop> 
+		<prob>Appendicitis</prob> 
+		<int>Laparoscopic appendectomy</int>
+		<comp>Conventional appendectomy</comp>
+		<out>Intra-abdominal abscesses</out>
+	</query>
+	<query id="C30.3" before="20040701" keywords="Laparoscopic surgery and appendicitis">
+		<pop>Adults</pop> 
+		<prob>Appendicitis</prob> 
+		<int>Laparoscopic appendectomy</int>
+		<comp>Conventional appendectomy</comp>
+		<out>Pain intensity (VAS)</out> 
+		<dur>Day 1 after surgery</dur>
+	</query>
+	<query id="C31.1" before="20071201" keywords="Acetyl-l-cartinine and dementia">
+		<pop>Adults aged 40 and over</pop> 
+		<prob>Dementia</prob> 
+		<int>Acetyl-l-cartinine</int>
+		<comp>Placebo</comp>
+		<out>Severity of dementia</out> 
+		<dur>52 weeks</dur>
+	</query>
+	<query id="C31.2" before="20071201" keywords="Acetyl-l-cartinine and dementia">
+		<pop>Adults aged 40 and over</pop> 
+		<prob>Dementia</prob> 
+		<int>Acetyl-l-cartinine</int>
+		<comp>Placebo</comp>
+		<out>Cognition</out> 
+		<dur>3 months - 1 year</dur>
+	</query>
+	<query id="C31.3" before="20071201" keywords="Acetyl-l-cartinine and dementia">
+		<pop>Adults aged 40 and over</pop> 
+		<prob>Dementia</prob> 
+		<int>Acetyl-l-cartinine</int>
+		<comp>Placebo</comp>
+		<out>Activities of daily living</out> 
+		<dur>52 weeks</dur>
+	</query>
+	<query id="C32.1" before="20030601" keywords="Epinephrine and bronchiolitis">
+		<pop>Infants and young children up to 24 months of age</pop> 
+		<prob>Bronchiolitis</prob> 
+		<int>Epinephrine</int>
+		<comp>Placebo</comp>
+		<out>Clinical score</out> 
+		<dur>30 &amp; 60 minutes</dur>
+	</query>
+	<query id="C32.2" before="20030601" keywords="Epinephrine and bronchiolitis">
+		<pop>Infants and young children up to 24 months of age</pop> 
+		<prob>Bronchiolitis</prob> 
+		<int>Epinephrine</int>
+		<comp>Placebo</comp>
+		<out>Oxygen saturation</out> 
+		<dur>30 &amp; 60 minutes</dur>
+	</query>
+	<query id="C32.3" before="20030601" keywords="Epinephrine and bronchiolitis">
+		<pop>Infants and young children up to 24 months of age</pop> 
+		<prob>Bronchiolitis</prob> 
+		<int>Epinephrine</int>
+		<comp>Salbutamol</comp>
+		<out>Clinical score</out> 
+		<dur>30 &amp; 60 minutes</dur>
+	</query>
+	<query id="C33.1" before="20021001" keywords="immunotherapy and allergic rhinitis">
+		<pop>Persons of any age</pop> 
+		<prob>Allergic rhinitis</prob> 
+		<int>Sublingual Immunotherapy</int>
+		<comp>Placebo</comp>
+		<out>Allergic rhinitis symptom scores</out> 
+		<dur>6 - 12 months</dur>
+	</query>
+	<query id="C33.2" before="20021001" keywords="immunotherapy and allergic rhinitis">
+		<pop>Persons of any age</pop> 
+		<prob>Allergic rhinitis</prob> 
+		<int>Sublingual Immunotherapy</int>
+		<comp>Placebo</comp>
+		<out>Medication scores (referring to the concurrent use of anti-allergic medication)</out> 
+		<dur>6 - 12 months</dur>
+	</query>
+	<query id="C33.3" before="20021001" keywords="immunotherapy and allergic rhinitis">
+		<pop>Persons of any age</pop> 
+		<prob>Allergic rhinitis</prob> 
+		<int>Sublingual Immunotherapy</int>
+		<comp>Placebo</comp>
+		<out>Allergic rhinitis symptom scores</out> 
+		<dur>&gt; 12 months</dur>
+	</query>
+	<query id="C34.1" before="20090401" keywords="antibiotics and respiratory infections">
+		<pop>Patients of all ages</pop> 
+		<prob>Acute respiratory tract infections</prob> 
+		<int>Delayed antibiotic treatment</int>
+		<comp>Immediate antibiotic treatment</comp>
+		<out>Fever severity</out> 
+		<dur>Day 3 &amp; 7 post-intervention</dur>
+	</query>
+	<query id="C34.2" before="20090401" keywords="antibiotics and respiratory infections">
+		<pop>Patients of all ages</pop> 
+		<prob>Acute respiratory tract infections</prob> 
+		<int>Delayed antibiotic treatment</int>
+		<comp>Immediate antibiotic treatment</comp>
+		<out>Pain severity</out> 
+		<dur>Day 3 &amp; 7 post-intervention</dur>
+	</query>
+	<query id="C34.3" before="20090401" keywords="antibiotics and respiratory infections">
+		<pop>Patients of all ages</pop> 
+		<prob>Acute respiratory tract infections</prob> 
+		<int>Delayed antibiotic treatment</int>
+		<comp>Immediate antibiotic treatment</comp>
+		<out>Supplementary use of paracetamol or ibuprofen</out>
+	</query>
+	<query id="C35.1" before="20041201" keywords="Gabapentin and pain">
+		<pop>Adults (aged 18 and over)</pop> 
+		<prob>Neuropathic pain</prob> 
+		<int>Gabapentin</int>
+		<comp>Placebo</comp>
+		<out>Moderate or better pain relief</out>
+	</query>
+	<query id="C35.2" before="20041201" keywords="Gabapentin and pain">
+		<pop>Adults (aged 18 and over)</pop> 
+		<prob>Neuropathic pain</prob> 
+		<int>Gabapentin</int>
+		<comp>Placebo</comp>
+		<out>&gt;50% pain relief</out>
+	</query>
+	<query id="C35.3" before="20041201" keywords="Gabapentin and pain">
+		<pop>Adults (aged 18 and over)</pop> 
+		<prob>Neuropathic pain</prob> 
+		<int>Gabapentin</int>
+		<comp>Placebo</comp>
+		<out>Change in pain score</out>
+	</query>
+	<query id="C36.1" before="20070701" keywords="radiotherapy and brain metastases">
+		<pop>Adults</pop> 
+		<prob>Multiple brain metastases</prob> 
+		<int>Altered whole brain radiotherapy dose/fractionation schedules</int>
+		<comp>Conventional whole brain radiotherapy fractionation schedules</comp>
+		<out>Mortality</out> 
+		<dur>6 months</dur>
+	</query>
+	<query id="C36.2" before="20070701" keywords="radiotherapy and brain metastases">
+		<pop>Adults</pop> 
+		<prob>Multiple brain metastases</prob> 
+		<int>WBRT with radiosensitizers (radiosen) </int>
+		<comp>WBRT alone</comp>
+		<out>Brain tumor response rates (complete &amp; partial response combined)</out>
+	</query>
+	<query id="C36.3" before="20070701" keywords="radiotherapy and brain metastases">
+		<pop>Adults</pop> 
+		<prob>Multiple brain metastases</prob> 
+		<int>WBRT and radiosurgery boost</int>
+		<comp>WBRT</comp>
+		<out>Mortality</out> 
+		<dur>6 months</dur>
+	</query>
+	<query id="C37.1" before="20091201" keywords="Chemotherapy and supportive care and lung cancer">
+		<pop>Patients (no age specification)</pop> 
+		<prob>Advanced non-small lung cancer</prob> 
+		<int>Chemotherapy and supportive care</int>
+		<comp>Supportive care</comp>
+		<out>Overall survival</out>
+	</query>
+	<query id="C38.1" before="20080601" keywords="Antibiotics and uncomplicated lower UTI">
+		<pop>Women aged 65 years and older</pop> 
+		<prob>Acute uncomplicated lower urinary tract infection (UTI)</prob> 
+		<int>Single dose of any oral antibiotic</int>
+		<comp>Short-course treatment of any oral antibiotic (3 - 6 days)</comp>
+		<out>Persistent UTI</out> 
+		<dur>Short-term</dur>
+	</query>
+	<query id="C38.2" before="20080601" keywords="Antibiotics and uncomplicated lower UTI">
+		<pop>Women aged 65 years and older</pop> 
+		<prob>Acute uncomplicated lower urinary tract infection (UTI)</prob> 
+		<int>Single dose of any oral antibiotic</int>
+		<comp>Short-course treatment of any oral antibiotic (3 - 6 days)</comp>
+		<out>Persistent UTI</out> 
+		<dur>Long-term</dur>
+	</query>
+	<query id="C38.3" before="20080601" keywords="Antibiotics and uncomplicated lower UTI">
+		<pop>Women aged 65 years and older</pop> 
+		<prob>Acute uncomplicated lower urinary tract infection (UTI)</prob> 
+		<int>Single dose of any oral antibiotic</int>
+		<comp>Long-course treatment of any oral antibiotic (7 - 14 days)</comp>
+		<out>Persistent UTI</out> 
+		<dur>Short-term</dur>
+	</query>
+	<query id="C39.1" before="20090301" keywords="Antibiotics and CAP">
+		<pop>Outpatients aged 12 years and older</pop> 
+		<prob>CAP</prob> 
+		<int>Erythromycin</int>
+		<comp>Clarythromycin</comp>
+		<out>Clinical success</out> 
+		<dur>2 weeks</dur>
+	</query>
+	<query id="C39.2" before="20090301" keywords="Antibiotics and CAP">
+		<pop>Outpatients aged 18 years and older</pop> 
+		<prob>CAP</prob> 
+		<int>Azithromycin microspheres</int>
+		<comp>Levofloxacin</comp>
+		<out>Clinical success</out> 
+		<dur>13-21 days</dur>
+	</query>
+	<query id="C39.3" before="20090301" keywords="Antibiotics and CAP">
+		<pop>Outpatients aged 16 years and older</pop> 
+		<prob>CAP</prob> 
+		<int>Azithromycin microspheres</int>
+		<comp>Clarythromycin</comp>
+		<out>Clinical success</out> 
+		<dur>14-21 days</dur>
+	</query>
+	<query id="C40.1" before="20051001" keywords="5-ASA and ulcerative colitis">
+		<pop>Persons of any age</pop> 
+		<prob>Ulcerative Colitis</prob> 
+		<int>Oral 5 ASA therapy</int>
+		<comp>Placebo</comp>
+		<out>Failure to induce global/clinical remission</out>
+	</query>
+	<query id="C40.2" before="20051001" keywords="5-ASA and ulcerative colitis">
+		<pop>Persons of any age</pop> 
+		<prob>Ulcerative Colitis</prob> 
+		<int>Oral 5 ASA therapy</int>
+		<comp>Placebo</comp>
+		<out>Failure to induce endoscopic remission</out>
+	</query>
+	<query id="C40.3" before="20051001" keywords="5-ASA and ulcerative colitis">
+		<pop>Persons of any age</pop> 
+		<prob>Ulcerative Colitis</prob> 
+		<int>Oral 5 ASA therapy</int>
+		<comp>Sulfasalazine (SASP)</comp>
+		<out>Failure to induce global/clinical remission</out>
+	</query>
+	<query id="C41.1" before="20080501" keywords="antibiotics and pseudomonas and cystic fibrosis">
+		<pop>Children and Adults</pop> 
+		<prob>Cystic fibrosis &amp; chronic infection with P. aeruginosa</prob> 
+		<int>Oral anti-pseudomonal antibiotics for treatment of an exacerbation of RTI</int>
+		<comp>IV antibiotics</comp>
+		<out>FEV1 ml (mean change)</out> 
+		<dur>1-2 weeks</dur>
+	</query>
+	<query id="C41.2" before="20080501" keywords="antibiotics and pseudomonas and cystic fibrosis">
+		<pop>Children and Adults</pop> 
+		<prob>Cystic fibrosis &amp; chronic infection with P. aeruginosa</prob> 
+		<int>Oral anti-pseudomonal antibiotics for treatment of an exacerbation of RTI</int>
+		<comp>IV antibiotics</comp>
+		<out>Adverse events</out>
+	</query>
+	<query id="C41.3" before="20080501" keywords="antibiotics and pseudomonas and cystic fibrosis">
+		<pop>Children and Adults</pop> 
+		<prob>Cystic fibrosis &amp; chronic infection with P. aeruginosa</prob> 
+		<int>Oral anti-pseudomonal antibiotics for treatment of an exacerbation of RTI</int>
+		<comp>IV antibiotics</comp>
+		<out>Isolation of antibiotic resistant strains - P aeruginosa</out> 
+		<dur>Follow-up ranging from 1-6 weeks</dur>
+	</query>
+	<query id="C42.1" before="20060701" keywords="Anticoagulants and stroke and atrial fibrillation">
+		<pop>Adults with no previous history of stroke or transient ischemic heart attacks</pop> 
+		<prob>Non-valvular atrial fibrillation</prob> 
+		<int>Oral anticoagulants</int>
+		<comp>Antiplatelet therapy</comp>
+		<out>All strokes (ischemic and hemorrhagic)</out>
+	</query>
+	<query id="C42.2" before="20060701" keywords="Anticoagulants and stroke and atrial fibrillation">
+		<pop>Adults with no previous history of stroke or transient ischemic heart attacks</pop> 
+		<prob>Non-valvular atrial fibrillation</prob> 
+		<int>Oral anticoagulants</int>
+		<comp>Antiplatelet therapy</comp>
+		<out>Myocardial Infarction</out>
+	</query>
+	<query id="C42.3" before="20060701" keywords="Anticoagulants and stroke and atrial fibrillation">
+		<pop>Adults with no previous history of stroke or transient ischemic heart attacks</pop> 
+		<prob>Non-valvular atrial fibrillation</prob> 
+		<int>Oral anticoagulants</int>
+		<comp>Antiplatelet therapy</comp>
+		<out>Systemic emboli (non-CNS)</out>
+	</query>
+	<query id="C43.1" before="19980201" keywords="Fluoride and osteoporosis">
+		<pop>Women</pop> 
+		<prob>Primary osteoporosis</prob> 
+		<int>Fluoride</int>
+		<comp>Placebo</comp>
+		<out>No. of people with vertebral fractures</out> 
+		<dur>2 years</dur>
+	</query>
+	<query id="C43.2" before="19980201" keywords="Fluoride and osteoporosis">
+		<pop>Women</pop> 
+		<prob>Primary osteoporosis</prob> 
+		<int>Fluoride</int>
+		<comp>Placebo</comp>
+		<out>Forearm BMD/C %</out> 
+		<dur>2 years from baseline</dur>
+	</query>
+	<query id="C43.3" before="19980201" keywords="Fluoride and osteoporosis">
+		<pop>Women</pop> 
+		<prob>Primary osteoporosis</prob> 
+		<int>Fluoride</int>
+		<comp>Placebo</comp>
+		<out>Total BMD %</out> 
+	</query>
+	<query id="C44.1" before="20070901" keywords="Cilostazol and peripheral arterial disease">
+		<pop>Patients (no age range specified)</pop> 
+		<prob>Peripheral arterial disease</prob> 
+		<int>100mg Cilostazol twice daily</int>
+		<comp>Placebo</comp>
+		<out>Initial claudation distance</out>
+	</query>
+	<query id="C44.2" before="20070901" keywords="Cilostazol and peripheral arterial disease">
+		<pop>Patients (no age range specified)</pop> 
+		<prob>Peripheral arterial disease</prob> 
+		<int>100mg Cilostazol twice daily</int>
+		<comp>Placebo</comp>
+		<out>Absolute claudation distance</out>
+	</query>
+	<query id="C44.3" before="20070901" keywords="Cilostazol and peripheral arterial disease">
+		<pop>Patients (no age range specified)</pop> 
+		<prob>Peripheral arterial disease</prob> 
+		<int>100mg Cilostazol twice daily</int>
+		<comp>Placebo</comp>
+		<out>Ankle brachial pressure index</out>
+	</query>
+	<query id="C45.1" before="20090301" keywords="Ribavirin and chronic hepatitis C">
+		<pop>Patients (no age specified)</pop> 
+		<prob>Chronic hepatitis C</prob> 
+		<int>Ribavirin</int>
+		<comp>Placebo</comp>
+		<out>Failure of serum virocological response (number of patients with detectable Hepatitis C virus RNA)</out> 
+		<dur>12 - 24 weeks</dur>
+	</query>
+	<query id="C45.2" before="20090301" keywords="Ribavirin and chronic hepatitis C">
+		<pop>Patients (no age specified)</pop> 
+		<prob>Chronic hepatitis C</prob> 
+		<int>Ribavirin</int>
+		<comp>Placebo</comp>
+		<out>Liver-related mortality and all-cause mortality</out>
+	</query>
+	<query id="C45.3" before="20090301" keywords="Ribavirin and chronic hepatitis C">
+		<pop>Patients (no age specified)</pop> 
+		<prob>Chronic hepatitis C</prob> 
+		<int>Ribavirin</int>
+		<comp>Placebo</comp>
+		<out>Adverse events</out> 
+	</query>
+	<query id="C46.1" before="20070601" keywords="Macrolides and chronic asthma">
+		<pop>Children and adults</pop> 
+		<prob>Chronic asthma</prob> 
+		<int>Macrolide</int>
+		<comp>Placebo</comp>
+		<out>FEV1</out>
+	</query>
+	<query id="C46.2" before="20070601" keywords="Macrolides and chronic asthma">
+		<pop>Children and adults</pop> 
+		<prob>Chronic asthma</prob> 
+		<int>Macrolide</int>
+		<comp>Placebo</comp>
+		<out>FVC</out>
+	</query>
+	<query id="C46.3" before="20070601" keywords="Macrolides and chronic asthma">
+		<pop>Children and adults</pop> 
+		<prob>Chronic asthma</prob> 
+		<int>Macrolide</int>
+		<comp>Placebo</comp>
+		<out>Symptoms (standardized scale)</out>
+	</query>
+	<query id="C47.1" before="20000801" keywords="ankle ligament injuries and prevention">
+		<pop>Adolescents or middle aged patients</pop> 
+		<prob>Previous ankle ligament injury</prob> 
+		<int>High top shoes</int>
+		<comp>Low top shoes</comp>
+		<out>Ankle sprain</out>
+	</query>
+	<query id="C47.2" before="20000801" keywords="ankle ligament injuries and prevention">
+		<pop>Adolescents or middle aged patients</pop> 
+		<prob>Previous ankle ligament injury</prob> 
+		<int>External ankle support</int>
+		<comp>No support</comp>
+		<out>Ankle sprain</out>
+	</query>
+	<query id="C47.3" before="20000801" keywords="ankle ligament injuries and prevention">
+		<pop>Adolescents or middle aged patients</pop> 
+		<prob>Previous ankle ligament injury</prob> 
+		<int>External ankle support</int>
+		<comp>No support</comp>
+		<out>Severity of ankle injury</out>
+	</query>
+	<query id="C48.1" before="20060201" keywords="ankle lingament injury and surgery">
+		<pop>Adults</pop> 
+		<prob>Acute injury of the lateral ligament complex of the ankle</prob> 
+		<int>Surgical treatment</int>
+		<comp>Conservative treatment (immobilization, support etc.)</comp>
+		<out>Non-return to pre-injury level of activity</out>
+	</query>
+	<query id="C48.2" before="20060201" keywords="ankle lingament injury and surgery">
+		<pop>Adults</pop> 
+		<prob>Acute injury of the lateral ligament complex of the ankle</prob> 
+		<int>Surgical treatment</int>
+		<comp>Conservative treatment (immobilization, support etc.)</comp>
+		<out>Non-return to sport or reduction in sports</out>
+	</query>
+	<query id="C48.3" before="20060201" keywords="ankle lingament injury and surgery">
+		<pop>Adults</pop> 
+		<prob>Acute injury of the lateral ligament complex of the ankle</prob> 
+		<int>Surgical treatment</int>
+		<comp>Conservative treatment (immobilization, support etc.)</comp>
+		<out>Recurrence or reinjury</out>
+	</query>
+	<query id="C49.1" before="20061201" keywords="Naftidrofuryl and acute stroke">
+		<pop>Patients aged 40-80 years old</pop> 
+		<prob>Acute ischaemic or haemorrhagic stroke</prob> 
+		<int>Naftidrofuryl</int>
+		<comp>Placebo</comp>
+		<out>Late death</out>
+	</query>
+	<query id="C49.2" before="20061201" keywords="Naftidrofuryl and acute stroke">
+		<pop>Patients aged 40-80 years old</pop> 
+		<prob>Acute ischaemic or haemorrhagic stroke</prob> 
+		<int>Naftidrofuryl</int>
+		<comp>Placebo</comp>
+		<out>Early death</out> 
+		<dur>Within one month post-randomization</dur>
+	</query>
+	<query id="C49.3" before="20061201" keywords="Naftidrofuryl and acute stroke">
+		<pop>Patients aged 40-80 years old</pop> 
+		<prob>Acute ischaemic or haemorrhagic stroke</prob> 
+		<int>Naftidrofuryl</int>
+		<comp>Placebo</comp>
+		<out>Systolic blood pressure</out> 
+		<dur>1-2 days post-treatment</dur>
+	</query>
+	<query id="C50.1" before="20080501" keywords="Acupuncture and migraine">
+		<pop>Patients (no age specified)</pop> 
+		<prob>Migraines and additional tension-type headaches</prob> 
+		<int>Acupuncture</int>
+		<comp>No acupuncture</comp>
+		<out>Response</out> 
+		<dur>2, 4, 6 and &gt;6 months post-randomization</dur>
+	</query>
+	<query id="C50.2" before="20080501" keywords="Acupuncture and migraine">
+		<pop>Patients (no age specified)</pop> 
+		<prob>Migraines and additional tension-type headaches</prob> 
+		<int>Acupuncture</int>
+		<comp>No acupuncture</comp>
+		<out>Headache frequency</out> 
+		<dur>2, 4, 6 and &gt;6 months post-randomization</dur>
+	</query>
+	<query id="C50.3" before="20080501" keywords="Acupuncture and migraine">
+		<pop>Patients (no age specified)</pop> 
+		<prob>Migraines and additional tension-type headaches</prob> 
+		<int>Acupuncture</int>
+		<comp>No acupuncture</comp>
+		<out>Migraine attacks</out> 
+		<dur>2, 4, 6 and &gt;6 months post-randomization</dur>
+	</query>
+	<query id="C9.1" before="20090801" keywords="Exercise and low back pain">
+		<pop>Adults aged 18 or older</pop> 
+		<prob>Lower back pain (LBP)</prob> 
+		<int>Post-treatment exercise consisting of strength, endurance and aerobic training</int>
+		<comp>No intervention</comp>
+		<out>Number of subjects with recurrent LBP</out> 
+		<dur>1.5 - 2 years</dur>
+	</query>
+	<query id="C9.2" before="20090801" keywords="Exercise and low back pain">
+		<pop>Adults aged 18 or older</pop> 
+		<prob>LBP</prob> 
+		<int>Post-treatment exercise consisting of strength, endurance and aerobic training</int>
+		<comp>No intervention</comp>
+		<out>Time to LBP recurrence</out> 
+		<dur>1.5 - 2 years</dur>
+	</query>
+	<query id="C9.3" before="20090801" keywords="Exercise and low back pain">
+		<pop>Adults aged 18 or older</pop> 
+		<prob>Lower back pain (LBP)</prob> 
+		<int>Post-treatment exercise consisting of strength, endurance and aerobic training</int>
+		<comp>No intervention</comp>
+		<out>Number of recurrences of LBP</out> 
+		<dur>1.5 - 2 years</dur>
+	</query>
+	<query id="C10.1" before="20091001" keywords="Doppler ultrasound and pregnancy">
+		<pop>Women</pop> 
+		<prob>High risk for fetal compromise</prob> 
+		<int>Doppler ultrasound of fetal vessels</int>
+		<comp>No Doppler ultrasound of fetal vessels</comp>
+		<out>Any perinatal death after randomization</out>
+	</query>
+	<query id="C10.2" before="20091001" keywords="Doppler ultrasound and pregnancy">
+		<pop>Women</pop> 
+		<prob>High risk for fetal compromise</prob> 
+		<int>Doppler ultrasound of fetal vessels</int>
+		<comp>No Doppler ultrasound of fetal vessels</comp>
+		<out>Serious neonatal morbidity</out>
+	</query>
+	<query id="C10.3" before="20091001" keywords="Doppler ultrasound and pregnancy">
+		<pop>Women</pop> 
+		<prob>High risk for fetal compromise</prob> 
+		<int>Doppler ultrasound of fetal vessels</int>
+		<comp>No Doppler ultrasound of fetal vessels</comp>
+		<out>Stillbirth</out>
+	</query>
+	<query id="C11.1" before="20090801" keywords="Fluoride toothpaste and dental caries">
+		<pop>Children and adolescents aged 16 years or less</pop> 
+		<prob>Dental caries</prob> 
+		<int>Fluoride toothpaste</int>
+		<comp>Placebo toothpaste</comp>
+		<out>Decayed, missing, and filled surface index increment (prevented fraction) in all permanent teeth erupted at the start and erupting over the course of the study</out> 
+		<dur>nearest to 3 years</dur>
+	</query>
+	<query id="C11.2" before="20090801" keywords="Fluoride toothpaste and dental caries">
+		<pop>Children and adolescents aged 16 years or less</pop> 
+		<prob>Dental caries</prob> 
+		<int>Fluoride toothpaste at different concentration levels</int>
+		<comp>Placebo toothpaste</comp>
+		<out>Decayed, missing, and filled teeth increment (prevented fraction) in all permanent teeth erupted at the start 
+	and erupting over the course of the study</out> 
+		<dur>nearest to 3 years</dur>
+	</query>
+	<query id="C11.3" before="20090801" keywords="Fluoride toothpaste and dental caries">
+		<pop>Children and adolescents aged 16 years or less</pop> 
+		<prob>Dental caries</prob> 
+		<int>Fluoride toothpaste at different concentration levels</int>
+		<comp>Placebo toothpaste</comp>
+		<out>Proportion of developing new caries in the permanent or deciduous dentition</out>
+	</query>
+	<query id="C12.1" before="20081001" keywords="Care and HIV/AIDS">
+		<pop>Children</pop> 
+		<prob>HIV+</prob> 
+		<int>Home-based intensive nursing</int>
+		<comp>Standard care</comp>
+		<out>Changes in patient knowledge of HIV and their medications: Post test scores</out>
+	</query>
+	<query id="C12.2" before="20081001" keywords="Care and HIV/AIDS">
+		<pop>patients aged 21 years and over</pop> 
+		<prob>HIV/AIDS</prob> 
+		<int>Home-based intensive nursing</int>
+		<comp>Usual care</comp>
+		<out>Quality of well-being scores as measured by Quality of well-being scale</out>
+	</query>
+	<query id="C12.3" before="20081001" keywords="Care and HIV/AIDS">
+		<pop>African American women who were primary caregivers for at least one child under the age of 9 years</pop> 
+		<prob>HIV+</prob> 
+		<int>Home-based intensive nursing</int>
+		<comp>Standard care</comp>
+		<out>Emotional distress</out>
+	</query>
+	<query id="C13.1" before="20080201" keywords="Cardiac rehabilitation and home">
+		<pop>Adults (18 years and older)</pop> 
+		<prob>MI, angina, or who had undergone revascularisation or heart failure</prob> 
+		<int>Home-based cardiac rehabilitation</int>
+		<comp>Centre-based cardiac rehabilitation</comp>
+		<out>Exercise capacity</out> 
+		<dur>3-12 months</dur>
+	</query>
+	<query id="C13.2" before="20080201" keywords="Cardiac rehabilitation and home">
+		<pop>Adults (18 years and older)</pop> 
+		<prob>MI, angina, or who had undergone revascularisation or heart failure</prob> 
+		<int>Home-based cardiac rehabilitation</int>
+		<comp>Centre-based cardiac rehabilitation</comp>
+		<out>Systolic blood pressure</out> 
+		<dur>3-12 months</dur>
+	</query>
+	<query id="C13.3" before="20080201" keywords="Cardiac rehabilitation and home">
+		<pop>Adults (18 years and older)</pop> 
+		<prob>MI, angina, or who had undergone revascularisation or heart failure</prob> 
+		<int>Home-based cardiac rehabilitation</int>
+		<comp>Centre-based cardiac rehabilitation</comp>
+		<out>Total cholesterol</out> 
+		<dur>3-12 months</dur>
+	</query>
+	<query id="C14.1" before="20090601" keywords="HES and kidney function">
+		<pop>Patients of all ages</pop> 
+		<prob>Intravascular volume depletion</prob> 
+		<int>HES</int>
+		<comp>Other fluids</comp>
+		<out>Renal replacement therapy</out> 
+		<dur>Short term</dur>
+	</query>
+	<query id="C14.2" before="20090601" keywords="HES and kidney function">
+		<pop>Patients of all ages</pop> 
+		<prob>Intravascular volume depletion</prob> 
+		<int>HES</int>
+		<comp>Other fluids</comp>
+		<out>RIFLE (risk or worse)</out> 
+		<dur>Short term</dur>
+	</query>
+	<query id="C14.3" before="20090601" keywords="HES and kidney function">
+		<pop>Patients of all ages</pop> 
+		<prob>Intravascular volume depletion</prob> 
+		<int>HES</int>
+		<comp>Other fluids</comp>
+		<out>RIFLE (injury or worse)</out> 
+		<dur>Short term</dur>
+	</query>
+	<query id="C15.1" before="20091001" keywords="Music therapy and palliative care">
+		<pop>Patients of all ages</pop> 
+		<prob>End-of-life illness with a life expectancy of less than 2 years</prob> 
+		<int>Music therapy</int>
+		<comp>Standard care</comp>
+		<out>Pain</out> 
+		<dur>Post-intervention (short-term)</dur>
+	</query>
+	<query id="C15.2" before="20091001" keywords="Music therapy and palliative care">
+		<pop>Patients of all ages</pop> 
+		<prob>End-of-life illness with a life expectancy of less than 2 years</prob> 
+		<int>Music therapy</int>
+		<comp>Standard care</comp>
+		<out>Anxiety</out> 
+		<dur>Post-intervention (short-term)</dur>
+	</query>
+	<query id="C15.3" before="20091001" keywords="Music therapy and palliative care">
+		<pop>Patients of all ages</pop> 
+		<prob>End-of-life illness with a life expectancy of less than 2 years</prob> 
+		<int>Music therapy</int>
+		<comp>Standard care</comp>
+		<out>Depression</out> 
+		<dur>Post-intervention (short-term)</dur>
+	</query>
+	<query id="C16.1" before="20090401" keywords="chemotherapy and cervical cancer">
+		<pop>Women of any age</pop> 
+		<prob>Cervical cancer</prob> 
+		<int>Neoadjuvant chemotherapy plus surgery</int>
+		<comp>Surgery alone</comp>
+		<out>Overall survival (time to death)</out>
+	</query>
+	<query id="C16.2" before="20090401" keywords="chemotherapy and cervical cancer">
+		<pop>Women of any age</pop> 
+		<prob>Cervical cancer</prob> 
+		<int>Neoadjuvant chemotherapy plus surgery</int>
+		<comp>Surgery alone</comp>
+		<out>Progression-free survival (time to progression or death)</out>
+	</query>
+	<query id="C16.3" before="20090401" keywords="chemotherapy and cervical cancer">
+		<pop>Women of any age</pop> 
+		<prob>Cervical cancer</prob> 
+		<int>Neoadjuvant chemotherapy plus surgery</int>
+		<comp>Surgery alone</comp>
+		<out>Rates of local recurrence</out>
+	</query>
+	<query id="C17.1" before="20091101" keywords="Nutrition and Acute kidney injury">
+		<pop>Patients of all ages</pop> 
+		<prob>Acute kidney injury (AKI)</prob> 
+		<int>Essential L-amino acid supplements</int>
+		<comp>Glucose supplements</comp>
+		<out>Recovery from AKI</out>
+	</query>
+	<query id="C17.2" before="20091101" keywords="Nutrition and Acute kidney injury">
+		<pop>Patients of all ages</pop> 
+		<prob>Acute kidney injury (AKI)</prob> 
+		<int>Glucose + essential amino acid (EAA) + histidin supplements</int>
+		<comp>Glucose + general amino acid supplements</comp>
+		<out>Nitrogen balance</out>
+	</query>
+	<query id="C17.3" before="20091101" keywords="Nutrition and Acute kidney injury">
+		<pop>Patients of all ages</pop> 
+		<prob>Acute kidney injury (AKI)</prob> 
+		<int>Glucose + EAA + histidin supplements</int>
+		<comp>Glucose + GAA supplements</comp>
+		<out>Serum creatinine</out>
+	</query>
+	<query id="C18.1" before="20090401" keywords="Hydrogen peroxide mouth rinse and tonsillectomy">
+		<pop>Children and adults</pop> 
+		<prob>Tonsillectomy</prob> 
+		<int>Hydrogen peroxide mouth rinse</int>
+		<comp>Placebo</comp>
+		<out>Pain (change in severity)</out> 
+		<dur>2 weeks</dur>
+	</query>
+	<query id="C18.2" before="20090401" keywords="Hydrogen peroxide mouth rinse and tonsillectomy">
+		<pop>Children and adults</pop> 
+		<prob>Tonsillectomy</prob> 
+		<int>Benzydamine hydrochloride</int>
+		<comp>Placebo spray</comp>
+		<out>Pain (change in severity)</out> 
+		<dur>2 weeks</dur>
+	</query>
+	<query id="C18.3" before="20090401" keywords="Hydrogen peroxide mouth rinse and tonsillectomy">
+		<pop>Children and adults</pop> 
+		<prob>Tonsillectomy</prob> 
+		<int>Lidocaine</int>
+		<comp>Placebo</comp>
+		<out>Pain (change in severity)</out> 
+		<dur>2 weeks</dur>
+	</query>
+	<query id="M1.1" before="20061101" keywords="pioglitazone diabetes mortality">
+		<pop>In patients with</pop> 
+		<prob>type 2 diabetes</prob> 
+		<int>does pioglitazone</int> 
+		<out>reduce cardiovascular events, other adverse events, and mortality or improve health related quality of life</out>
+	</query>
+	<query id="M1.2" before="20061101" keywords="pioglitazone diabetes mortality">
+		<pop>In patients</pop> 
+		<prob>with type 2 diabetes</prob> 
+		<int>does pioglitazone</int> 
+		<comp>compared to placebo</comp> 
+		<out>reduce stroke and myocardial infarction</out>
+	</query>
+	<query id="M1.3" before="20061101" keywords="pioglitazone diabetes mortality">
+		<pop>In patients</pop> 
+		<prob>with type 2 diabetes</prob> 
+		<int>does pioglitazone</int> 
+		<comp>compare to placebo</comp> 
+		<out>reduce mortality</out>
+	</query>
+	<query id="M1.4" before="20061101" keywords="pioglitazone diabetes mortality">
+		<pop>In patients</pop> 
+		<prob>with type 2 diabetes</prob> 
+		<int>does pioglitazone</int> 
+		<comp>Metformin</comp> 
+		<out>reduce stroke and myocardial infarction</out>
+	</query>
+	<query id="M1.5" before="20061101" keywords="pioglitazone diabetes mortality">
+		<pop>In patients</pop> 
+		<prob>with type 2 diabetes</prob> 
+		<int>does pioglitazone</int> 
+		<comp>Glibenclamide</comp> 
+		<out>reduce stroke and myocardial infarction</out>
+	</query>
+	<query id="M1.6" before="20061101" keywords="pioglitazone diabetes mortality">
+		<pop>In patients</pop> 
+		<prob>with type 2 diabetes</prob> 
+		<int>does pioglitazone</int> 
+		<comp>Gliclazide</comp> 
+		<out>reduce stroke and myocardial infarction</out>
+	</query>
+	<query id="M1.7" before="20061101" keywords="pioglitazone diabetes mortality">
+		<pop>In patients</pop> 
+		<prob>with type 2 diabetes</prob> 
+		<int>does pioglitazone</int> 
+		<comp>Acarbose</comp> 
+		<out>reduce stroke and myocardial infarction</out>
+	</query>
+	<query id="M1.8" before="20061101" keywords="pioglitazone diabetes mortality">
+		<pop>In patients</pop> 
+		<prob>with type 2 diabetes</prob> 
+		<int>does pioglitazone</int> 
+		<comp>Insulin</comp> 
+		<out>reduce stroke and myocardial infarction</out>
+	</query>
+	<query id="M2.1" before="20070301" keywords="GTT lifestyle type 2 diabetes">
+		<pop>In patients</pop> 
+		<prob>impaired glucose tolerance</prob> 
+		<int>do lifestyle or pharmacological interventions</int> 
+		<out>prevent or delay type 2 diabetes mellitus</out>
+	</query>
+	<query id="M2.2" before="20070301" keywords="GTT lifestyle type 2 diabetes">
+		<pop>In Chinese patients</pop> 
+		<prob>impaired glucose tolerance</prob> 
+		<int>do lifestyle interventions (diet, exercise or both)</int> 
+		<comp>compare to no-intervention (routine advice)</comp> 
+		<out>prevent or delay type 2 diabetes mellitus</out>
+	</query>
+	<query id="M2.3" before="20070301" keywords="GTT lifestyle type 2 diabetes">
+		<pop>In patients</pop> 
+		<prob>impaired glucose tolerance</prob> 
+		<int>do pharmacological interventions (oral diabetes drugs or antiobesity drugs)</int> 
+		<out>prevent or delay type 2 diabetes mellitus</out>
+	</query>
+	<query id="M2.4" before="20070301" keywords="GTT lifestyle type 2 diabetes">
+		<pop>In overweight patients</pop> 
+		<prob>impaired glucose tolerance</prob> 
+		<int>do pharmacological interventions (oral diabetes drugs or antiobesity drugs)</int> 
+		<out>prevent or delay type 2 diabetes mellitus</out>
+	</query>
+	<query id="M2.5" before="20070301" keywords="GTT lifestyle type 2 diabetes">
+		<pop>In Japanese men</pop> 
+		<prob>impaired glucose tolerance</prob> 
+		<int>do lifestyle interventions (diet, exercise or both)</int> 
+		<comp>compare to no-intervention (routine advice)</comp> 
+		<out>prevent or delay type 2 diabetes mellitus</out>
+	</query>
+	<query id="M2.6" before="20070301" keywords="GTT lifestyle type 2 diabetes">
+		<pop>In Japanese Americans</pop> 
+		<prob>impaired glucose tolerance</prob> 
+		<int>do lifestyle interventions (diet, exercise or both)</int> 
+		<comp>compare to no-intervention (routine advice)</comp> 
+		<out>prevent or delay type 2 diabetes mellitus</out>
+	</query>
+	<query id="M3.1" before="20050601" keywords="diabetes and self management">
+		<pop>In patients</pop> 
+		<prob>with type 2 diabetes mellitus,</prob> 
+		<int>does group-based education (GBE) in self management</int> 
+		<out>improve clinical, lifestyle, and psychosocial outcomes</out>
+	</query>
+	<query id="M3.2" before="20050601" keywords="diabetes and self management">
+		<pop>In patients</pop> 
+		<prob>with type 2 diabetes mellitus,</prob> 
+		<int>does group-based education (GBE) in self management</int> 
+		<out>improve glycated haemoglobin or fasting blood glucose (clinical outcomes)</out>
+	</query>
+	<query id="M3.3" before="20050601" keywords="diabetes and self management">
+		<pop>In patients</pop> 
+		<prob>with type 2 diabetes mellitus,</prob> 
+		<int>does group-based education (GBE) in self management</int> 
+		<out>improve diabetes complications (foot ulcer, Albuminuria, diabetic Retinopathy)</out>
+	</query>
+	<query id="M4.1" before="20060701" keywords="diabetes and exercise and mortality">
+		<pop>In males and females</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>aerobic, fitness or progressive resistance training exercise</int> 
+		<comp>no exercise</comp> 
+		<out>glycaemic control measured as percent glycated haemoglobin (HbA1c)</out>
+	</query>
+	<query id="M5.1" before="20060801" keywords="gestational diabetes and exercise">
+		<pop>In pregnant women</pop> 
+		<prob>diabetes</prob> 
+		<int>exercise programs alone</int> 
+		<comp>no specific program</comp> 
+		<out>perinatal and maternal morbidity</out>
+	</query>
+	<query id="M5.2" before="20060801" keywords="gestational diabetes and exercise">
+		<pop>In pregnant women</pop> 
+		<prob>diabetes</prob> 
+		<int>exercise programs alone</int> 
+		<comp>no specific program</comp> 
+		<out>frequency of prescription of insulin to control glycaemia</out>
+	</query>
+	<query id="M5.3" before="20060801" keywords="gestational diabetes and exercise">
+		<pop>In pregnant women</pop> 
+		<prob>diabetes</prob> 
+		<int>exercise programs alone</int> 
+		<comp>other therapies</comp> 
+		<out>perinatal and maternal morbidity</out>
+	</query> 
+	<query id="M5.4" before="20060801" keywords="gestational diabetes and exercise">
+		<pop>In pregnant women</pop> 
+		<prob>diabetes</prob> 
+		<int>exercise programs alone</int> 
+		<comp>other therapies</comp> 
+		<out>frequency of prescription of insulin to control glycaemia</out>
+	</query>
+	<query id="M5.5" before="20060801" keywords="gestational diabetes and exercise">
+		<pop>In pregnant women</pop> 
+		<prob>diabetes</prob> 
+		<int>exercise programs in conjunction with other therapies</int> 
+		<comp>no specific program</comp> 
+		<out>perinatal and maternal morbidity</out>
+	</query>
+	<query id="M5.6" before="20060801" keywords="gestational diabetes and exercise">
+		<pop>In pregnant women</pop> 
+		<prob>diabetes</prob> 
+		<int>exercise programs in conjunction with other therapies</int> 
+		<comp>no specific program</comp> 
+		<out>frequency of prescription of insulin to control glycaemia</out>
+	</query>
+	<query id="M5.7" before="200608016" keywords="gestational diabetes and exercise">
+		<pop>In pregnant women</pop> 
+		<prob>diabetes</prob> 
+		<int>exercise programs in conjunction with other therapies</int> 
+		<comp>other therapies</comp> 
+		<out>perinatal and maternal morbidity</out>
+	</query> 
+	<query id="M5.8" before="20060801" keywords="gestational diabetes and exercise">
+		<pop>In pregnant women</pop> 
+		<prob>diabetes</prob> 
+		<int>exercise programs in conjunction with other therapies</int> 
+		<comp>other therapies</comp> 
+		<out>frequency of prescription of insulin to control glycaemia</out>
+	</query>
+	<query id="M6.1" before="20050201" keywords="orlistat and diabetes">
+		<pop>In obese patients</pop> 
+		<prob>diabetes</prob> 
+		<int>fluoxetine</int> 
+		<comp>Placebo</comp> 
+		<out>Weight loss</out>
+	</query>
+	<query id="M6.2" before="20050201" keywords="orlistat and diabetes">
+		<pop>In obese patients</pop> 
+		<prob>diabetes</prob> 
+		<int>orlistat</int> 
+		<comp>Placebo</comp> 
+		<out>Weight loss</out>
+	</query>
+	<query id="M6.3" before="20050201" keywords="orlistat and diabetes">
+		<pop>In obese patients</pop> 
+		<prob>diabetes</prob> 
+		<int>sibutramine</int> 
+		<comp>Placebo</comp> 
+		<out>Weight loss</out>
+	</query>
+	<query id="M7.1" before="20080201" keywords="omega-3 and diabetes and morbidity">
+		<pop>In people</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>omega-3 PUFA supplementation</int> 
+		<comp>Placebo</comp> 
+		<out>cardiovascular outcomes</out>
+	</query>
+	<query id="M7.2" before="20080201" keywords="omega-3 and diabetes and morbidity">
+		<pop>In People</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>omega-3 PUFA supplementation</int> 
+		<comp>Placebo</comp> 
+		<out>cholesterol levels</out>
+	</query>
+	<query id="M7.3" before="20080201" keywords="omega-3 and diabetes and morbidity">
+		<pop>In People</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>omega-3 PUFA supplementation</int> 
+		<comp>Placebo</comp> 
+		<out>glycemic control</out>
+	</query>
+	<query id="M8.1" before="20050801" keywords="metformin monotherapy and diabetes and mortality">
+		<pop>In people</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>metformin monotherapy</int> 
+		<comp>Placebo</comp> 
+		<out>mortality</out>
+	</query>
+	<query id="M8.2" before="20050801" keywords="metformin monotherapy and diabetes and mortality">
+		<pop>In People</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>metformin monotherapy</int> 
+		<comp>Placebo</comp> 
+		<out>morbidity</out>
+	</query>
+	<query id="M8.3" before="20050801" keywords="metformin monotherapy and diabetes and mortality">
+		<pop>In People</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>metformin monotherapy</int> 
+		<comp>Placebo</comp> 
+		<out>quality of life</out>
+	</query>
+	<query id="M8.4" before="20050801" keywords="metformin monotherapy and diabetes and mortality">
+		<pop>In People</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>metformin monotherapy</int> 
+		<comp>Placebo</comp> 
+		<out>glycaemic control</out>
+	</query>
+	<query id="M8.5" before="20050801" keywords="metformin monotherapy and diabetes and mortality">
+		<pop>In People</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>metformin monotherapy</int> 
+		<comp>Placebo</comp> 
+		<out>body weight</out>
+	</query>
+	<query id="M8.6" before="20050801" keywords="metformin monotherapy and diabetes and mortality">
+		<pop>In People</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>metformin monotherapy</int> 
+		<comp>Placebo</comp> 
+		<out>lipid levels</out>
+	</query>
+	<query id="M8.7" before="20050801" keywords="metformin monotherapy and diabetes and mortality">
+		<pop>In People</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>metformin monotherapy</int> 
+		<comp>Placebo</comp> 
+		<out>blood pressure</out>
+	</query>
+	<query id="M8.8" before="20050801" keywords="metformin monotherapy and diabetes and mortality">
+		<pop>In People</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>metformin monotherapy</int> 
+		<comp>Placebo</comp> 
+		<out>insulinaemia</out>
+	</query>
+	<query id="M8.9" before="20050801" keywords="metformin monotherapy and diabetes and mortality">
+		<pop>In People</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>metformin monotherapy</int> 
+		<comp>Placebo</comp> 
+		<out>albuminuria</out>
+	</query>
+	<query id="M8.10" before="20050801" keywords="metformin monotherapy and diabetes and mortality">
+		<pop>In people</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>metformin monotherapy</int> 
+		<comp>Sulphonylureas</comp> 
+		<out>mortality</out>
+	</query>
+	<query id="M8.11" before="20050801" keywords="metformin monotherapy and diabetes and mortality">
+		<pop>In People</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>metformin monotherapy</int> 
+		<comp>Sulphonylureas</comp> 
+		<out>morbidity</out>
+	</query>
+	<query id="M8.12" before="20050801" keywords="metformin monotherapy and diabetes and mortality">
+		<pop>In People</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>metformin monotherapy</int> 
+		<comp>Sulphonylureas</comp> 
+		<out>quality of life</out>
+	</query>
+	<query id="M8.13" before="20050801" keywords="metformin monotherapy and diabetes and mortality">
+		<pop>In People</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>metformin monotherapy</int> 
+		<comp>Sulphonylureas</comp> 
+		<out>glycaemic control</out>
+	</query>
+	<query id="M8.14" before="20050801" keywords="metformin monotherapy and diabetes and mortality">
+		<pop>In People</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>metformin monotherapy</int> 
+		<comp>Sulphonylureas</comp> 
+		<out>body weight</out>
+	</query>
+	<query id="M8.15" before="20050801" keywords="metformin monotherapy and diabetes and mortality">
+		<pop>In People</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>metformin monotherapy</int> 
+		<comp>Sulphonylureas</comp> 
+		<out>lipid levels</out>
+	</query>
+	<query id="M8.16" before="20050801" keywords="metformin monotherapy and diabetes and mortality">
+		<pop>In People</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>metformin monotherapy</int> 
+		<comp>Sulphonylureas</comp> 
+		<out>blood pressure</out>
+	</query>
+	<query id="M8.17" before="20050801" keywords="metformin monotherapy and diabetes and mortality">
+		<pop>In People</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>metformin monotherapy</int> 
+		<comp>Sulphonylureas</comp> 
+		<out>insulinaemia</out>
+	</query>
+	<query id="M8.18" before="20050801" keywords="metformin monotherapy and diabetes and mortality">
+		<pop>In People</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>metformin monotherapy</int> 
+		<comp>Sulphonylureas</comp> 
+		<out>albuminuria</out>
+	</query>
+	<query id="M9.1" before="20070501" keywords="Long-acting insulin analogues and NPH insulin and morbidity">
+		<pop>In people</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>long-term treatment with long-acting insulin analogues (insulin glargine and insulin detemir)</int> 
+		<comp>NPH insulin</comp> 
+		<out>HbA1c</out>
+	</query>
+	<query id="M10.1" before="20030101" keywords="HbA1C and dementia">
+		<pop>In people</pop> 
+		<prob>type 2 diabetes mellitus</prob> 
+		<int>Intensive diabetic control</int> 
+		<comp>Normal diabetic control</comp> 
+		<out>development of cognitive impairment and dementia</out>
+	</query>
+	<query id="Q12.1" before="20090501" keywords="antiepileptics and aggression">
+		<pop>people</pop> 
+		<prob>recurrent aggression</prob> 
+		<int>any antiepileptic drug in any dosage, length of time</int>
+		<comp>placebo</comp>
+		<out>observer-reported aggression (Modified Overt Aggression Scale)</out> 
+	</query>
+	<query id="Q12.2" before="20090501" keywords="antiepileptics and aggression">
+		<pop>people</pop> 
+		<prob>recurrent aggression</prob> 
+		<int>any antiepileptic drug in any dosage, length of time</int>
+		<comp>placebo</comp>
+		<out>adverse event, weight gain</out> 
+	</query>
+	<query id="Q12.3" before="20090501" keywords="antiepileptics and aggression">
+		<pop>people</pop> 
+		<prob>recurrent aggression</prob> 
+		<int>any antiepileptic drug in any dosage, length of time</int>
+		<comp>placebo</comp>
+		<out>anger (more than one angry outburst over 6 weeks)</out> 
+	</query>
+	<query id="Q13.1" before="20081001" keywords="antifungal">
+		<pop>Infants and children (age older than 28 days and up to 16 years)</pop> 
+		<prob>proven, probable, suspected invasive fungal infection</prob> 
+		<int>antifungal therapy</int>
+		<comp>different systemic antifungal agents or combination of agents/no treatment/inactive placebo</comp>
+		<out>mortality regardless of cause</out> 
+		<dur>short term to medium term</dur>
+	</query>
+	<query id="Q13.2" before="20081001" keywords="antifungal">
+		<pop>Infants and children (age older than 28 days and up to 16 years)</pop> 
+		<prob>proven, probable, suspected invasive fungal infection</prob> 
+		<int>antifungal therapy</int>
+		<comp>different systemic antifungal agents or combination of agents/no treatment/inactive placebo</comp>
+		<out>complete resolution of fungal infection</out> 
+		<dur>short term to medium term</dur>
+	</query>
+	<query id="Q13.3" before="20081001" keywords="antifungal">
+		<pop>Infants and children (age older than 28 days and up to 16 years)</pop> 
+		<prob>proven, probable, suspected invasive fungal infection</prob> 
+		<int>antifungal therapy</int>
+		<comp>different systemic antifungal agents or combination of agents/no treatment/inactive placebo</comp>
+		<out>resolution of fever in suspected fungal infection</out> 
+		<dur>short term to medium term</dur>
+	</query>
+	<query id="Q14.1" before="20090201" keywords="cervical preparation and abortion">
+		<pop>women</pop> 
+		<prob>pregnant undergoing surgical abortion at less than 14 weeks gestation</prob> 
+		<int>any type of cervical preparation administered prior to first trimester surgical abortion (excluding nitric oxide donors)</int>
+		<comp>placebo</comp>
+		<out>cervical dilation at procedure start</out> 
+		<dur>short term</dur>
+	</query>
+	<query id="Q14.2" before="20090201" keywords="cervical preparation and abortion">
+		<pop>women</pop> 
+		<prob>pregnant undergoing surgical abortion at less than 14 weeks gestation</prob> 
+		<int>any type of cervical preparation administered prior to first trimester surgical abortion (excluding nitric oxide donors)</int>
+		<comp>placebo</comp>
+		<out>nausea</out> 
+		<dur>short term</dur>
+	</query>
+	<query id="Q14.3" before="20090201" keywords="cervical preparation and abortion">
+		<pop>women</pop> 
+		<prob>pregnant undergoing surgical abortion at less than 14 weeks gestation</prob> 
+		<int>any type of cervical preparation administered prior to first trimester surgical abortion (excluding nitric oxide donors)</int>
+		<comp>placebo</comp>
+		<out>need for additional mechanical dilation</out> 
+		<dur>short term</dur>
+	</query>
+	<query id="Q15.1" before="20080301" keywords="risperidone and schizophrenia">
+		<pop>adults 18 or older</pop> 
+		<prob>schizophrenia and other schizophrenia-like psychoses</prob> 
+		<int>oral risperidone, any dose or form</int>
+		<comp>placebo</comp>
+		<out>severity of illness</out> 
+		<dur>short term (up to 12 weeks)/medium term (13-26 weeks)/long term (26+ weeks)</dur>
+	</query>
+	<query id="Q15.2" before="20080301" keywords="risperidone and schizophrenia">
+		<pop>adults 18 or older</pop> 
+		<prob>schizophrenia and other schizophrenia-like psychoses</prob> 
+		<int>oral risperidone, any dose or form</int>
+		<comp>placebo</comp>
+		<out>mental state, no specific degree of response (defined by PANSS total change)</out> 
+		<dur>short term (up to 12 weeks)/medium term (13-26 weeks)/long term (26+ weeks)</dur>
+	</query>
+	<query id="Q15.3" before="20080301" keywords="risperidone and schizophrenia">
+		<pop>adults 18 or older</pop> 
+		<prob>schizophrenia and other schizophrenia-like psychoses</prob> 
+		<int>oral risperidone, any dose or form</int>
+		<comp>placebo</comp>
+		<out>average endpoint scores, various scales</out> 
+		<dur>short term (up to 12 weeks)/medium term (13-26 weeks)/long term (26+ weeks)</dur>
+	</query>
+	<query id="Q16.1" before="20090401" keywords="serotonin antagonist and chemotherapy">
+		<pop>people older than 16 years</pop> 
+		<prob>undergoing highly emetogenic chemotherapy</prob> 
+		<int>5-HT3 receptor antagonist as single anti-emetic</int>
+		<comp>different 5-HT3 receptor antagonist as single anti-emetic</comp>
+		<out>acute nausea and vomiting</out> 
+		<dur>short term</dur>
+	</query>
+	<query id="Q16.2" before="20090401" keywords="serotonin antagonist and chemotherapy">
+		<pop>people older than 16 years</pop> 
+		<prob>undergoing highly emetogenic chemotherapy</prob> 
+		<int>5-HT3 receptor antagonist as single anti-emetic</int>
+		<comp>different 5-HT3 receptor antagonist in combination with cortecosterois</comp>
+		<out>acute nausea and vomiting</out> 
+		<dur>short term</dur>
+	</query>
+	<query id="Q17.1" before="20080601" keywords="rheumatoid arthritis and surgery">
+		<pop>people 16 years or older</pop> 
+		<prob>rheumatoid arthritis</prob> 
+		<int>all forms of surgical treatment in the management of the rheumatoid arthritis</int>
+		<comp>no treatment/placebo/other therapy</comp>
+		<out>pain at 1-year follow-up</out> 
+		<dur>1 year</dur>
+	</query>
+	<query id="Q17.2" before="20080601" keywords="rheumatoid arthritis and surgery">
+		<pop>people 16 years or older</pop> 
+		<prob>rheumatoid arthritis</prob> 
+		<int>all forms of surgical treatment in the management of the rheumatoid arthritis</int>
+		<comp>no treatment/placebo/other therapy</comp>
+		<out>range of motion  at 1-year follow-up</out> 
+		<dur>1 year</dur>
+	</query>
+	<query id="Q17.3" before="20080601" keywords="rheumatoid arthritis and surgery">
+		<pop>people 16 years or older</pop> 
+		<prob>rheumatoid arthritis</prob> 
+		<int>all forms of surgical treatment in the management of the rheumatoid arthritis</int>
+		<comp>no treatment/placebo/other therapy</comp>
+		<out>strength at 1-year follow-up</out> 
+		<dur>1 year</dur>
+	</query>
+	<query id="Q18.1" before="20100101" keywords="antidepressants and illness">
+		<pop>adults 18 years or older</pop> 
+		<prob>depression in context of physical illness</prob> 
+		<int>all types of antidepressants</int>
+		<comp>placebo</comp>
+		<out>response to treatment</out> 
+		<dur>6-8 weeks</dur>
+	</query>
+	<query id="Q18.2" before="20100101" keywords="antidepressants and illness">
+		<pop>adults 18 years or older</pop> 
+		<prob>depression in context of physical illness</prob> 
+		<int>all types of antidepressants</int>
+		<comp>placebo</comp>
+		<out>depression scores</out> 
+		<dur>4-5 weeks</dur>
+	</query>
+	<query id="Q19.1" before="20090701" keywords="antiretroviral and HIV and pregnancy">
+		<pop>women</pop> 
+		<prob>pregnant and HIV-infected requiring antiretroviral therapy (ART)</prob> 
+		<int>antiretroviral therapy (ART) regime</int>
+		<comp>another ART regime</comp>
+		<out>infant mortality</out> 
+		<dur>6 months</dur>
+	</query>
+	<query id="Q19.2" before="20090701" keywords="antiretroviral and HIV and pregnancy">
+		<pop>women</pop> 
+		<prob>pregnant and HIV-infected requiring antiretroviral therapy (ART)</prob> 
+		<int>antiretroviral therapy (ART) regime</int>
+		<comp>another ART regime</comp>
+		<out>maternal mortality</out> 
+		<dur>6 months</dur>
+	</query>
+	<query id="Q19.3" before="20090701" keywords="antiretroviral and HIV and pregnancy">
+		<pop>women</pop> 
+		<prob>pregnant and HIV-infected requiring antiretroviral therapy (ART)</prob> 
+		<int>antiretroviral therapy (ART) regime</int>
+		<comp>another ART regime</comp>
+		<out>infant low birth weight</out>
+	</query>
+	<query id="Q20.1" before="20090901" keywords="chest physiotherapy and pneumonia">
+		<pop>adults 18 years of age or older</pop> 
+		<prob>any type of pneumonia</prob> 
+		<int>chest physiotherapy of any type</int>
+		<comp>no chest physiotherapy</comp>
+		<out>mortality</out>
+	</query>
+	<query id="Q20.2" before="20090901" keywords="chest physiotherapy and pneumonia">
+		<pop>adults 18 years of age or older</pop> 
+		<prob>any type of pneumonia</prob> 
+		<int>chest physiotherapy of any type</int>
+		<comp>no chest physiotherapy</comp>
+		<out>cure rate</out>
+	</query>
+	<query id="Q20.3" before="20090901" keywords="chest physiotherapy and pneumonia">
+		<pop>adults 18 years of age or older</pop> 
+		<prob>any type of pneumonia</prob> 
+		<int>chest physiotherapy of any type</int>
+		<comp>no chest physiotherapy</comp>
+		<out>duration of hospital stay</out>
+	</query>
+	<query id="Q1.1" before="20090601" keywords="diabetes and foot ulcer">
+		<pop>adults (18 or older)</pop> 
+		<prob>diabetes mellitus</prob> 
+		<int>complex intervention</int>
+		<comp>single interventions/usual care/alternative complex interventions</comp>
+		<out>foot ulcers</out> 
+		<dur>2 years</dur>
+	</query>
+	<query id="Q1.2" before="20090601" keywords="diabetes and foot ulcer">
+		<pop>adults (18 or older)</pop> 
+		<prob>diabetes mellitus</prob> 
+		<int>complex intervention</int>
+		<comp>single interventions/usual care/alternative complex interventions</comp>
+		<out>amputation (partial/total)</out> 
+		<dur>2 years</dur>
+	</query>
+	<query id="Q1.3" before="20090601" keywords="diabetes and foot ulcer">
+		<pop>adults (18 or older)</pop> 
+		<prob>diabetes mellitus</prob> 
+		<int>preventative intervention</int>
+		<comp>usual care</comp>
+		<out>patient self-care behaviour</out> 
+		<dur>12 months</dur>
+	</query>
+	<query id="Q2.1" before="20090801" keywords="diabetes and insulin infusion">
+		<pop>adults and children</pop> 
+		<prob>type 1 diabetes mellitus</prob> 
+		<int>continuous subcutaneous insulin infusion</int>
+		<comp>multiple insulin injections</comp>
+		<out>HbA1c</out> 
+		<dur>short/medium/long term</dur>
+	</query>
+	<query id="Q2.2" before="20090801" keywords="diabetes and insulin infusion">
+		<pop>adults and children</pop> 
+		<prob>type 1 diabetes mellitus</prob> 
+		<int>continuous subcutaneous insulin infusion</int>
+		<comp>multiple insulin injections</comp>
+		<out>daily mean blood glucose</out> 
+		<dur>short/medium/long term</dur>
+	</query>
+	<query id="Q2.3" before="20090801" keywords="diabetes and insulin infusion">
+		<pop>adults and children</pop> 
+		<prob>type 1 diabetes mellitus</prob> 
+		<int>continuous subcutaneous insulin infusion</int>
+		<comp>multiple insulin injections</comp>
+		<out>hypoglycaemic episodes</out> 
+	</query>
+	<query id="Q3.1" before="20090201" keywords="disulfiram and cocaine">
+		<pop>adults</pop> 
+		<prob>cocaine dependent</prob> 
+		<int>disulfiram alone or in combination with any psychosocial intervention</int>
+		<comp>placebo/no intervention/naltrexone</comp>
+		<out>dropouts from the treatment</out> 
+		<dur>short-term (11-12 weeks)</dur>
+	</query>
+	<query id="Q3.2" before="20090201" keywords="disulfiram and cocaine">
+		<pop>adults</pop> 
+		<prob>cocaine dependent</prob> 
+		<int>disulfiram alone or in combination with any psychosocial intervention</int>
+		<comp>placebo/no intervention/naltrexone</comp>
+		<out>maximum weeks of consecutive abstinence from cocaine</out> 
+		<dur>short-term (11-12 weeks)</dur>
+	</query>
+	<query id="Q4.1" before="20090201" keywords="colorectal cancer and chemotherapy">
+		<pop>adults</pop> 
+		<prob>non-metastatic colorectal cancer</prob> 
+		<int>6-month adjuvant chemotherapy</int>
+		<comp>9- or 12-month adjuvant chemotherapy</comp>
+		<out>relapse free survival</out> 
+		<dur>6-12 months</dur>
+	</query>
+	<query id="Q4.2" before="20090201" keywords="colorectal cancer and chemotherapy">
+		<pop>adults</pop> 
+		<prob>non-metastatic colorectal cancer</prob> 
+		<int>6-month adjuvant chemotherapy</int>
+		<comp>9- or 12-month adjuvant chemotherapy</comp>
+		<out>overall survival</out> 
+		<dur>6-12 months</dur>
+	</query>
+	<query id="Q5.1" before="20080201" keywords="cyclosporine and blood pressure">
+		<pop>patients (no age restriction)</pop> 
+		<prob>receiving cyclosporine treatment for any disease</prob> 
+		<int>cyclosporine</int>
+		<comp>placebo</comp>
+		<out>mean arterial pressure</out> 
+		<dur>short term (1 day to 17 weeks)</dur>
+	</query>
+	<query id="Q5.2" before="20080201" keywords="cyclosporine and blood pressure">
+		<pop>patients (no age restriction)</pop> 
+		<prob>receiving cyclosporine treatment for any disease</prob> 
+		<int>cyclosporine</int>
+		<comp>placebo</comp>
+		<out>mean arterial pressure</out> 
+		<dur>short term (1 day to 17 weeks)</dur>
+	</query>
+	<query id="Q5.3" before="20080201" keywords="cyclosporine and blood pressure">
+		<pop>patients (no age restriction)</pop> 
+		<prob>receiving cyclosporine treatment for any disease</prob> 
+		<int>cyclosporine</int>
+		<comp>placebo</comp>
+		<out>blood pressure</out> 
+		<dur>short term (1 day to 17 weeks)</dur>
+	</query>
+	<query id="Q6.1" before="20091101" keywords="IVF and GnRH">
+		<pop>women</pop> 
+		<prob>undergoing assisted reproductive technology procedure with frozen embryo replacement cycles</prob> 
+		<int>endometrial preparation with GnRH agonists</int>
+		<comp>endometrial preparation with other GnRH agonists/no treatment</comp>
+		<out>live birth rate</out> 
+		<dur>until live birth</dur>
+	</query>
+	<query id="Q6.2" before="20091101" keywords="IVF and GnRH">
+		<pop>women</pop> 
+		<prob>undergoing assisted reproductive technology procedure with frozen embryo replacement cycles</prob> 
+		<int>endometrial preparation with estrogen</int>
+		<comp>endometrial preparation with other doses of estrogen</comp>
+		<out>clinical pregnancy</out> 
+		<dur>until live birth</dur>
+	</query>
+	<query id="Q6.3" before="20091101" keywords="IVF and GnRH">
+		<pop>women</pop> 
+		<prob>undergoing assisted reproductive technology procedure with fresh donor cycles</prob> 
+		<int>endometrial preparation with GnRH agonists</int>
+		<comp>endometrial preparation with other GnRH agonists/no treatment</comp>
+		<out>cancelled cycles</out> 
+		<dur>until live birth</dur>
+	</query>
+	<query id="Q7.1" before="20081101" keywords="heart failure and anemia">
+		<pop>adults</pop> 
+		<prob>symptomatic chronic heart failure and anaemia</prob> 
+		<int>any erythropoeisis-stimulating agent with or without iron supplementation</int>
+		<comp>placebo/no treatment</comp>
+		<out>exercise tolerance</out> 
+		<dur>2-12 months</dur>
+	</query>
+	<query id="Q7.2" before="20081101" keywords="heart failure and anemia">
+		<pop>adults</pop> 
+		<prob>symptomatic chronic heart failure and anaemia</prob> 
+		<int>any erythropoeisis-stimulating agent with or without iron supplementation</int>
+		<comp>placebo/no treatment</comp>
+		<out>quality of life</out> 
+		<dur>2-12 months</dur>
+	</query>
+	<query id="Q7.3" before="20081101" keywords="heart failure and anemia">
+		<pop>adults</pop> 
+		<prob>symptomatic chronic heart failure and anaemia</prob> 
+		<int>any erythropoeisis-stimulating agent with or without iron supplementation</int>
+		<comp>placebo/no treatment</comp>
+		<out>haemoglobin level</out> 
+		<dur>2-12 months</dur>
+	</query>
+	<query id="Q8.1" before="20071101" keywords="chronic musculoskeletal pain and exercise">
+		<pop>adults</pop> 
+		<prob>chronic musculoskeletal pain</prob> 
+		<int>interventions aimed to improve adherence to exercise or physical activity</int>
+		<comp>no intervention/other exercise interventions</comp>
+		<out>adherence to exercise program</out> 
+		<dur>3 weeks to 30 months</dur>
+	</query>
+	<query id="Q8.2" before="20071101" keywords="chronic musculoskeletal pain and exercise">
+		<pop>adults</pop> 
+		<prob>chronic musculoskeletal pain</prob> 
+		<int>interventions aimed to improve adherence to exercise or physical activity</int>
+		<comp>no intervention/other exercise interventions</comp>
+		<out>quality of life</out> 
+		<dur>3 weeks to 30 months</dur>
+	</query>
+	<query id="Q21.1" before="20091101" keywords="catheter replacement and routine">
+		<pop>adults</pop> 
+		<prob>requiring peripheral IV catheter in situ for atleast 3 days for administration of intermittent/continuous therapy</prob> 
+		<int>clinically-indicated replacement of peripheral IV catheter</int>
+		<comp>routine replacement, any duration</comp>
+		<out>suspected catheter-related bacteraemia</out>
+	</query>
+	<query id="Q21.2" before="20091101" keywords="catheter replacement and routine">
+		<pop>adults</pop> 
+		<prob>requiring peripheral IV catheter in situ for atleast 3 days for administration of intermittent/continuous therapy</prob> 
+		<int>clinically-indicated replacement of peripheral IV catheter</int>
+		<comp>routine replacement, any duration</comp>
+		<out>thrombophlebitis</out>
+	</query>
+	<query id="Q21.3" before="20091101" keywords="catheter replacement and routine">
+		<pop>adults</pop> 
+		<prob>requiring peripheral IV catheter in situ for atleast 3 days for administration of intermittent/continuous therapy</prob> 
+		<int>clinically-indicated replacement of peripheral IV catheter</int>
+		<comp>routine replacement, any duration</comp>
+		<out>cost of materials and labour associated with IV catheter-related insertion</out>
+	</query>
+	<query id="Q22.1" before="20080501" keywords="clinical pathway and hospital">
+		<pop>health professionals/patients</pop> 
+		<prob>involved in clinical pathway (CPW) utilization in hospital setting</prob> 
+		<int>standalone clinical pathway</int>
+		<comp>usual care</comp>
+		<out>length of stay</out>
+	</query>
+	<query id="Q22.2" before="20080501" keywords="clinical pathway and hospital">
+		<pop>health professionals/patients</pop> 
+		<prob>involved in clinical pathway (CPW) utilization in hospital setting</prob> 
+		<int>standalone clinical pathway</int>
+		<comp>usual care</comp>
+		<out>patient satisfaction</out>
+	</query>
+	<query id="Q22.3" before="20080501" keywords="clinical pathway and hospital">
+		<pop>health professionals/patients</pop> 
+		<prob>involved in clinical pathway (CPW) utilization in hospital setting</prob> 
+		<int>standalone clinical pathway</int>
+		<comp>usual care</comp>
+		<out>direct hospital costs</out>
+	</query>
+	<query id="Q23.1" before="20080901" keywords="traumatic stress and psychological intervention">
+		<pop>adults</pop> 
+		<prob>exposed to traumatic event with psychological intervention within 3 months of event</prob> 
+		<int>any psychological intervention designed to treat/reduce symptoms of traumatic stress</int>
+		<comp>wait list/usual care/other psychological intervention</comp>
+		<out>severity of PTSD symptoms (clinician administered)</out> 
+		<dur>3-5 months</dur>
+	</query>
+	<query id="Q23.2" before="20080901" keywords="traumatic stress and psychological intervention">
+		<pop>adults</pop> 
+		<prob>exposed to traumatic event with psychological intervention within 3 months of event</prob> 
+		<int>any psychological intervention designed to treat/reduce symptoms of traumatic stress</int>
+		<comp>wait list/usual care/other psychological intervention</comp>
+		<out>depression</out> 
+		<dur>9-11 months</dur>
+	</query>
+	<query id="Q23.3" before="20080901" keywords="traumatic stress and psychological intervention">
+		<pop>adults</pop> 
+		<prob>exposed to traumatic event with psychological intervention within 3 months of event</prob> 
+		<int>any psychological intervention designed to treat/reduce symptoms of traumatic stress</int>
+		<comp>wait list/usual care/other psychological intervention</comp>
+		<out>anxiety</out> 
+		<dur>short term (initial)</dur>
+	</query>
+	<query id="Q24.1" before="20091101" keywords="fibrinolytic agent and ischemia">
+		<pop>adults</pop> 
+		<prob>requiring peripheral arterial thrombolysis to achieve patency after a thrombo-embolic occlusion of a native peripheral artery or thrombosed lower limb graft</prob> 
+		<int>all types of thrombolytic interventions</int>
+		<comp>other agents</comp>
+		<out>vessel patency post-lysis</out> 
+		<dur>immediate</dur>
+	</query>
+	<query id="Q24.2" before="20091101" keywords="fibrinolytic agent and ischemia">
+		<pop>adults</pop> 
+		<prob>requiring peripheral arterial thrombolysis to achieve patency after a thrombo-embolic occlusion of a native peripheral artery or thrombosed lower limb graft</prob> 
+		<int>all types of thrombolytic interventions</int>
+		<comp>other agents</comp>
+		<out>amputation</out> 
+		<dur>30 days</dur>
+	</query>
+	<query id="Q24.3" before="20091101" keywords="fibrinolytic agent and ischemia">
+		<pop>adults</pop> 
+		<prob>requiring peripheral arterial thrombolysis to achieve patency after a thrombo-embolic occlusion of a native peripheral artery or thrombosed lower limb graft</prob> 
+		<int>all types of thrombolytic interventions</int>
+		<comp>other agents</comp>
+		<out>asymptomatic limb salvage</out> 
+		<dur>30 days</dur>
+	</query>
+	<query id="Q25.1" before="20091101" keywords="fluvoxamine and depression">
+		<pop>adults 18 or older</pop> 
+		<prob>primary diagnosis of depression</prob> 
+		<int>fluvoxamine, any dose/mode/pattern of administration</int>
+		<comp>imipramine</comp>
+		<out>response, reduction of atleast 50% on Hamilton Rating Scale for Depression or Montgomery Asberg Depression Rating Scale (acute phase)</out> 
+		<dur>6-12 weeks</dur>
+	</query>
+	<query id="Q25.2" before="20091101" keywords="fluvoxamine and depression">
+		<pop>adults 18 or older</pop> 
+		<prob>primary diagnosis of depression</prob> 
+		<int>fluvoxamine, any dose/mode/pattern of administration</int>
+		<comp>clomipramine</comp>
+		<out>response, reduction of atleast 50% on Hamilton Rating Scale for Depression or Montgomery Asberg Depression Rating Scale (early phase)</out> 
+		<dur>1-4 weeks</dur>
+	</query>
+	<query id="Q25.3" before="20091101" keywords="fluvoxamine and depression">
+		<pop>adults 18 or older</pop> 
+		<prob>primary diagnosis of depression</prob> 
+		<int>fluvoxamine, any dose/mode/pattern of administration</int>
+		<comp>tricyclics (TCAs)</comp>
+		<out>remission (acute phase)</out> 
+		<dur>6-12 weeks</dur>
+	</query>
+	<query id="Q26.1" before="20090501" keywords="silver and wound infection">
+		<pop>adults 18 years and over</pop> 
+		<prob>any type of wound in any care setting</prob> 
+		<int>topical applications containing silver</int>
+		<comp>topical applications without silver</comp>
+		<out>number of patients that developed wound infection</out>
+	</query>
+	<query id="Q26.2" before="20090501" keywords="silver and wound infection">
+		<pop>adults 18 years and over</pop> 
+		<prob>any type of wound in any care setting</prob> 
+		<int>wound dressings containing silver</int>
+		<comp>wound dressings without silver</comp>
+		<out>mean pain scores</out>
+	</query>
+	<query id="Q26.3" before="20090501" keywords="silver and wound infection">
+		<pop>adults 18 years and over</pop> 
+		<prob>any type of wound in any care setting</prob> 
+		<int>wound dressings containing silver</int>
+		<comp>wound dressings without silver</comp>
+		<out>number of patients that developed wound infection</out>
+	</query>
+	<query id="Q27.1" before="20071201" keywords="self-monitoring and anticoagulation">
+		<pop>adults and children</pop> 
+		<prob>long term anticoagulant therapy (longer than two months) irrespective of indication for treatment</prob> 
+		<int>self-monitoring or self-management</int>
+		<comp>control of dosage by personal physician/anticoagulation managed services/anticoagulation clinics</comp>
+		<out>thromboembolic events</out> 
+		<dur>medium term (3-12 months)</dur>
+	</query>
+	<query id="Q27.2" before="20071201" keywords="self-monitoring and anticoagulation">
+		<pop>adults and children</pop> 
+		<prob>long term anticoagulant therapy (longer than two months) irrespective of indication for treatment</prob> 
+		<int>self-monitoring or self-management</int>
+		<comp>control of dosage by personal physician/anticoagulation managed services/anticoagulation clinics</comp>
+		<out>mortality</out> 
+		<dur>medium term (3-12 months)</dur>
+	</query>
+	<query id="Q27.3" before="20071201" keywords="self-monitoring and anticoagulation">
+		<pop>adults and children</pop> 
+		<prob>long term anticoagulant therapy (longer than two months) irrespective of indication for treatment</prob> 
+		<int>self-monitoring or self-management</int>
+		<comp>control of dosage by personal physician/anticoagulation managed services/anticoagulation clinics</comp>
+		<out>major haemorrhage</out> 
+		<dur>medium term (3-12 months)</dur>
+	</query>
+	<query id="Q28.1" before="20100101" keywords="cesarian and antiseptic and infection">
+		<pop>women</pop> 
+		<prob>pregnant</prob> 
+		<int>any method of vaginal cleansing with any type of antiseptic solution</int>
+		<comp>placebo solution/standard of care (no vaginal preparation)</comp>
+		<out>post-cesarean endometriosis</out>
+	</query>
+	<query id="Q28.2" before="20100101" keywords="cesarian and antiseptic and infection">
+		<pop>women</pop> 
+		<prob>pregnant</prob> 
+		<int>any method of vaginal cleansing with any type of antiseptic solution</int>
+		<comp>placebo solution/standard of care (no vaginal preparation)</comp>
+		<out>postoperative fever</out> 
+		<dur>short-term</dur>
+	</query>
+	<query id="Q28.3" before="20100101" keywords="cesarian and antiseptic and infection">
+		<pop>women</pop> 
+		<prob>pregnant</prob> 
+		<int>any method of vaginal cleansing with any type of antiseptic solution</int>
+		<comp>placebo solution/standard of care (no vaginal preparation)</comp>
+		<out>wound infection</out> 
+		<dur>short-term</dur>
+	</query>
+	<query id="Q29.1" before="20090501" keywords="urinary catheter and washout">
+		<pop>adults over 16 years old</pop> 
+		<prob>indwelling urethral, suprapubic or perineal catheter in-situ for more than 28 days</prob> 
+		<int>catheter washouts with water/saline/antiseptic/acidic or antibiotic solutions/combination of these</int>
+		<comp>no washout</comp>
+		<out>weeks to first catheter change</out> 
+		<dur>medium term</dur>
+	</query>
+	<query id="Q29.2" before="20090501" keywords="urinary catheter and washout">
+		<pop>adults over 16 years old</pop> 
+		<prob>indwelling urethral, suprapubic or perineal catheter in-situ for more than 28 days</prob> 
+		<int>citric acid washout</int>
+		<comp>saline washout</comp>
+		<out>number of people with symptomatic UTI</out>
+	</query>
+	<query id="Q29.3" before="20090501" keywords="urinary catheter and washout">
+		<pop>adults over 16 years old</pop> 
+		<prob>indwelling urethral, suprapubic or perineal catheter in-situ for more than 28 days</prob> 
+		<int>citric acid washout</int>
+		<comp>saline washout</comp>
+		<out>weeks to first catheter change</out> 
+		<dur>medium term</dur>
+	</query>
+	<query id="Q30.1" before="20090901" keywords="stroke and arm and bilateral training">
+		<pop>adults</pop> 
+		<prob>clinical diagnosis of stroke</prob> 
+		<int>simultaneous bilateral training</int>
+		<comp>usual care</comp>
+		<out>performance in activities of daily living</out>
+	</query>
+	<query id="Q30.2" before="20090901" keywords="stroke and arm and bilateral training">
+		<pop>adults</pop> 
+		<prob>clinical diagnosis of stroke</prob> 
+		<int>simultaneous bilateral training</int>
+		<comp>usual care</comp>
+		<out>functional movement of upper limb</out>
+	</query>
+	<query id="Q30.3" before="20090901" keywords="stroke and arm and bilateral training">
+		<pop>adults</pop> 
+		<prob>clinical diagnosis of stroke</prob> 
+		<int>simultaneous bilateral training</int>
+		<comp>usual care</comp>
+		<out>motor impairment of upper limb</out>
+	</query>
+	<query id="Q31.1" before="20091201" keywords="codeine and postoperative pain">
+		<pop>adults (15 years old or above)</pop> 
+		<prob>moderate to severe postoperative pain</prob> 
+		<int>orally administered codeine</int>
+		<comp>placebo</comp>
+		<out>participants with ≥50% pain relief</out> 
+		<dur>4-6 hours</dur>
+	</query>
+	<query id="Q31.2" before="20091201" keywords="codeine and postoperative pain">
+		<pop>adults (15 years old or above)</pop> 
+		<prob>moderate to severe postoperative pain</prob> 
+		<int>orally administered codeine</int>
+		<comp>placebo</comp>
+		<out>more than 1 adverse event</out>
+	</query>
+	<query id="Q31.3" before="20091201" keywords="codeine and postoperative pain">
+		<pop>adults (15 years old or above)</pop> 
+		<prob>moderate to severe postoperative pain</prob> 
+		<int>orally administered codeine</int>
+		<comp>placebo</comp>
+		<out>participants using rescue medication</out> 
+		<dur>4-6 hours</dur>
+	</query>
+	<query id="Q32.1" before="20100201" keywords="diflusinal and postoperative pain">
+		<pop>adults (15 years old or above)</pop> 
+		<prob>moderate to severe intensity pain following day surgery/in-patient surgery</prob> 
+		<int>single oral dose of diflusinal</int>
+		<comp>placebo</comp>
+		<out>participants with ≥50% pain relief</out> 
+		<dur>4-6 weeks</dur>
+	</query>
+	<query id="Q32.2" before="20100201" keywords="diflusinal and postoperative pain">
+		<pop>adults (15 years old or above)</pop> 
+		<prob>moderate to severe intensity pain following day surgery/in-patient surgery</prob> 
+		<int>single oral dose of diflusinal</int>
+		<comp>placebo</comp>
+		<out>participants using rescue medication</out> 
+		<dur>6 hours</dur>
+	</query>
+	<query id="Q32.3" before="20100201" keywords="diflusinal and postoperative pain">
+		<pop>adults (15 years old or above)</pop> 
+		<prob>moderate to severe intensity pain following day surgery/in-patient surgery</prob> 
+		<int>single oral dose of diflusinal</int>
+		<comp>placebo</comp>
+		<out>atleast one adverse event</out>
+	</query>
+	<query id="Q33.1" before="20090401" keywords="insemination and synchronisation">
+		<pop>adult couples</pop> 
+		<prob>subfertility where intrauterine insemination (IUI) is first treatment option</prob> 
+		<int>hCG synchronization method for IUI</int>
+		<comp>LH surge synchronization method for IUI</comp>
+		<out>live birth rate per couple</out>
+	</query>
+	<query id="Q33.2" before="20090401" keywords="insemination and synchronisation">
+		<pop>adult couples</pop> 
+		<prob>subfertility where intrauterine insemination (IUI) is first treatment option</prob> 
+		<int>hCG synchronization method for IUI</int>
+		<comp>LH surge synchronization method for IUI</comp>
+		<out>pregnancy rate per couple</out>
+	</query>
+	<query id="Q33.3" before="20090401" keywords="insemination and synchronisation">
+		<pop>adult couples</pop> 
+		<prob>subfertility where intrauterine insemination (IUI) is first treatment option</prob> 
+		<int>u-hCG synchronization method for IUI</int>
+		<comp>r-hCG synchronization method for IUI</comp>
+		<out>multiple pregnancy rate per couple</out>
+	</query>
+	<query id="Q34.1" before="20100201" keywords="triptan and cluster headache">
+		<pop>adults (18 years of age or older)</pop> 
+		<prob>cluster headache</prob> 
+		<int>zolmitriptan</int>
+		<comp>placebo</comp>
+		<out>headache relief</out> 
+		<dur>30 minutes</dur>
+	</query>
+	<query id="Q34.2" before="20100201" keywords="triptan and cluster headache">
+		<pop>adults (18 years of age or older)</pop> 
+		<prob>cluster headache</prob> 
+		<int>sumatriptan</int>
+		<comp>placebo</comp>
+		<out>headache relief</out> 
+		<dur>15 minutes</dur>
+	</query>
+	<query id="Q34.3" before="20100201" keywords="triptan and cluster headache">
+		<pop>adults (18 years of age or older)</pop> 
+		<prob>cluster headache</prob> 
+		<int>zolmitriptan</int>
+		<comp>placebo</comp>
+		<out>pain-free</out> 
+		<dur>15 minutes</dur>
+	</query>
+	<query id="Q35.1" before="20091001" keywords="ultrasound and early pregnancy">
+		<pop>women</pop> 
+		<prob>early pregnancies (less than 24 weeks gestation)</prob> 
+		<int>routine/revealed ultrasound examination</int>
+		<comp>selective/concealed ultrasound examination</comp>
+		<out>detection of fetal abnormality before 24 weeks gestation</out> 
+		<dur>medium term</dur>
+	</query>
+	<query id="Q35.2" before="20091001" keywords="ultrasound and early pregnancy">
+		<pop>women</pop> 
+		<prob>early pregnancies (less than 24 weeks gestation)</prob> 
+		<int>routine/revealed ultrasound examination</int>
+		<comp>selective/concealed ultrasound examination</comp>
+		<out>detection of multiple pregnancy by 24-26 weeks gestation</out> 
+		<dur>medium term</dur>
+	</query>
+	<query id="Q35.3" before="20091001" keywords="ultrasound and early pregnancy">
+		<pop>women</pop> 
+		<prob>early pregnancies (less than 24 weeks gestation)</prob> 
+		<int>routine/revealed ultrasound examination</int>
+		<comp>selective/concealed ultrasound examination</comp>
+		<out>induction of labour for post-term pregnancy</out> 
+		<dur>medium term</dur>
+	</query>
+	<query id="Q36.1" before="20090801" keywords="genital wart and 5-FU">
+		<pop>adults 18 years or more</pop> 
+		<prob>non-immunocompromised with clinical/subclinical genital warts</prob> 
+		<int>topical 5-FU</int>
+		<comp>placebo</comp>
+		<out>cure</out>
+	</query>
+	<query id="Q36.2" before="20090801" keywords="genital wart and 5-FU">
+		<pop>adults 18 years or more</pop> 
+		<prob>non-immunocompromised with clinical/subclinical genital warts</prob> 
+		<int>topical 5-FU</int>
+		<comp>placebo</comp>
+		<out>partial response/melhora</out>
+	</query>
+	<query id="Q36.3" before="20090801" keywords="genital wart and 5-FU">
+		<pop>adults 18 years or more</pop> 
+		<prob>non-immunocompromised with clinical/subclinical genital warts</prob> 
+		<int>topical 5-FU</int>
+		<comp>placebo</comp>
+		<out>recurrence of lesion</out>
+	</query>
+	<query id="Q37.1" before="20090401" keywords="aspirin and migraine">
+		<pop>adults 18 years or more</pop> 
+		<prob>migraine</prob> 
+		<int>aspirin alone</int>
+		<comp>placebo</comp>
+		<out>pain free</out> 
+		<dur>2 hours</dur>
+	</query>
+	<query id="Q37.2" before="20090401" keywords="aspirin and migraine">
+		<pop>adults 18 years or more</pop> 
+		<prob>migraine</prob> 
+		<int>aspirin plus an antiemetic</int>
+		<comp>placebo</comp>
+		<out>pain free</out> 
+		<dur>2 hours</dur>
+	</query>
+	<query id="Q37.3" before="20090401" keywords="aspirin and migraine">
+		<pop>adults 18 years or more</pop> 
+		<prob>migraine</prob> 
+		<int>aspirin plus metoclopramide</int>
+		<comp>active comparator</comp>
+		<out>use of rescue medication</out>
+	</query>
+	<query id="Q38.1" before="20090601" keywords="chiropractic and low back pain">
+		<pop>adults 18 years or older</pop> 
+		<prob>non-specific acute and subacute low back pain</prob> 
+		<int>chiropractic intervention</int>
+		<comp>other intervention</comp>
+		<out>pain</out> 
+		<dur>medium and long term</dur>
+	</query>
+	<query id="Q38.2" before="20090601" keywords="chiropractic and low back pain">
+		<pop>adults 18 years or older</pop> 
+		<prob>non-specific acute and subacute low back pain</prob> 
+		<int>chiropractic intervention</int>
+		<comp>other intervention</comp>
+		<out>disability</out> 
+		<dur>medium term</dur>
+	</query>
+	<query id="Q38.3" before="20090601" keywords="chiropractic and low back pain">
+		<pop>adults 18 years or older</pop> 
+		<prob>non-specific acute and subacute low back pain</prob> 
+		<int>chiropractic intervention</int>
+		<comp>other intervention</comp>
+		<out>pain</out> 
+		<dur>short term</dur>
+	</query>
+	<query id="Q39.1" before="20100401" keywords="thrombin and venous thromboembolism and hip replacement">
+		<pop>adults</pop> 
+		<prob>total hip or knee replacement</prob> 
+		<int>prophylactic anticoagulation with direct thrombin inhibitors</int>
+		<comp>vitamin K antagonists/low molecular weight heparins</comp>
+		<out>major bleeding</out>
+	</query>
+	<query id="Q39.2" before="20100401" keywords="thrombin and venous thromboembolism and hip replacement">
+		<pop>adults</pop> 
+		<prob>total hip or knee replacement</prob> 
+		<int>prophylactic anticoagulation with direct thrombin inhibitors</int>
+		<comp>warfarin</comp>
+		<out>major venous thromboembolism event</out> 
+		<dur>medium term</dur>
+	</query>
+	<query id="Q40.1" before="20080201" keywords="family therapy and anorexia">
+		<pop>individuals, any age or gender</pop> 
+		<prob>primary clinical diagnosis of anorexia nervosa</prob> 
+		<int>family therapy</int>
+		<comp>standard care/treatment as usual</comp>
+		<out>remission post intervention</out>
+	</query>
+	<query id="Q40.2" before="20080201" keywords="family therapy and anorexia">
+		<pop>individuals, any age or gender</pop> 
+		<prob>primary clinical diagnosis of anorexia nervosa</prob> 
+		<int>family therapy</int>
+		<comp>psychological interventions</comp>
+		<out>maintenance of remission at follow-up</out> 
+		<dur>long-term</dur>
+	</query>
+	<query id="Q40.3" before="20080201" keywords="family therapy and anorexia">
+		<pop>individuals, any age or gender</pop> 
+		<prob>primary clinical diagnosis of anorexia nervosa</prob> 
+		<int>family therapy</int>
+		<comp>psychological interventions</comp>
+		<out>cognitive distortion post intervention</out>
+	</query>
+	<query id="Q41.1" before="20100201" keywords="mechanical ventilation and heat">
+		<pop>children and adults</pop> 
+		<prob>receiving invasive mechanical ventilation in any setting</prob> 
+		<int>heat and moisture exchangers</int>
+		<comp>heated humidifiers</comp>
+		<out>artificial airway occlusion</out>
+	</query>
+	<query id="Q41.2" before="20100201" keywords="mechanical ventilation and heat">
+		<pop>children and adults</pop> 
+		<prob>receiving invasive mechanical ventilation in any setting</prob> 
+		<int>heat and moisture exchangers</int>
+		<comp>heated humidifiers</comp>
+		<out>mortality</out>
+	</query>
+	<query id="Q41.3" before="20100201" keywords="mechanical ventilation and heat">
+		<pop>children and adults</pop> 
+		<prob>receiving invasive mechanical ventilation in any setting</prob> 
+		<int>heat and moisture exchangers</int>
+		<comp>heated humidifiers</comp>
+		<out>pneumonia</out>
+	</query>
+	<query id="Q42.1" before="20090701" keywords="infant and bronchiolitis and heliox">
+		<pop>infants</pop> 
+		<prob>hospitalized for acute bronchiolitis</prob> 
+		<int>treatment with inhaled heliox</int>
+		<comp>placebo (oxygen or air)</comp>
+		<out>need for mechanical ventilation</out> 
+		<dur>short-term</dur>
+	</query>
+	<query id="Q42.2" before="20090701" keywords="infant and bronchiolitis and heliox">
+		<pop>infants</pop> 
+		<prob>hospitalized for acute bronchiolitis</prob> 
+		<int>treatment with inhaled heliox</int>
+		<comp>placebo (oxygen or air)</comp>
+		<out>rate of intubation</out> 
+		<dur>short-term</dur>
+	</query>
+	<query id="Q42.3" before="20090701" keywords="infant and bronchiolitis and heliox">
+		<pop>infants</pop> 
+		<prob>hospitalized for acute bronchiolitis</prob> 
+		<int>treatment with inhaled heliox</int>
+		<comp>placebo (oxygen or air)</comp>
+		<out>length of PICU stay</out> 
+		<dur>short-term</dur>
+	</query>
+	<query id="Q43.1" before="20100401" keywords="feedback and ultrasound and anxiety and pregnancy">
+		<pop>women</pop> 
+		<prob>undergoing routine ultrasound during pregnancy</prob> 
+		<int>high feedback during routine ultrasound</int>
+		<comp>low feedback</comp>
+		<out>maternal anxiety</out> 
+		<dur>medium term</dur>
+	</query>
+	<query id="Q43.2" before="20100401" keywords="feedback and ultrasound and anxiety and pregnancy">
+		<pop>women</pop> 
+		<prob>undergoing routine ultrasound during pregnancy</prob> 
+		<int>high feedback during routine ultrasound</int>
+		<comp>low feedback</comp>
+		<out>cessation of alcohol</out> 
+		<dur>medium term</dur>
+	</query>
+	<query id="Q43.3" before="20100401" keywords="feedback and ultrasound and anxiety and pregnancy">
+		<pop>women</pop> 
+		<prob>undergoing routine ultrasound during pregnancy</prob> 
+		<int>high feedback during routine ultrasound</int>
+		<comp>low feedback</comp>
+		<out>cessation of smoking</out> 
+		<dur>medium term</dur>
+	</query>
+	<query id="Q44.1" before="20091001" keywords="malaria and indoor spraying">
+		<pop>children and adults</pop> 
+		<prob>living in rural/urban malarious areas</prob> 
+		<int>indoor residual spraying with insecticides recommended by WHO at correct dosage</int>
+		<comp>no insecticide-based malaria intervention</comp>
+		<out>incidence of re-infection after treatment</out>
+	</query>
+	<query id="Q44.2" before="20091001" keywords="malaria and indoor spraying">
+		<pop>children and adults</pop> 
+		<prob>living in rural/urban malarious areas</prob> 
+		<int>indoor residual spraying with insecticides recommended by WHO at correct dosage</int>
+		<comp>no insecticide-based malaria intervention</comp>
+		<out>uncomplicated clinical malaria episodes</out>
+	</query>
+	<query id="Q44.3" before="20091001" keywords="malaria and indoor spraying">
+		<pop>children and adults</pop> 
+		<prob>living in rural/urban malarious areas</prob> 
+		<int>indoor residual spraying with insecticides recommended by WHO at correct dosage</int>
+		<comp>no insecticide-based malaria intervention</comp>
+		<out>all cause child mortality</out>
+	</query>
+	<query id="Q45.1" before="20091201" keywords="arch wires and fixed braces">
+		<pop>patients</pop> 
+		<prob>upper and/or lower full arch fixed orthodontic appliances</prob> 
+		<int>0.016" superelastic NiTi initial arch wires</int>
+		<comp>0.016" NiTi initial arch wires</comp>
+		<out>alignment rate (contact point movement, in mm)</out>
+	</query>
+	<query id="Q45.2" before="20091201" keywords="arch wires and fixed braces">
+		<pop>patients</pop> 
+		<prob>upper and/or lower full arch fixed orthodontic appliances</prob> 
+		<int>0.014" superelastic NiTi initial arch wires</int>
+		<comp>0.014" NiTi initial arch wires</comp>
+		<out>pain intensity measured by VAS</out> 
+		<dur>Day 2</dur>
+	</query>
+	<query id="Q45.3" before="20091201" keywords="arch wires and fixed braces">
+		<pop>patients</pop> 
+		<prob>upper and/or lower full arch fixed orthodontic appliances</prob> 
+		<int>0.014" superelastic NiTi initial arch wires</int>
+		<comp>0.014" NiTi initial arch wires</comp>
+		<out>pain intensity measured by VAS</out> 
+		<dur>Day 7</dur>
+	</query>
+	<query id="Q46.1" before="20100401" keywords="mandible and fracture and treatment">
+		<pop>adults, over 18 years of age</pop> 
+		<prob>unilateral or bilateral fractures of the mandibular condyles</prob> 
+		<int>any form of open or close method of reduction and fixation</int>
+		<comp>other method of treatment</comp>
+		<out>status of occlusion</out>
+	</query>
+	<query id="Q46.2" before="20100401" keywords="mandible and fracture and treatment">
+		<pop>adults, over 18 years of age</pop> 
+		<prob>unilateral or bilateral fractures of the mandibular condyles</prob> 
+		<int>any form of open or close method of reduction and fixation</int>
+		<comp>other method of treatment</comp>
+		<out>degree of function post-operatively</out>
+	</query>
+	<query id="Q46.3" before="20100401" keywords="mandible and fracture and treatment">
+		<pop>adults, over 18 years of age</pop> 
+		<prob>unilateral or bilateral fractures of the mandibular condyles</prob> 
+		<int>any form of open or close method of reduction and fixation</int>
+		<comp>other method of treatment</comp>
+		<out>quality of life</out>
+	</query>
+	<query id="Q47.1" before="20090801" keywords="smoking ban and secondhand smoke and smoking">
+		<pop>adults</pop> 
+		<prob>smokers and non smokers exposed to comprehensive or partial smoking bans</prob> 
+		<int>legislative bans (comprehensive or partial) on smoking</int>
+		<comp>without smoking ban or no control group</comp>
+		<out>prevalence of tobacco use</out>
+	</query>
+	<query id="Q47.2" before="20090801" keywords="smoking ban and secondhand smoke and smoking">
+		<pop>adults</pop> 
+		<prob>smokers and non smokers exposed to comprehensive or partial smoking bans</prob> 
+		<int>legislative bans (comprehensive or partial) on smoking</int>
+		<comp>without smoking ban or no control group</comp>
+		<out>biological markers of smoke exposure in physiological fluids</out>
+	</query>
+	<query id="Q47.3" before="20090801" keywords="smoking ban and secondhand smoke and smoking">
+		<pop>adults</pop> 
+		<prob>smokers and non smokers exposed to comprehensive or partial smoking bans</prob> 
+		<int>legislative bans (comprehensive or partial) on smoking</int>
+		<comp>without smoking ban or no control group</comp>
+		<out>tobacco consumption</out>
+	</query>
+	<query id="Q48.1" before="20090201" keywords="methotrexate and rheumatoid arthritis">
+		<pop>adults 18 years or older</pop> 
+		<prob>rheumatoid arthritis</prob> 
+		<int>methotrexate combined with other non-biologic disease modifying anti-rheumatic drugs (DMARDs)</int>
+		<comp>methotrexate alone</comp>
+		<out>American College of Rhematology (ACR) cores set response of DMARD naive</out>
+	</query>
+	<query id="Q48.2" before="20090201" keywords="methotrexate and rheumatoid arthritis">
+		<pop>adults 18 years or older</pop> 
+		<prob>rheumatoid arthritis</prob> 
+		<int>methotrexate combined with other non-biologic disease modifying anti-rheumatic drugs (DMARDs)</int>
+		<comp>methotrexate alone or methotrexate plus placebo</comp>
+		<out>withdrawal due to lack of efficacy</out>
+	</query>
+	<query id="Q48.3" before="20090201" keywords="methotrexate and rheumatoid arthritis">
+		<pop>adults 18 years or older</pop> 
+		<prob>rheumatoid arthritis</prob> 
+		<int>methotrexate combined with other non-biologic disease modifying anti-rheumatic drugs (DMARDs)</int>
+		<comp>methotrexate alone</comp>
+		<out>ACR response of non-MTX DMARDS inadequate response</out>
+	</query>
+	<query id="Q49.1" before="20091201" keywords="misoprostol and pregnancy termination">
+		<pop>women</pop> 
+		<prob>undergoing induction of labour to terminate pregnancy in second/third trimester after intrauterine fetal death or for fetal anomalies</prob> 
+		<int>misoprostol to induce labour</int>
+		<comp>placebo/no treatment</comp>
+		<out>vaginal birth not achieved</out> 
+		<dur>24 hours</dur>
+	</query>
+	<query id="Q49.2" before="20091201" keywords="misoprostol and pregnancy termination">
+		<pop>women</pop> 
+		<prob>undergoing induction of labour to terminate pregnancy in second/third trimester after intrauterine fetal death or for fetal anomalies</prob> 
+		<int>misoprostol to induce labour</int>
+		<comp>placebo/no treatment</comp>
+		<out>mean induction to birth interval</out> 
+		<dur>short-term</dur>
+	</query>
+	<query id="Q49.3" before="20091201" keywords="misoprostol and pregnancy termination">
+		<pop>women</pop> 
+		<prob>undergoing induction of labour to terminate pregnancy in second/third trimester after intrauterine fetal death or for fetal anomalies</prob> 
+		<int>vaginal misoprostol to induce labour</int>
+		<comp>oral misoprostol</comp>
+		<out>analgesia required</out>
+	</query>
+	<query id="Q9.1" before="20090601" keywords="opioid and chronic pain">
+		<pop>adults</pop> 
+		<prob>pain due to any cause other than cancer lasting for at least three months</prob> 
+		<int>any opioid taken by any route in any dose for at least 6 months</int>
+		<out>discontinuation due to adverse events</out> 
+		<dur>6-48 months</dur>
+	</query>
+	<query id="Q9.2" before="20090601" keywords="opioid and chronic pain">
+		<pop>adults</pop> 
+		<prob>pain due to any cause other than cancer lasting for at least three months</prob> 
+		<int>any opioid taken by any route in any dose for at least 6 months</int>
+		<out>discontinuation due to insufficient pain relief</out> 
+		<dur>12-48 months</dur>
+	</query>
+	<query id="Q9.3" before="20090601" keywords="opioid and chronic pain">
+		<pop>adults</pop> 
+		<prob>pain due to any cause other than cancer lasting for at least three months</prob> 
+		<int>any opioid taken by any route in any dose for at least 6 months</int>
+		<out>pain score</out> 
+		<dur>6-7.5 months</dur>
+	</query>
+	<query id="Q10.1" before="20090701" keywords="lymphadenectomy and endometrial cancer">
+		<pop>Adult women</pop> 
+		<prob>endometrial cancer</prob> 
+		<int>Pelvic lymphadenectomy</int>
+		<comp>no lymphadenectomy</comp>
+		<out>Overall survival</out> 
+		<dur>long term</dur>
+	</query>
+	<query id="Q10.2" before="20090701" keywords="lymphadenectomy and endometrial cancer">
+		<pop>Adult women</pop> 
+		<prob>endometrial cancer</prob> 
+		<int>Pelvic lymphadenectomy</int>
+		<comp>pelvic lymph node sampling</comp>
+		<out>Adverse event: Lymphoedema or lymphocyst</out> 
+		<dur>long term</dur>
+	</query>
+	<query id="Q10.3" before="20090701" keywords="lymphadenectomy and endometrial cancer">
+		<pop>Adult women</pop> 
+		<prob>endometrial cancer</prob> 
+		<int>Pelvic lymphadenectomy</int>
+		<comp>no lymphadenectomy</comp>
+		<out>Recurrence-free survival</out> 
+		<dur>long term</dur>
+	</query>
+	<query id="Q11.1" before="20080201" keywords="smoking and motivational interviewing">
+		<pop>adult</pop> 
+		<prob>tobacco users</prob> 
+		<int>intervention based on motivational interviewing principles</int>
+		<comp>brief advice/low-intensity intervention/routine care</comp>
+		<out>smoking cessation (longest duration and strictest definition of abstinence)</out> 
+		<dur>6 or 12 months</dur>
+	</query>
+	<query id="Q11.2" before="20080201" keywords="smoking and motivational interviewing">
+		<pop>adult</pop> 
+		<prob>tobacco users</prob> 
+		<int>intervention based on motivational interviewing principles</int>
+		<comp>brief advice/low-intensity intervention/routine care</comp>
+		<out>session duration</out> 
+		<dur>6 or 12 months</dur>
+	</query>
+</queries>
