@@ -4,16 +4,16 @@ Version 1.0 - July 2010
 
 If you use this dataset, please cite the following articles:
 
- - **[Positional Language Models for Clinical Information Retrieval](http://aclweb.org/anthology/D10-1011).**\\
-   Florian Boudin, Jian-Yun Nie, Martin Dawes.\\
+ - **[Positional Language Models for Clinical Information Retrieval](http://aclweb.org/anthology/D10-1011).**
+   Florian Boudin, Jian-Yun Nie, Martin Dawes.
    *Conference on Empirical Methods in Natural Language Processing (EMNLP), 2010.*
 
- - **[Clinical Information Retrieval using Document and PICO Structure](http://www.aclweb.org/anthology/N10-1124).**\\
-   Florian Boudin, Jian-Yun Nie, Martin Dawes.\\
+ - **[Clinical Information Retrieval using Document and PICO Structure](http://www.aclweb.org/anthology/N10-1124).**
+   Florian Boudin, Jian-Yun Nie, Martin Dawes.
    *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2010.*
 
- - **[Deriving a test collection for clinical information retrieval from systematic reviews](/data/articles/boudin_dtmbio10.pdf).**\\
-   Florian Boudin, Jian-Yun Nie, Martin Dawes.\\
+ - **[Deriving a test collection for clinical information retrieval from systematic reviews](/data/articles/boudin_dtmbio10.pdf).**
+   Florian Boudin, Jian-Yun Nie, Martin Dawes.
    *Data and Text Mining in Biomedical Informatics (DTMBIO), 2010.*
 
 This archive contains three files:
