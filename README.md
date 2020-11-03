@@ -21,7 +21,8 @@ This archive contains three files:
 1. clirec.queries.xml : XML-formatted file containing the queries
 
 	Given this example :
-
+	
+	```
 	<queries>
 	   <query id="1" before="20060901" keywords="Barrett's oesophagus treatment">
 	      <pop>Adults</pop> 
@@ -33,6 +34,7 @@ This archive contains three files:
 	  </query>
 		...
 	</queries>
+	```
 
 	* <queries> is the root element
 	* Each clinical query is contained in a <query> element
@@ -56,20 +58,24 @@ This archive contains three files:
 	gather your collection of documents or alternatively reconduct the search 
 	using the following PubMed query:
 
+	```
 	hasabstract[text] AND "humans"[MeSH Terms] AND (Clinical Trial[ptyp] OR 
 	Editorial[ptyp] OR Letter[ptyp] OR Meta-Analysis[ptyp] OR Practice 
 	Guideline[ptyp] OR Randomized Controlled Trial[ptyp] OR Review[ptyp]) AND 
 	English[lang]
+	```
 
 3. clirec.qrels : relevance judgments (TREC-Like formatted)
 
 	Given this example :
 
+	```
 	A10.1 1991 1724669 1
 	A10.1 1998 9540427 1
 	A10.1 1998 6130330 1
 	A10.1 2006 16616232 1
 	...
+	```
 
 	This first column is the query identifier, the second is the publication 
 	date of the relevant document and the third its PMID.
