@@ -1,6 +1,7 @@
 
 **.DS_Store
 src/
-index/
+exp/
 anserini/
 .idea/
+.ipynb_checkpoints/
