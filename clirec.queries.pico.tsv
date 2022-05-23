@@ -1,0 +1,423 @@
+A10.1	Adults Critical limb ischaemia Prostanoids Placebo mortality reduction
+A10.2	Adults Critical limb ischaemia Prostanoids other pharmaceuticals controls disease progression reduction
+A11.1	Adults Schizophrenia and schizophrenia-like symptoms Quetiapine Other second generation antipsychotic drugs Drug effects
+A12.1	Adults Chronic asthma Regular formoterol + inhaled corticosteroids Regular selmeterol + inhaled corticosteroids Mortality risk
+A12.2	Adults Chronic asthma Regular formoterol + inhaled corticosteroids Regular selmeterol + inhaled corticosteroids Non-fatal serious adverse events
+A13.1	Older adults Hip fracture interventions aimed at improving physical and psychosocial functioning No intervention physical and psychosocial function
+A13.2	Older adults Hip fracture interventions aimed at improving physical and psychosocial functioning No intervention "poor outcome" (composite of mortality, failure to return to independent living and/or readmission)
+A14.1	Women Pericoital Pre- and postcoital hormonal contraception No intervention Pregnancy prevention
+A15.1	Women Labour (labor) oral fluid or food restriction free eating and drinking Benefits and harm
+A16.1	Young adults Regularly practicing sports Interventions No interventions preventing hamstring injuries
+A16.2	Young adults Regularly practicing sports Interventions No interventions Compliance
+A17.1	Adults Barrett's oesophagus Pharmacological treatment Endoscopic Treatment Complete eradication of Barret's oesophagus
+A17.2	Adults Barrett's oesophagus Pharmacological treatment Non-resectional surgical treatment Complete eradication of dysplasia
+A18.1	Adults Undergoing medical imaging procedures assessing risk of disease or of an existing condition Visual feedback of images of individual's bodies No feedback Increase or decrease in health behaviours
+A19.1	Children and Adults Asthma Methods based on exhaled nitric oxide Methods based on primarily clinical symptoms and spirometry/peak flow Efficacy of therapy adjustment
+A20.1	Adults Advanced hepatocellular carcinoma Tamoxifen Placebo Survival
+A20.2	Adults Advanced hepatocellular carcinoma Tamoxifen Best supportive care quality of life
+A21.1	Adults Retinal detachment with proliferative vitreoretinopathy Surgery + silicone oil Surgery + sulphur hexafluoride adverse outcomes
+A1.1	Obese patients Non-alcoholic steatohepatitis (NASH) Bariatric surgery No intervention All-cause mortality
+A1.2	Obese patients Non-alcoholic steatohepatitis (NASH) Bariatric surgery Placebo (Sham procedure) Surgical-related mortality
+A2.1	Adult patients advanced cancer and COPD Benzodiazepines (alprazolam, lorazepam, midazolam, etc) Placebo breathlessness relief
+A2.2	Adult patients advanced cancer and COPD Benzodiazepines (alprazolam, lorazepam, midazolam, etc) Morphine breathlessness relief
+A3.1	Adult patients Primary Hypertension Beta-blockers and drug from another class of anti-hypertensive the other drug from another class of anti-hypertensive alone effect on blood pressure and heart rate
+A22.1	Men Benign prostatic hyperplasia Tamusolin Placebo Lower urinary tract symptoms
+A22.2	Men Benign prostatic hyperplasia Tamusolin Surgical interventions Urodynamic measures
+A23.1	Adults General anaesthesia Target-controlled infusion manually-controlled infusion Sedation
+A23.2	Adults General anaesthesia Target-controlled infusion manually-controlled infusion Adverse events
+A24.1	Adults Advanced renal cell carcinoma Targeted agents Different doses of same agent Remission rate
+A24.2	Adults Advanced renal cell carcinoma Targeted agents Standard interferon-alfa Overall survival
+A25.1	Adults Asthma Tartrazine Placebo Asthma exacerbation
+A25.2	Adults Asthma Tartrazine dietary avoidance Normal diet Asthma exacerbation
+A26.1	Women Early breast cancer chemotherapy containing Taxane chemotherapy no containing Taxane Overall survival
+A26.2	Women Early breast cancer chemotherapy containing Taxane chemotherapy no containing Taxane disease-free survival
+A27.1	Women Caesarean section closure of subcutaneous fat non-closure of subcutaneous fat Postoperative recovery
+A27.2	Women Caesarean section any suturing technique or material used for closure of the rectus sheath any other technique Healthcare resource use
+A28.1	Children healthy, < or = 15 years old MMR Placebo Viral Infection
+A28.2	Children healthy, < or = 15 years old MMR Placebo Unintended effects
+A29.1	Adults and teenagers Anthrax seronegative individuals (>14) anthrax vaccine Placebo Immunogenicity
+A29.2	Adults and teenagers Anthrax seronegative individuals anthrax vaccine Placebo vaccine safety
+A30.1	Different ages Cystic fibrosis Pseudomonas aeruginosa vaccines Control vaccines Pseudomonas aeruginosa
+A30.2	Different ages Cystic fibrosis Pseudomonas aeruginosa vaccines No intervention Pseudomonas aeruginosa
+A31.1	Adults Health-care workers Hepatitis B plasma-derived vaccine Placebo Hepatitis B events
+A31.2	Adults Health-care workers Hepatitis B recombinant vaccine No intervention Hepatitis B events
+A32.1	Adults and children Asthma Influenza vaccine No vaccine Asthma exacerbations
+A33.1	Children Never had Japanese encephalitis Japanese encephalitis vaccine Placebo Japanese encephalitis
+A33.2	Children Never had Japanese encephalitis Japanese encephalitis vaccine No intervention Adverse events
+A34.1	Any age people malaria infection exposure pre-erythrocytic vaccine Placebo Malaria attack
+A34.2	Any age people malaria infection exposure pre-erythrocytic vaccine control vaccine Malaria attack
+A35.1	Adults and children No previous smallpox infection Smallpox vaccine Placebo Disease prevention
+A35.2	Adults and children No previous smallpox infection Smallpox vaccine Non-smallpox vaccine Adverse events
+A36.1	Adults + children Tick-borne viral infection free Tick-borne encephalitis vaccine Placebo Immunogenicity
+A36.2	Adults + children Tick-borne viral infection free Tick-borne encephalitis vaccine Control vaccines Adverse effects
+A37.1	Adults Males vas occlusion vasectomy technique conventional vasectomy technique azoospermia
+A37.2	Adults Males irrigation with water vasectomy technique no irrigation time to azoospermia
+A38.1	Adults venous thromboembolism (VTE) low-molecular-weight heparins vitamin K antagonists recurrent symptomatic VTE
+A38.2	Adults venous thromboembolism (VTE) low-molecular-weight heparins vitamin K antagonists Bleeding
+A39.1	Any age individuals Epilepsy Vitamine/s + ADEs Placebo seizure control
+A39.2	Any age individuals Epilepsy Vitamine/s Other treatment Seizure control
+A39.3	Any age individuals Epilepsy Vitamine/s + ADEs Other treatment AEDs adverse events
+A40.1	All ages Drug-resistant partial epilepsy Vigabatrin Placebo Seizure frequency
+A40.2	All ages Drug-resistant partial epilepsy Vigabatrin Placebo treatment withdrawn
+A41.1	Adults Alcoholic or diabetic neuropathy Vitamin B Placebo Symptoms improvement
+A41.2	Adults Alcoholic or diabetic neuropathy Vitamin B high dose Vitamine B low dose Symptoms improvement
+A42.1	Adults and elderly Pneumonia Vitamin C Placebo Duration of symptoms
+A42.2	Adults and elderly Pneumonia Vitamin C Placebo Mortality
+A42.3	Young adults Pneumonia free Vitamin C With or without Placebo Incidence of pneumonia
+A43.1	adults long-term indwelling urinary catheterization Washout No-washout mean time to first catheter change
+A43.2	adults long-term indwelling urinary catheterization Saline washout solution Acidic washout solution Bacteriuria
+A44.1	Women Stress urinary incontinence Weighted Passive vaginal cones Weighted Active vaginal cones Leakage activity index
+A44.2	Women Stress urinary incontinence Weighted vaginal cones Continence Guard Stress Pad test
+A45.1	Adults Obese hyperinsulinemic Diet rich in whole-grain foods Diet rich in refined grain foods change in Insulin sensitivity
+A46.1	Women Vaginal delivery Vacuum extraction Forceps Maternal trauma
+A46.2	Women Vaginal delivery Vacuum extraction Forceps Neonatal morbidity
+A47.1	Women colonized with group B beta-hemolytic streptococcus chlorhexidine during labor Placebo GBS colonization in neonates
+A47.2	Women colonized with group B beta-hemolytic streptococcus chlorhexidine during labor No treatment early-onset GBS infection in term neonates
+A4.1	adults primary hypertension Potassium-sparing diuretics placebo blood-pressure
+A4.2	adults primary hypertension Potassium-sparing diuretics + another class anti-hypertensive drug same another class anti-hypertensive drug blood-pressure
+A6.1	women locally advanced cervical carcinoma hyperthermia + radiotherapy radiotherapy local tumor control
+A6.2	women locally advanced cervical carcinoma hyperthermia + radiotherapy radiotherapy treatment related morbidity
+A6.3	women locally advanced cervical carcinoma hyperthermia + radiotherapy radiotherapy survival
+A7.1	Women uncomplicated pregnancy Intervention prior caesarean section No treatment Aspiration pneumonitis
+A8.1	Children Chronic kidney disease Vitamin D Placebo bone disease prevention
+A8.2	Children Chronic kidney disease Vitamin D Placebo bone disease improvement
+A9.1	Adults Haemodialysis patients with Central venous catheters Prophylactic topical antimicrobials Topical antiseptics Infectious complications prevention
+A9.2	Adults Haemodialysis patients with Central venous catheters Medicated dressings Non-medicated dressings Infectious complications prevention
+C19.1	Post-term, term or late preterm infants Neonatal polycythemia Partial exchange transfusion Non-treatment Developmental delay at 18 months or older
+C19.2	Post-term, term or late preterm infants Neonatal polycythemia Partial exchange transfusion Non-treatment Neonatal mortality
+C19.3	Post-term, term or late preterm infants Neonatal polycythemia Partial exchange transfusion Non-treatment Necrotizing enterocolitis
+C20.1	Patients of all ages Parkinson's disease Treadmill training No treadmill training Gait speed
+C20.2	Patients of all ages Parkinson's disease Treadmill training No treadmill training Stride length
+C20.3	Patients of all ages Parkinson's disease Treadmill training No treadmill training Walking distance
+C21.1	Adults 14 years and older GORD Medical management: proton pump inhibitors/histamine receptor antagonists Laparoscopic fundoplication surgery Health-related quality of life
+C21.2	Adults 14 years and older GORD Medical management: proton pump inhibitors/histamine receptor antagonists Laparoscopic fundoplication surgery Cost
+C21.3	Adults 14 years and older GORD Medical management: proton pump inhibitors/histamine receptor antagonists Laparoscopic fundoplication surgery Gastrointestinal Symptom Rating Scale (GSRS)
+C22.1	Patients of all ages Gallstones Mini-laparoscopic cholecystectomy Conventional laparoscopic cholecystectomy Bile duct injury
+C22.2	Patients of all ages Gallstones Mini-laparoscopic cholecystectomy Conventional laparoscopic cholecystectomy Re-operation
+C22.3	Patients of all ages Gallstones Mini-laparoscopic cholecystectomy Conventional laparoscopic cholecystectomy Conversion to open cholecystectomy
+C23.1	Women Perineal pain in the early postpartum period Paracetamol (single administration, any dose) Placebo Adequate pain relief as reported by women
+C23.2	Women Perineal pain in the early postpartum period Paracetamol (single administration, any dose) Placebo Additional pain relief
+C23.3	Women Perineal pain in the early postpartum period Paracetamol (single administration, any dose) Placebo Maternal nausea
+C1.1	adults peripheral joint arthritis acupuncture sham acupuncture pain
+C1.2	adults peripheral joint arthritis acupuncture sham acupuncture pain
+C1.3	adults peripheral joint arthritis acupuncture waiting list control pain
+C2.1	children up to 18 yrs of age otitis media adenoidectomy with unilateral tympanostomy tube unilateral tympanostomy tubes resolution otitis media effusion
+C2.2	children up to 18 yrs of age otitis media adenoidectomy with unilateral tympanostomy tube unilateral tympanostomy tubes resolution otitis media effusion
+C2.3	children up to 18 yrs of age otitis media adenoidectomy with unilateral tympanostomy tube unilateral tympanostomy tubes hearing loss
+C3.1	adults schizophrenia amisulpride olanzapine global state: no clinically significant response
+C3.2	adults schizophrenia amisulpride olanzapine global state: no clinically significant response
+C3.3	adults schizophrenia amisulpride olanzapine general mental state
+C4.1	women increased risk of complications at birth antenatal cardiotocography no antenatal cardiotocography perinatal mortality
+C4.2	women increased risk of complications at birth antenatal cardiotocography no antenatal cardiotocography caesarian section
+C5.1	women cesarean section antibiotic prophylaxis no prophylaxis febrile morbidity/fever
+C5.2	women cesarean section antibiotic prophylaxis no prophylaxis maternal wound infection
+C5.3	women cesarean section antibiotic prophylaxis no prophylaxis maternal endometritis
+C6.1	women epithelial ovarian cancer intravenous monoclonal antibody placebo Survival (time to relapse)
+C6.2	women epithelial ovarian cancer intravenous monoclonal antibody placebo humoral immune responses
+C6.3	women epithelial ovarian cancer intradermal peptide pulsed dendritic Cells (vaccine alone) single dose of cyclophosphamide prior to first vaccination Tumor responses
+C7.1	Adults Chronic hepatitis C + stable HIV co-infection Peginterferon plus ribavirin Interferon plus ribavirin Sustained virological response
+C7.2	Adults Chronic hepatitis C + stable HIV co-infection Peginterferon plus ribavirin Interferon plus ribavirin End of treatment virological response
+C7.3	Adults Chronic hepatitis C + stable HIV co-infection Peginterferon plus ribavirin Interferon plus ribavirin Mortality
+C8.1	Infants Preterm or low birth weight Ethamsylate Placebo Neonatal mortality
+C8.2	Infants Preterm or low birth weight Ethamsylate Placebo Mortality to hospital discharge
+C8.3	Preterm infants Preterm or low birth weight Ethamsylate Placebo Neurodevelopmental Disability
+C24.1	Women Preterm prelabour rupture of the membranes (PPROM) prior to 37 weeks of gestation Planned early birth Expectant management Neonatal infection/sepsis
+C24.2	Women Preterm prelabour rupture of the membranes (PPROM) prior to 37 weeks of gestation Planned early birth Expectant management Respiratory distress syndrome
+C24.3	Women Preterm prelabour rupture of the membranes (PPROM) prior to 37 weeks of gestation Planned early birth Expectant management Perinatal mortality
+C25.1	Persons of any age Cigarette smoking Reduction to quite Abrupt quitting Abstinence
+C25.2	Persons of any age Cigarette smoking Reduction to quite Abrupt quitting Cigarettes per day
+C26.1	Patients of all ages Ischemic heart disease Service organization Normal care Mean systolic blood pressure
+C26.2	Patients of all ages Ischemic heart disease Service organization Normal care Mean diastolic blood pressure
+C26.3	Patients of all ages Ischemic heart disease Service organization Normal care Total blood cholesterol within study protocol target level (5.2 mmol/l)
+C27.1	Patients 16 years or older Rheumatoid arthritis Abatacept + disease-modifying anti-rheumatic drugs (DMARDs)/biologic Placebo + DMARDs/biologic American College of Rheumatology (ACR) 50% improvement
+C27.2	Patients 16 years or older Rheumatoid arthritis Abatacept + disease-modifying anti-rheumatic drugs (DMARDs)/biologic Placebo + DMARDs/biologic Improvement in physical function
+C27.3	Patients 16 years or older Rheumatoid arthritis Abatacept + disease-modifying anti-rheumatic drugs (DMARDs)/biologic Placebo + DMARDs/biologic Achievement of low disease activity state
+C28.1	Women 18 years and older Urinary incontinence Adrenergic agonist Placebo Number cured or improved (subjective)
+C28.2	Women 18 years and older Urinary incontinence Adrenergic agonist Placebo Pad weight/24 hrs
+C28.3	Women 18 years and older Urinary incontinence Adrenergic agonist Placebo Adverse events
+C29.1	Children Severe brain injury Phenobarbitone No phenobarbitone Death
+C29.2	Patients aged 15 - 50 years Severe brain injury Phenobarbital No phenobarbital Uncontrollable intracranial pressure
+C29.3	Patients over the age of 12 Severe brain injury Pentobarbital No pentobarbital Controlled ICP
+C30.1	Adults Appendicitis Laparoscopic appendectomy Conventional appendectomy Wound infections
+C30.2	Adults Appendicitis Laparoscopic appendectomy Conventional appendectomy Intra-abdominal abscesses
+C30.3	Adults Appendicitis Laparoscopic appendectomy Conventional appendectomy Pain intensity (VAS)
+C31.1	Adults aged 40 and over Dementia Acetyl-l-cartinine Placebo Severity of dementia
+C31.2	Adults aged 40 and over Dementia Acetyl-l-cartinine Placebo Cognition
+C31.3	Adults aged 40 and over Dementia Acetyl-l-cartinine Placebo Activities of daily living
+C32.1	Infants and young children up to 24 months of age Bronchiolitis Epinephrine Placebo Clinical score
+C32.2	Infants and young children up to 24 months of age Bronchiolitis Epinephrine Placebo Oxygen saturation
+C32.3	Infants and young children up to 24 months of age Bronchiolitis Epinephrine Salbutamol Clinical score
+C33.1	Persons of any age Allergic rhinitis Sublingual Immunotherapy Placebo Allergic rhinitis symptom scores
+C33.2	Persons of any age Allergic rhinitis Sublingual Immunotherapy Placebo Medication scores (referring to the concurrent use of anti-allergic medication)
+C33.3	Persons of any age Allergic rhinitis Sublingual Immunotherapy Placebo Allergic rhinitis symptom scores
+C34.1	Patients of all ages Acute respiratory tract infections Delayed antibiotic treatment Immediate antibiotic treatment Fever severity
+C34.2	Patients of all ages Acute respiratory tract infections Delayed antibiotic treatment Immediate antibiotic treatment Pain severity
+C34.3	Patients of all ages Acute respiratory tract infections Delayed antibiotic treatment Immediate antibiotic treatment Supplementary use of paracetamol or ibuprofen
+C35.1	Adults (aged 18 and over) Neuropathic pain Gabapentin Placebo Moderate or better pain relief
+C35.2	Adults (aged 18 and over) Neuropathic pain Gabapentin Placebo &gt;50% pain relief
+C35.3	Adults (aged 18 and over) Neuropathic pain Gabapentin Placebo Change in pain score
+C36.1	Adults Multiple brain metastases Altered whole brain radiotherapy dose/fractionation schedules Conventional whole brain radiotherapy fractionation schedules Mortality
+C36.2	Adults Multiple brain metastases WBRT with radiosensitizers (radiosen) WBRT alone Brain tumor response rates (complete & partial response combined)
+C36.3	Adults Multiple brain metastases WBRT and radiosurgery boost WBRT Mortality
+C37.1	Patients (no age specification) Advanced non-small lung cancer Chemotherapy and supportive care Supportive care Overall survival
+C38.1	Women aged 65 years and older Acute uncomplicated lower urinary tract infection (UTI) Single dose of any oral antibiotic Short-course treatment of any oral antibiotic (3 - 6 days) Persistent UTI
+C38.2	Women aged 65 years and older Acute uncomplicated lower urinary tract infection (UTI) Single dose of any oral antibiotic Short-course treatment of any oral antibiotic (3 - 6 days) Persistent UTI
+C38.3	Women aged 65 years and older Acute uncomplicated lower urinary tract infection (UTI) Single dose of any oral antibiotic Long-course treatment of any oral antibiotic (7 - 14 days) Persistent UTI
+C39.1	Outpatients aged 12 years and older CAP Erythromycin Clarythromycin Clinical success
+C39.2	Outpatients aged 18 years and older CAP Azithromycin microspheres Levofloxacin Clinical success
+C39.3	Outpatients aged 16 years and older CAP Azithromycin microspheres Clarythromycin Clinical success
+C40.1	Persons of any age Ulcerative Colitis Oral 5 ASA therapy Placebo Failure to induce global/clinical remission
+C40.2	Persons of any age Ulcerative Colitis Oral 5 ASA therapy Placebo Failure to induce endoscopic remission
+C40.3	Persons of any age Ulcerative Colitis Oral 5 ASA therapy Sulfasalazine (SASP) Failure to induce global/clinical remission
+C41.1	Children and Adults Cystic fibrosis & chronic infection with P. aeruginosa Oral anti-pseudomonal antibiotics for treatment of an exacerbation of RTI IV antibiotics FEV1 ml (mean change)
+C41.2	Children and Adults Cystic fibrosis & chronic infection with P. aeruginosa Oral anti-pseudomonal antibiotics for treatment of an exacerbation of RTI IV antibiotics Adverse events
+C41.3	Children and Adults Cystic fibrosis & chronic infection with P. aeruginosa Oral anti-pseudomonal antibiotics for treatment of an exacerbation of RTI IV antibiotics Isolation of antibiotic resistant strains - P aeruginosa
+C42.1	Adults with no previous history of stroke or transient ischemic heart attacks Non-valvular atrial fibrillation Oral anticoagulants Antiplatelet therapy All strokes (ischemic and hemorrhagic)
+C42.2	Adults with no previous history of stroke or transient ischemic heart attacks Non-valvular atrial fibrillation Oral anticoagulants Antiplatelet therapy Myocardial Infarction
+C42.3	Adults with no previous history of stroke or transient ischemic heart attacks Non-valvular atrial fibrillation Oral anticoagulants Antiplatelet therapy Systemic emboli (non-CNS)
+C43.1	Women Primary osteoporosis Fluoride Placebo No. of people with vertebral fractures
+C43.2	Women Primary osteoporosis Fluoride Placebo Forearm BMD/C %
+C43.3	Women Primary osteoporosis Fluoride Placebo Total BMD %
+C44.1	Patients (no age range specified) Peripheral arterial disease 100mg Cilostazol twice daily Placebo Initial claudation distance
+C44.2	Patients (no age range specified) Peripheral arterial disease 100mg Cilostazol twice daily Placebo Absolute claudation distance
+C44.3	Patients (no age range specified) Peripheral arterial disease 100mg Cilostazol twice daily Placebo Ankle brachial pressure index
+C45.1	Patients (no age specified) Chronic hepatitis C Ribavirin Placebo Failure of serum virocological response (number of patients with detectable Hepatitis C virus RNA)
+C45.2	Patients (no age specified) Chronic hepatitis C Ribavirin Placebo Liver-related mortality and all-cause mortality
+C45.3	Patients (no age specified) Chronic hepatitis C Ribavirin Placebo Adverse events
+C46.1	Children and adults Chronic asthma Macrolide Placebo FEV1
+C46.2	Children and adults Chronic asthma Macrolide Placebo FVC
+C46.3	Children and adults Chronic asthma Macrolide Placebo Symptoms (standardized scale)
+C47.1	Adolescents or middle aged patients Previous ankle ligament injury High top shoes Low top shoes Ankle sprain
+C47.2	Adolescents or middle aged patients Previous ankle ligament injury External ankle support No support Ankle sprain
+C47.3	Adolescents or middle aged patients Previous ankle ligament injury External ankle support No support Severity of ankle injury
+C48.1	Adults Acute injury of the lateral ligament complex of the ankle Surgical treatment Conservative treatment (immobilization, support etc.) Non-return to pre-injury level of activity
+C48.2	Adults Acute injury of the lateral ligament complex of the ankle Surgical treatment Conservative treatment (immobilization, support etc.) Non-return to sport or reduction in sports
+C48.3	Adults Acute injury of the lateral ligament complex of the ankle Surgical treatment Conservative treatment (immobilization, support etc.) Recurrence or reinjury
+C49.1	Patients aged 40-80 years old Acute ischaemic or haemorrhagic stroke Naftidrofuryl Placebo Late death
+C49.2	Patients aged 40-80 years old Acute ischaemic or haemorrhagic stroke Naftidrofuryl Placebo Early death
+C49.3	Patients aged 40-80 years old Acute ischaemic or haemorrhagic stroke Naftidrofuryl Placebo Systolic blood pressure
+C50.1	Patients (no age specified) Migraines and additional tension-type headaches Acupuncture No acupuncture Response
+C50.2	Patients (no age specified) Migraines and additional tension-type headaches Acupuncture No acupuncture Headache frequency
+C50.3	Patients (no age specified) Migraines and additional tension-type headaches Acupuncture No acupuncture Migraine attacks
+C9.1	Adults aged 18 or older Lower back pain (LBP) Post-treatment exercise consisting of strength, endurance and aerobic training No intervention Number of subjects with recurrent LBP
+C9.2	Adults aged 18 or older LBP Post-treatment exercise consisting of strength, endurance and aerobic training No intervention Time to LBP recurrence
+C9.3	Adults aged 18 or older Lower back pain (LBP) Post-treatment exercise consisting of strength, endurance and aerobic training No intervention Number of recurrences of LBP
+C10.1	Women High risk for fetal compromise Doppler ultrasound of fetal vessels No Doppler ultrasound of fetal vessels Any perinatal death after randomization
+C10.2	Women High risk for fetal compromise Doppler ultrasound of fetal vessels No Doppler ultrasound of fetal vessels Serious neonatal morbidity
+C10.3	Women High risk for fetal compromise Doppler ultrasound of fetal vessels No Doppler ultrasound of fetal vessels Stillbirth
+C11.1	Children and adolescents aged 16 years or less Dental caries Fluoride toothpaste Placebo toothpaste Decayed, missing, and filled surface index increment (prevented fraction) in all permanent teeth erupted at the start and erupting over the course of the study
+C11.2	Children and adolescents aged 16 years or less Dental caries Fluoride toothpaste at different concentration levels Placebo toothpaste Decayed, missing, and filled teeth increment (prevented fraction) in all permanent teeth erupted at the start and erupting over the course of the study
+C11.3	Children and adolescents aged 16 years or less Dental caries Fluoride toothpaste at different concentration levels Placebo toothpaste Proportion of developing new caries in the permanent or deciduous dentition
+C12.1	Children HIV+ Home-based intensive nursing Standard care Changes in patient knowledge of HIV and their medications: Post test scores
+C12.2	patients aged 21 years and over HIV/AIDS Home-based intensive nursing Usual care Quality of well-being scores as measured by Quality of well-being scale
+C12.3	African American women who were primary caregivers for at least one child under the age of 9 years HIV+ Home-based intensive nursing Standard care Emotional distress
+C13.1	Adults (18 years and older) MI, angina, or who had undergone revascularisation or heart failure Home-based cardiac rehabilitation Centre-based cardiac rehabilitation Exercise capacity
+C13.2	Adults (18 years and older) MI, angina, or who had undergone revascularisation or heart failure Home-based cardiac rehabilitation Centre-based cardiac rehabilitation Systolic blood pressure
+C13.3	Adults (18 years and older) MI, angina, or who had undergone revascularisation or heart failure Home-based cardiac rehabilitation Centre-based cardiac rehabilitation Total cholesterol
+C14.1	Patients of all ages Intravascular volume depletion HES Other fluids Renal replacement therapy
+C14.2	Patients of all ages Intravascular volume depletion HES Other fluids RIFLE (risk or worse)
+C14.3	Patients of all ages Intravascular volume depletion HES Other fluids RIFLE (injury or worse)
+C15.1	Patients of all ages End-of-life illness with a life expectancy of less than 2 years Music therapy Standard care Pain
+C15.2	Patients of all ages End-of-life illness with a life expectancy of less than 2 years Music therapy Standard care Anxiety
+C15.3	Patients of all ages End-of-life illness with a life expectancy of less than 2 years Music therapy Standard care Depression
+C16.1	Women of any age Cervical cancer Neoadjuvant chemotherapy plus surgery Surgery alone Overall survival (time to death)
+C16.2	Women of any age Cervical cancer Neoadjuvant chemotherapy plus surgery Surgery alone Progression-free survival (time to progression or death)
+C16.3	Women of any age Cervical cancer Neoadjuvant chemotherapy plus surgery Surgery alone Rates of local recurrence
+C17.1	Patients of all ages Acute kidney injury (AKI) Essential L-amino acid supplements Glucose supplements Recovery from AKI
+C17.2	Patients of all ages Acute kidney injury (AKI) Glucose + essential amino acid (EAA) + histidin supplements Glucose + general amino acid supplements Nitrogen balance
+C17.3	Patients of all ages Acute kidney injury (AKI) Glucose + EAA + histidin supplements Glucose + GAA supplements Serum creatinine
+C18.1	Children and adults Tonsillectomy Hydrogen peroxide mouth rinse Placebo Pain (change in severity)
+C18.2	Children and adults Tonsillectomy Benzydamine hydrochloride Placebo spray Pain (change in severity)
+C18.3	Children and adults Tonsillectomy Lidocaine Placebo Pain (change in severity)
+M1.1	In patients with type 2 diabetes does pioglitazone reduce cardiovascular events, other adverse events, and mortality or improve health related quality of life
+M1.2	In patients with type 2 diabetes does pioglitazone compared to placebo reduce stroke and myocardial infarction
+M1.3	In patients with type 2 diabetes does pioglitazone compare to placebo reduce mortality
+M1.4	In patients with type 2 diabetes does pioglitazone Metformin reduce stroke and myocardial infarction
+M1.5	In patients with type 2 diabetes does pioglitazone Glibenclamide reduce stroke and myocardial infarction
+M1.6	In patients with type 2 diabetes does pioglitazone Gliclazide reduce stroke and myocardial infarction
+M1.7	In patients with type 2 diabetes does pioglitazone Acarbose reduce stroke and myocardial infarction
+M1.8	In patients with type 2 diabetes does pioglitazone Insulin reduce stroke and myocardial infarction
+M2.1	In patients impaired glucose tolerance do lifestyle or pharmacological interventions prevent or delay type 2 diabetes mellitus
+M2.2	In Chinese patients impaired glucose tolerance do lifestyle interventions (diet, exercise or both) compare to no-intervention (routine advice) prevent or delay type 2 diabetes mellitus
+M2.3	In patients impaired glucose tolerance do pharmacological interventions (oral diabetes drugs or antiobesity drugs) prevent or delay type 2 diabetes mellitus
+M2.4	In overweight patients impaired glucose tolerance do pharmacological interventions (oral diabetes drugs or antiobesity drugs) prevent or delay type 2 diabetes mellitus
+M2.5	In Japanese men impaired glucose tolerance do lifestyle interventions (diet, exercise or both) compare to no-intervention (routine advice) prevent or delay type 2 diabetes mellitus
+M2.6	In Japanese Americans impaired glucose tolerance do lifestyle interventions (diet, exercise or both) compare to no-intervention (routine advice) prevent or delay type 2 diabetes mellitus
+M3.1	In patients with type 2 diabetes mellitus, does group-based education (GBE) in self management improve clinical, lifestyle, and psychosocial outcomes
+M3.2	In patients with type 2 diabetes mellitus, does group-based education (GBE) in self management improve glycated haemoglobin or fasting blood glucose (clinical outcomes)
+M3.3	In patients with type 2 diabetes mellitus, does group-based education (GBE) in self management improve diabetes complications (foot ulcer, Albuminuria, diabetic Retinopathy)
+M4.1	In males and females type 2 diabetes mellitus aerobic, fitness or progressive resistance training exercise no exercise glycaemic control measured as percent glycated haemoglobin (HbA1c)
+M5.1	In pregnant women diabetes exercise programs alone no specific program perinatal and maternal morbidity
+M5.2	In pregnant women diabetes exercise programs alone no specific program frequency of prescription of insulin to control glycaemia
+M5.3	In pregnant women diabetes exercise programs alone other therapies perinatal and maternal morbidity
+M5.4	In pregnant women diabetes exercise programs alone other therapies frequency of prescription of insulin to control glycaemia
+M5.5	In pregnant women diabetes exercise programs in conjunction with other therapies no specific program perinatal and maternal morbidity
+M5.6	In pregnant women diabetes exercise programs in conjunction with other therapies no specific program frequency of prescription of insulin to control glycaemia
+M5.7	In pregnant women diabetes exercise programs in conjunction with other therapies other therapies perinatal and maternal morbidity
+M5.8	In pregnant women diabetes exercise programs in conjunction with other therapies other therapies frequency of prescription of insulin to control glycaemia
+M6.1	In obese patients diabetes fluoxetine Placebo Weight loss
+M6.2	In obese patients diabetes orlistat Placebo Weight loss
+M6.3	In obese patients diabetes sibutramine Placebo Weight loss
+M7.1	In people type 2 diabetes mellitus omega-3 PUFA supplementation Placebo cardiovascular outcomes
+M7.2	In People type 2 diabetes mellitus omega-3 PUFA supplementation Placebo cholesterol levels
+M7.3	In People type 2 diabetes mellitus omega-3 PUFA supplementation Placebo glycemic control
+M8.1	In people type 2 diabetes mellitus metformin monotherapy Placebo mortality
+M8.2	In People type 2 diabetes mellitus metformin monotherapy Placebo morbidity
+M8.3	In People type 2 diabetes mellitus metformin monotherapy Placebo quality of life
+M8.4	In People type 2 diabetes mellitus metformin monotherapy Placebo glycaemic control
+M8.5	In People type 2 diabetes mellitus metformin monotherapy Placebo body weight
+M8.6	In People type 2 diabetes mellitus metformin monotherapy Placebo lipid levels
+M8.7	In People type 2 diabetes mellitus metformin monotherapy Placebo blood pressure
+M8.8	In People type 2 diabetes mellitus metformin monotherapy Placebo insulinaemia
+M8.9	In People type 2 diabetes mellitus metformin monotherapy Placebo albuminuria
+M8.10	In people type 2 diabetes mellitus metformin monotherapy Sulphonylureas mortality
+M8.11	In People type 2 diabetes mellitus metformin monotherapy Sulphonylureas morbidity
+M8.12	In People type 2 diabetes mellitus metformin monotherapy Sulphonylureas quality of life
+M8.13	In People type 2 diabetes mellitus metformin monotherapy Sulphonylureas glycaemic control
+M8.14	In People type 2 diabetes mellitus metformin monotherapy Sulphonylureas body weight
+M8.15	In People type 2 diabetes mellitus metformin monotherapy Sulphonylureas lipid levels
+M8.16	In People type 2 diabetes mellitus metformin monotherapy Sulphonylureas blood pressure
+M8.17	In People type 2 diabetes mellitus metformin monotherapy Sulphonylureas insulinaemia
+M8.18	In People type 2 diabetes mellitus metformin monotherapy Sulphonylureas albuminuria
+M9.1	In people type 2 diabetes mellitus long-term treatment with long-acting insulin analogues (insulin glargine and insulin detemir) NPH insulin HbA1c
+M10.1	In people type 2 diabetes mellitus Intensive diabetic control Normal diabetic control development of cognitive impairment and dementia
+Q12.1	people recurrent aggression any antiepileptic drug in any dosage, length of time placebo observer-reported aggression (Modified Overt Aggression Scale)
+Q12.2	people recurrent aggression any antiepileptic drug in any dosage, length of time placebo adverse event, weight gain
+Q12.3	people recurrent aggression any antiepileptic drug in any dosage, length of time placebo anger (more than one angry outburst over 6 weeks)
+Q13.1	Infants and children (age older than 28 days and up to 16 years) proven, probable, suspected invasive fungal infection antifungal therapy different systemic antifungal agents or combination of agents/no treatment/inactive placebo mortality regardless of cause
+Q13.2	Infants and children (age older than 28 days and up to 16 years) proven, probable, suspected invasive fungal infection antifungal therapy different systemic antifungal agents or combination of agents/no treatment/inactive placebo complete resolution of fungal infection
+Q13.3	Infants and children (age older than 28 days and up to 16 years) proven, probable, suspected invasive fungal infection antifungal therapy different systemic antifungal agents or combination of agents/no treatment/inactive placebo resolution of fever in suspected fungal infection
+Q14.1	women pregnant undergoing surgical abortion at less than 14 weeks gestation any type of cervical preparation administered prior to first trimester surgical abortion (excluding nitric oxide donors) placebo cervical dilation at procedure start
+Q14.2	women pregnant undergoing surgical abortion at less than 14 weeks gestation any type of cervical preparation administered prior to first trimester surgical abortion (excluding nitric oxide donors) placebo nausea
+Q14.3	women pregnant undergoing surgical abortion at less than 14 weeks gestation any type of cervical preparation administered prior to first trimester surgical abortion (excluding nitric oxide donors) placebo need for additional mechanical dilation
+Q15.1	adults 18 or older schizophrenia and other schizophrenia-like psychoses oral risperidone, any dose or form placebo severity of illness
+Q15.2	adults 18 or older schizophrenia and other schizophrenia-like psychoses oral risperidone, any dose or form placebo mental state, no specific degree of response (defined by PANSS total change)
+Q15.3	adults 18 or older schizophrenia and other schizophrenia-like psychoses oral risperidone, any dose or form placebo average endpoint scores, various scales
+Q16.1	people older than 16 years undergoing highly emetogenic chemotherapy 5-HT3 receptor antagonist as single anti-emetic different 5-HT3 receptor antagonist as single anti-emetic acute nausea and vomiting
+Q16.2	people older than 16 years undergoing highly emetogenic chemotherapy 5-HT3 receptor antagonist as single anti-emetic different 5-HT3 receptor antagonist in combination with cortecosterois acute nausea and vomiting
+Q17.1	people 16 years or older rheumatoid arthritis all forms of surgical treatment in the management of the rheumatoid arthritis no treatment/placebo/other therapy pain at 1-year follow-up
+Q17.2	people 16 years or older rheumatoid arthritis all forms of surgical treatment in the management of the rheumatoid arthritis no treatment/placebo/other therapy range of motion at 1-year follow-up
+Q17.3	people 16 years or older rheumatoid arthritis all forms of surgical treatment in the management of the rheumatoid arthritis no treatment/placebo/other therapy strength at 1-year follow-up
+Q18.1	adults 18 years or older depression in context of physical illness all types of antidepressants placebo response to treatment
+Q18.2	adults 18 years or older depression in context of physical illness all types of antidepressants placebo depression scores
+Q19.1	women pregnant and HIV-infected requiring antiretroviral therapy (ART) antiretroviral therapy (ART) regime another ART regime infant mortality
+Q19.2	women pregnant and HIV-infected requiring antiretroviral therapy (ART) antiretroviral therapy (ART) regime another ART regime maternal mortality
+Q19.3	women pregnant and HIV-infected requiring antiretroviral therapy (ART) antiretroviral therapy (ART) regime another ART regime infant low birth weight
+Q20.1	adults 18 years of age or older any type of pneumonia chest physiotherapy of any type no chest physiotherapy mortality
+Q20.2	adults 18 years of age or older any type of pneumonia chest physiotherapy of any type no chest physiotherapy cure rate
+Q20.3	adults 18 years of age or older any type of pneumonia chest physiotherapy of any type no chest physiotherapy duration of hospital stay
+Q1.1	adults (18 or older) diabetes mellitus complex intervention single interventions/usual care/alternative complex interventions foot ulcers
+Q1.2	adults (18 or older) diabetes mellitus complex intervention single interventions/usual care/alternative complex interventions amputation (partial/total)
+Q1.3	adults (18 or older) diabetes mellitus preventative intervention usual care patient self-care behaviour
+Q2.1	adults and children type 1 diabetes mellitus continuous subcutaneous insulin infusion multiple insulin injections HbA1c
+Q2.2	adults and children type 1 diabetes mellitus continuous subcutaneous insulin infusion multiple insulin injections daily mean blood glucose
+Q2.3	adults and children type 1 diabetes mellitus continuous subcutaneous insulin infusion multiple insulin injections hypoglycaemic episodes
+Q3.1	adults cocaine dependent disulfiram alone or in combination with any psychosocial intervention placebo/no intervention/naltrexone dropouts from the treatment
+Q3.2	adults cocaine dependent disulfiram alone or in combination with any psychosocial intervention placebo/no intervention/naltrexone maximum weeks of consecutive abstinence from cocaine
+Q4.1	adults non-metastatic colorectal cancer 6-month adjuvant chemotherapy 9- or 12-month adjuvant chemotherapy relapse free survival
+Q4.2	adults non-metastatic colorectal cancer 6-month adjuvant chemotherapy 9- or 12-month adjuvant chemotherapy overall survival
+Q5.1	patients (no age restriction) receiving cyclosporine treatment for any disease cyclosporine placebo mean arterial pressure
+Q5.2	patients (no age restriction) receiving cyclosporine treatment for any disease cyclosporine placebo mean arterial pressure
+Q5.3	patients (no age restriction) receiving cyclosporine treatment for any disease cyclosporine placebo blood pressure
+Q6.1	women undergoing assisted reproductive technology procedure with frozen embryo replacement cycles endometrial preparation with GnRH agonists endometrial preparation with other GnRH agonists/no treatment live birth rate
+Q6.2	women undergoing assisted reproductive technology procedure with frozen embryo replacement cycles endometrial preparation with estrogen endometrial preparation with other doses of estrogen clinical pregnancy
+Q6.3	women undergoing assisted reproductive technology procedure with fresh donor cycles endometrial preparation with GnRH agonists endometrial preparation with other GnRH agonists/no treatment cancelled cycles
+Q7.1	adults symptomatic chronic heart failure and anaemia any erythropoeisis-stimulating agent with or without iron supplementation placebo/no treatment exercise tolerance
+Q7.2	adults symptomatic chronic heart failure and anaemia any erythropoeisis-stimulating agent with or without iron supplementation placebo/no treatment quality of life
+Q7.3	adults symptomatic chronic heart failure and anaemia any erythropoeisis-stimulating agent with or without iron supplementation placebo/no treatment haemoglobin level
+Q8.1	adults chronic musculoskeletal pain interventions aimed to improve adherence to exercise or physical activity no intervention/other exercise interventions adherence to exercise program
+Q8.2	adults chronic musculoskeletal pain interventions aimed to improve adherence to exercise or physical activity no intervention/other exercise interventions quality of life
+Q21.1	adults requiring peripheral IV catheter in situ for atleast 3 days for administration of intermittent/continuous therapy clinically-indicated replacement of peripheral IV catheter routine replacement, any duration suspected catheter-related bacteraemia
+Q21.2	adults requiring peripheral IV catheter in situ for atleast 3 days for administration of intermittent/continuous therapy clinically-indicated replacement of peripheral IV catheter routine replacement, any duration thrombophlebitis
+Q21.3	adults requiring peripheral IV catheter in situ for atleast 3 days for administration of intermittent/continuous therapy clinically-indicated replacement of peripheral IV catheter routine replacement, any duration cost of materials and labour associated with IV catheter-related insertion
+Q22.1	health professionals/patients involved in clinical pathway (CPW) utilization in hospital setting standalone clinical pathway usual care length of stay
+Q22.2	health professionals/patients involved in clinical pathway (CPW) utilization in hospital setting standalone clinical pathway usual care patient satisfaction
+Q22.3	health professionals/patients involved in clinical pathway (CPW) utilization in hospital setting standalone clinical pathway usual care direct hospital costs
+Q23.1	adults exposed to traumatic event with psychological intervention within 3 months of event any psychological intervention designed to treat/reduce symptoms of traumatic stress wait list/usual care/other psychological intervention severity of PTSD symptoms (clinician administered)
+Q23.2	adults exposed to traumatic event with psychological intervention within 3 months of event any psychological intervention designed to treat/reduce symptoms of traumatic stress wait list/usual care/other psychological intervention depression
+Q23.3	adults exposed to traumatic event with psychological intervention within 3 months of event any psychological intervention designed to treat/reduce symptoms of traumatic stress wait list/usual care/other psychological intervention anxiety
+Q24.1	adults requiring peripheral arterial thrombolysis to achieve patency after a thrombo-embolic occlusion of a native peripheral artery or thrombosed lower limb graft all types of thrombolytic interventions other agents vessel patency post-lysis
+Q24.2	adults requiring peripheral arterial thrombolysis to achieve patency after a thrombo-embolic occlusion of a native peripheral artery or thrombosed lower limb graft all types of thrombolytic interventions other agents amputation
+Q24.3	adults requiring peripheral arterial thrombolysis to achieve patency after a thrombo-embolic occlusion of a native peripheral artery or thrombosed lower limb graft all types of thrombolytic interventions other agents asymptomatic limb salvage
+Q25.1	adults 18 or older primary diagnosis of depression fluvoxamine, any dose/mode/pattern of administration imipramine response, reduction of atleast 50% on Hamilton Rating Scale for Depression or Montgomery Asberg Depression Rating Scale (acute phase)
+Q25.2	adults 18 or older primary diagnosis of depression fluvoxamine, any dose/mode/pattern of administration clomipramine response, reduction of atleast 50% on Hamilton Rating Scale for Depression or Montgomery Asberg Depression Rating Scale (early phase)
+Q25.3	adults 18 or older primary diagnosis of depression fluvoxamine, any dose/mode/pattern of administration tricyclics (TCAs) remission (acute phase)
+Q26.1	adults 18 years and over any type of wound in any care setting topical applications containing silver topical applications without silver number of patients that developed wound infection
+Q26.2	adults 18 years and over any type of wound in any care setting wound dressings containing silver wound dressings without silver mean pain scores
+Q26.3	adults 18 years and over any type of wound in any care setting wound dressings containing silver wound dressings without silver number of patients that developed wound infection
+Q27.1	adults and children long term anticoagulant therapy (longer than two months) irrespective of indication for treatment self-monitoring or self-management control of dosage by personal physician/anticoagulation managed services/anticoagulation clinics thromboembolic events
+Q27.2	adults and children long term anticoagulant therapy (longer than two months) irrespective of indication for treatment self-monitoring or self-management control of dosage by personal physician/anticoagulation managed services/anticoagulation clinics mortality
+Q27.3	adults and children long term anticoagulant therapy (longer than two months) irrespective of indication for treatment self-monitoring or self-management control of dosage by personal physician/anticoagulation managed services/anticoagulation clinics major haemorrhage
+Q28.1	women pregnant any method of vaginal cleansing with any type of antiseptic solution placebo solution/standard of care (no vaginal preparation) post-cesarean endometriosis
+Q28.2	women pregnant any method of vaginal cleansing with any type of antiseptic solution placebo solution/standard of care (no vaginal preparation) postoperative fever
+Q28.3	women pregnant any method of vaginal cleansing with any type of antiseptic solution placebo solution/standard of care (no vaginal preparation) wound infection
+Q29.1	adults over 16 years old indwelling urethral, suprapubic or perineal catheter in-situ for more than 28 days catheter washouts with water/saline/antiseptic/acidic or antibiotic solutions/combination of these no washout weeks to first catheter change
+Q29.2	adults over 16 years old indwelling urethral, suprapubic or perineal catheter in-situ for more than 28 days citric acid washout saline washout number of people with symptomatic UTI
+Q29.3	adults over 16 years old indwelling urethral, suprapubic or perineal catheter in-situ for more than 28 days citric acid washout saline washout weeks to first catheter change
+Q30.1	adults clinical diagnosis of stroke simultaneous bilateral training usual care performance in activities of daily living
+Q30.2	adults clinical diagnosis of stroke simultaneous bilateral training usual care functional movement of upper limb
+Q30.3	adults clinical diagnosis of stroke simultaneous bilateral training usual care motor impairment of upper limb
+Q31.1	adults (15 years old or above) moderate to severe postoperative pain orally administered codeine placebo participants with ≥50% pain relief
+Q31.2	adults (15 years old or above) moderate to severe postoperative pain orally administered codeine placebo more than 1 adverse event
+Q31.3	adults (15 years old or above) moderate to severe postoperative pain orally administered codeine placebo participants using rescue medication
+Q32.1	adults (15 years old or above) moderate to severe intensity pain following day surgery/in-patient surgery single oral dose of diflusinal placebo participants with ≥50% pain relief
+Q32.2	adults (15 years old or above) moderate to severe intensity pain following day surgery/in-patient surgery single oral dose of diflusinal placebo participants using rescue medication
+Q32.3	adults (15 years old or above) moderate to severe intensity pain following day surgery/in-patient surgery single oral dose of diflusinal placebo atleast one adverse event
+Q33.1	adult couples subfertility where intrauterine insemination (IUI) is first treatment option hCG synchronization method for IUI LH surge synchronization method for IUI live birth rate per couple
+Q33.2	adult couples subfertility where intrauterine insemination (IUI) is first treatment option hCG synchronization method for IUI LH surge synchronization method for IUI pregnancy rate per couple
+Q33.3	adult couples subfertility where intrauterine insemination (IUI) is first treatment option u-hCG synchronization method for IUI r-hCG synchronization method for IUI multiple pregnancy rate per couple
+Q34.1	adults (18 years of age or older) cluster headache zolmitriptan placebo headache relief
+Q34.2	adults (18 years of age or older) cluster headache sumatriptan placebo headache relief
+Q34.3	adults (18 years of age or older) cluster headache zolmitriptan placebo pain-free
+Q35.1	women early pregnancies (less than 24 weeks gestation) routine/revealed ultrasound examination selective/concealed ultrasound examination detection of fetal abnormality before 24 weeks gestation
+Q35.2	women early pregnancies (less than 24 weeks gestation) routine/revealed ultrasound examination selective/concealed ultrasound examination detection of multiple pregnancy by 24-26 weeks gestation
+Q35.3	women early pregnancies (less than 24 weeks gestation) routine/revealed ultrasound examination selective/concealed ultrasound examination induction of labour for post-term pregnancy
+Q36.1	adults 18 years or more non-immunocompromised with clinical/subclinical genital warts topical 5-FU placebo cure
+Q36.2	adults 18 years or more non-immunocompromised with clinical/subclinical genital warts topical 5-FU placebo partial response/melhora
+Q36.3	adults 18 years or more non-immunocompromised with clinical/subclinical genital warts topical 5-FU placebo recurrence of lesion
+Q37.1	adults 18 years or more migraine aspirin alone placebo pain free
+Q37.2	adults 18 years or more migraine aspirin plus an antiemetic placebo pain free
+Q37.3	adults 18 years or more migraine aspirin plus metoclopramide active comparator use of rescue medication
+Q38.1	adults 18 years or older non-specific acute and subacute low back pain chiropractic intervention other intervention pain
+Q38.2	adults 18 years or older non-specific acute and subacute low back pain chiropractic intervention other intervention disability
+Q38.3	adults 18 years or older non-specific acute and subacute low back pain chiropractic intervention other intervention pain
+Q39.1	adults total hip or knee replacement prophylactic anticoagulation with direct thrombin inhibitors vitamin K antagonists/low molecular weight heparins major bleeding
+Q39.2	adults total hip or knee replacement prophylactic anticoagulation with direct thrombin inhibitors warfarin major venous thromboembolism event
+Q40.1	individuals, any age or gender primary clinical diagnosis of anorexia nervosa family therapy standard care/treatment as usual remission post intervention
+Q40.2	individuals, any age or gender primary clinical diagnosis of anorexia nervosa family therapy psychological interventions maintenance of remission at follow-up
+Q40.3	individuals, any age or gender primary clinical diagnosis of anorexia nervosa family therapy psychological interventions cognitive distortion post intervention
+Q41.1	children and adults receiving invasive mechanical ventilation in any setting heat and moisture exchangers heated humidifiers artificial airway occlusion
+Q41.2	children and adults receiving invasive mechanical ventilation in any setting heat and moisture exchangers heated humidifiers mortality
+Q41.3	children and adults receiving invasive mechanical ventilation in any setting heat and moisture exchangers heated humidifiers pneumonia
+Q42.1	infants hospitalized for acute bronchiolitis treatment with inhaled heliox placebo (oxygen or air) need for mechanical ventilation
+Q42.2	infants hospitalized for acute bronchiolitis treatment with inhaled heliox placebo (oxygen or air) rate of intubation
+Q42.3	infants hospitalized for acute bronchiolitis treatment with inhaled heliox placebo (oxygen or air) length of PICU stay
+Q43.1	women undergoing routine ultrasound during pregnancy high feedback during routine ultrasound low feedback maternal anxiety
+Q43.2	women undergoing routine ultrasound during pregnancy high feedback during routine ultrasound low feedback cessation of alcohol
+Q43.3	women undergoing routine ultrasound during pregnancy high feedback during routine ultrasound low feedback cessation of smoking
+Q44.1	children and adults living in rural/urban malarious areas indoor residual spraying with insecticides recommended by WHO at correct dosage no insecticide-based malaria intervention incidence of re-infection after treatment
+Q44.2	children and adults living in rural/urban malarious areas indoor residual spraying with insecticides recommended by WHO at correct dosage no insecticide-based malaria intervention uncomplicated clinical malaria episodes
+Q44.3	children and adults living in rural/urban malarious areas indoor residual spraying with insecticides recommended by WHO at correct dosage no insecticide-based malaria intervention all cause child mortality
+Q45.1	patients upper and/or lower full arch fixed orthodontic appliances 0.016" superelastic NiTi initial arch wires 0.016" NiTi initial arch wires alignment rate (contact point movement, in mm)
+Q45.2	patients upper and/or lower full arch fixed orthodontic appliances 0.014" superelastic NiTi initial arch wires 0.014" NiTi initial arch wires pain intensity measured by VAS
+Q45.3	patients upper and/or lower full arch fixed orthodontic appliances 0.014" superelastic NiTi initial arch wires 0.014" NiTi initial arch wires pain intensity measured by VAS
+Q46.1	adults, over 18 years of age unilateral or bilateral fractures of the mandibular condyles any form of open or close method of reduction and fixation other method of treatment status of occlusion
+Q46.2	adults, over 18 years of age unilateral or bilateral fractures of the mandibular condyles any form of open or close method of reduction and fixation other method of treatment degree of function post-operatively
+Q46.3	adults, over 18 years of age unilateral or bilateral fractures of the mandibular condyles any form of open or close method of reduction and fixation other method of treatment quality of life
+Q47.1	adults smokers and non smokers exposed to comprehensive or partial smoking bans legislative bans (comprehensive or partial) on smoking without smoking ban or no control group prevalence of tobacco use
+Q47.2	adults smokers and non smokers exposed to comprehensive or partial smoking bans legislative bans (comprehensive or partial) on smoking without smoking ban or no control group biological markers of smoke exposure in physiological fluids
+Q47.3	adults smokers and non smokers exposed to comprehensive or partial smoking bans legislative bans (comprehensive or partial) on smoking without smoking ban or no control group tobacco consumption
+Q48.1	adults 18 years or older rheumatoid arthritis methotrexate combined with other non-biologic disease modifying anti-rheumatic drugs (DMARDs) methotrexate alone American College of Rhematology (ACR) cores set response of DMARD naive
+Q48.2	adults 18 years or older rheumatoid arthritis methotrexate combined with other non-biologic disease modifying anti-rheumatic drugs (DMARDs) methotrexate alone or methotrexate plus placebo withdrawal due to lack of efficacy
+Q48.3	adults 18 years or older rheumatoid arthritis methotrexate combined with other non-biologic disease modifying anti-rheumatic drugs (DMARDs) methotrexate alone ACR response of non-MTX DMARDS inadequate response
+Q49.1	women undergoing induction of labour to terminate pregnancy in second/third trimester after intrauterine fetal death or for fetal anomalies misoprostol to induce labour placebo/no treatment vaginal birth not achieved
+Q49.2	women undergoing induction of labour to terminate pregnancy in second/third trimester after intrauterine fetal death or for fetal anomalies misoprostol to induce labour placebo/no treatment mean induction to birth interval
+Q49.3	women undergoing induction of labour to terminate pregnancy in second/third trimester after intrauterine fetal death or for fetal anomalies vaginal misoprostol to induce labour oral misoprostol analgesia required
+Q9.1	adults pain due to any cause other than cancer lasting for at least three months any opioid taken by any route in any dose for at least 6 months discontinuation due to adverse events
+Q9.2	adults pain due to any cause other than cancer lasting for at least three months any opioid taken by any route in any dose for at least 6 months discontinuation due to insufficient pain relief
+Q9.3	adults pain due to any cause other than cancer lasting for at least three months any opioid taken by any route in any dose for at least 6 months pain score
+Q10.1	Adult women endometrial cancer Pelvic lymphadenectomy no lymphadenectomy Overall survival
+Q10.2	Adult women endometrial cancer Pelvic lymphadenectomy pelvic lymph node sampling Adverse event: Lymphoedema or lymphocyst
+Q10.3	Adult women endometrial cancer Pelvic lymphadenectomy no lymphadenectomy Recurrence-free survival
+Q11.1	adult tobacco users intervention based on motivational interviewing principles brief advice/low-intensity intervention/routine care smoking cessation (longest duration and strictest definition of abstinence)
+Q11.2	adult tobacco users intervention based on motivational interviewing principles brief advice/low-intensity intervention/routine care session duration

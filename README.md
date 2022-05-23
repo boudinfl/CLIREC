@@ -106,6 +106,20 @@ sh anserini/target/appassembler/bin/SearchCollection \
 	-topicreader TsvString \
 	-output exp/clirec.queries.keywords.bm25+rm3.out \
 	-bm25 -rm3 -hits 1000 -fields contents=1.0 title=1.0
+	
+sh anserini/target/appassembler/bin/SearchCollection \
+	-index exp/lucene-index.clirec/ \
+	-topics clirec.queries.pico.tsv \
+	-topicreader TsvString \
+	-output exp/clirec.queries.pico.bm25.out \
+	-bm25 -hits 1000 -fields contents=1.0 title=1.0
+
+sh anserini/target/appassembler/bin/SearchCollection \
+	-index exp/lucene-index.clirec/ \
+	-topics clirec.queries.pico.tsv \
+	-topicreader TsvString \
+	-output exp/clirec.queries.pico.bm25+rm3.out \
+	-bm25 -rm3 -hits 1000 -fields contents=1.0 title=1.0
 ```
 
 ### Evaluating the retrieval effectiveness
@@ -115,15 +129,27 @@ anserini/tools/eval/trec_eval.9.0.4/trec_eval -m official \
  	clirec.qrels exp/clirec.queries.keywords.bm25.out
 anserini/tools/eval/trec_eval.9.0.4/trec_eval -m official \
  	clirec.qrels exp/clirec.queries.keywords.bm25+rm3.out
+anserini/tools/eval/trec_eval.9.0.4/trec_eval -m official \
+ 	clirec.qrels exp/clirec.queries.pico.bm25.out
+anserini/tools/eval/trec_eval.9.0.4/trec_eval -m official \
+ 	clirec.qrels exp/clirec.queries.pico.bm25+rm3.out
 ```
 
-### Results
+### Baseline results
+
+#### Keywords queries
 
 | Model     | mAP   | P@5   | P@10  | num_rel_ret |
 |-----------|-------|-------|-------|-------|
-| BM25      | 12.00 | 16.13 | 13.61 | 15.12 |
-| BM25+RM3  | 13.14 | 17.03 | 14.32 | 16.04 |
+| BM25      | 12.00 | 16.13 | 13.61 | 1512 |
+| BM25+RM3  | 13.14 | 17.03 | 14.32 | 1604 |
 
+#### PICO queries (without using any specific weighting)
+
+| Model     | mAP   | P@5   | P@10  | num_rel_ret |
+|-----------|-------|-------|-------|-------|
+| BM25      | 14.64 | 21.65 | 17.64 | 5651 |
+| BM25+RM3  | 13.97 | 19.10 | 15.79 | 6174 |
 
 ## Release history
 
